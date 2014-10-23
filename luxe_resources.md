@@ -10,3 +10,7 @@
 
 ### Libraries
 * [josuigoa / Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
+
+
+## Websites
+* [snowkit.org](http://snowkit.org): Official hub for all things snowkit (e.g. flow, snow, luxe)
