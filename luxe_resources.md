@@ -4,9 +4,10 @@
 ## Open Source Projects
 
 ### Games/Examples
-* [Dvergar / BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell gollaboratory game for Reddits BaconJam. 
+* [Dvergar / BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
 * [Eiyeron / SQUARE](https://github.com/Eiyeron/-SQUARE-): Complete, but minimalistic, game.
 * [Rostiger / Luxe Projects](https://github.com/Rostiger/Luxe_Projects): Different tests projects.
+* [](https://github.com/NicoM1/Collab) Shmup-like game collaboration between [NicoM1](https://github.com/NicoM1) and [Eiyeron](https://github.com/Eiyeron).
 
 ### Libraries
 * [josuigoa / Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
