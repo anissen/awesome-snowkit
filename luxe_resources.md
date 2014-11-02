@@ -18,4 +18,7 @@
 
 
 ## Websites
-* [snowkit.org](http://snowkit.org): Official hub for all things snowkit (e.g. flow, snow, luxe)
+* [snowkit.org](http://snowkit.org): Official hub for all things snowkit (e.g. flõw, snõw, luxe)
+  * [flõw website](http://underscorediscovery.github.io/flow/)
+  * [snõw website](http://underscorediscovery.github.io/flow/)
+  * [luxe website](http://luxeengine.com/)
