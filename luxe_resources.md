@@ -7,7 +7,8 @@
 * [Dvergar / BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
 * [Eiyeron / SQUARE](https://github.com/Eiyeron/-SQUARE-): Complete, but minimalistic, game.
 * [Rostiger / Luxe Projects](https://github.com/Rostiger/Luxe_Projects): Different tests projects.
-* [NicoM1 / Collab](https://github.com/NicoM1/Collab) Shmup-like game collaboration between [NicoM1](https://github.com/NicoM1) and [Eiyeron](https://github.com/Eiyeron).
+* [NicoM1 / Collab](https://github.com/NicoM1/Collab): Shmup-like game collaboration between [NicoM1](https://github.com/NicoM1) and [Eiyeron](https://github.com/Eiyeron).
+* [jonathanhirz / starFieldLuxe](https://github.com/jonathanhirz/starFieldLuxe): Star field experiment.
 
 ### Libraries
 * [josuigoa / Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
