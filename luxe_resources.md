@@ -22,3 +22,7 @@
   * [flõw website](http://underscorediscovery.github.io/flow/)
   * [snõw website](http://underscorediscovery.github.io/snow/)
   * [luxe website](http://luxeengine.com/)
+
+## Twitter
+* [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
+* [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
