@@ -23,6 +23,10 @@
   * [snõw website](http://underscorediscovery.github.io/snow/)
   * [luxe website](http://luxeengine.com/)
 
+## Forums
+* [snõwkit slack chat](https://underscorediscovery.slack.com/) (membership required)
+* [snõwkit gitter chat](https://gitter.im/snowkit/public) (public)
+
 ## Twitter
 * [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
 * [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
