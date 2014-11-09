@@ -15,7 +15,7 @@
 
 ### Snippets
 * [PlyImporter.hx](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
-
+* [InputMacro](https://github.com/NicoM1/InputMacro): Simple, remappable, macro-based input handling
 
 ## Websites
 * [snowkit.org](http://snowkit.org): Official hub for all things snowkit (e.g. flõw, snõw, luxe)
