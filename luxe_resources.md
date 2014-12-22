@@ -30,5 +30,6 @@
 * [snõwkit gitter chat](https://gitter.im/snowkit/public) (public)
 
 ## Twitter
+* [@snowkitorg](https://twitter.com/snowkitorg): Official Snõwkit twitter account
 * [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
 * [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
