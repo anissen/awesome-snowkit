@@ -21,6 +21,9 @@
 ### Libraries
 * [josuigoa / Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
 
+### Components
+* [AbelToy / Gradient.hx](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
+
 ### Snippets
 * [PlyImporter.hx](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
 * [InputMacro](https://github.com/NicoM1/InputMacro): Simple, remappable, macro-based input handling
