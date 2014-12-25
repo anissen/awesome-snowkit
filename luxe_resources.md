@@ -11,6 +11,7 @@
 * [jonathanhirz / starFieldLuxe](https://github.com/jonathanhirz/starFieldLuxe): Star field experiment.
 * [JosePedroDias / snowkitTests](https://github.com/JosePedroDias/snowkitTests): Endeavors with snowkit.
 * [chronosyndrome / liquid-luxe](https://github.com/chronosyndrome/liquid-luxe): 2D liquid simulation using snowkit and Luxe.
+* [NicoM1 / Orbitantlers-Collab](https://github.com/NicoM1/Orbitantlers-Collab): Platformer game collaboration between [NicoM1](https://github.com/NicoM1) and [Orbitantlers](https://github.com/Absurditure).
 
 ### Ludum Dare 31
 * [anissen / Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [source (github)](https://github.com/anissen/ld31)
