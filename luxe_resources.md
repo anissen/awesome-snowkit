@@ -13,6 +13,7 @@
 * [chronosyndrome / liquid-luxe](https://github.com/chronosyndrome/liquid-luxe): 2D liquid simulation using snowkit and Luxe.
 * [NicoM1 / Orbitantlers-Collab](https://github.com/NicoM1/Orbitantlers-Collab): Platformer game collaboration between [NicoM1](https://github.com/NicoM1) and [Orbitantlers](https://github.com/Absurditure).
 * [desttinghim / luxeout](https://github.com/desttinghim/luxeout): Simple breakout clone.
+* [anissen / spellhive](https://github.com/anissen/spellhive): Simple word game on a hexagonal grid.
 
 ### Ludum Dare 31
 * [anissen / Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [source (github)](https://github.com/anissen/ld31)
