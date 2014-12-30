@@ -16,10 +16,10 @@
 * [anissen / spellhive](https://github.com/anissen/spellhive): Simple word game on a hexagonal grid.
 
 ### Ludum Dare 31
-* [anissen / Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [source (github)](https://github.com/anissen/ld31)
-* [jovoc / Leviathan](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=34): Leviathan is a card-battling tower defensey thing [source (google code)](https://code.google.com/p/ld48jovoc/source/browse/#svn%2Fld31_onescreen%2Fsrc)
-* [joekinley / Scarecrow](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012): Scare away crows [source (zip)](http://www.elcoino.de/LD31src.zip)
-* [Carduus / LiliLight](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279): Lili is stuck in her Nightmare, help her to chase her Demons in order to wake up!  (no source)
+* [anissen / Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [[source (github)](https://github.com/anissen/ld31)].
+* [jovoc / Leviathan](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=34): Leviathan is a card-battling tower defensey thing [[source (google code)](https://code.google.com/p/ld48jovoc/source/browse/#svn%2Fld31_onescreen%2Fsrc)].
+* [joekinley / Scarecrow](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012): Scare away crows [[source (zip)](http://www.elcoino.de/LD31src.zip)].
+* [Carduus / LiliLight](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279): Lili is stuck in her Nightmare, help her to chase her Demons in order to wake up! [(no source)].
 
 ### Libraries
 * [josuigoa / Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
