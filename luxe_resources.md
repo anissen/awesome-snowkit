@@ -51,5 +51,5 @@
 ## People
 * Sven Bergström: Creator of snõwkit, flõw, snõw and luxe.
  * Twitter: @__underscorediscovery
--->
  * GitHub: @__underscorediscovery
+ -->
