@@ -14,6 +14,7 @@
 * [NicoM1 / Orbitantlers-Collab](https://github.com/NicoM1/Orbitantlers-Collab): Platformer game collaboration between [NicoM1](https://github.com/NicoM1) and [Orbitantlers](https://github.com/Absurditure).
 * [desttinghim / luxeout](https://github.com/desttinghim/luxeout): Simple breakout clone.
 * [anissen / spellhive](https://github.com/anissen/spellhive): Simple word game on a hexagonal grid.
+* [desttinghim / tankoffense](https://github.com/desttinghim/tankoffense): A simple 3 lane strategy game made in Luxe.
 
 ### Ludum Dare 31
 * [anissen / Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [[source (github)](https://github.com/anissen/ld31)].
@@ -45,3 +46,10 @@
 * [@snowkitorg](https://twitter.com/snowkitorg): Official Snõwkit twitter account
 * [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
 * [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
+
+<!--
+## People
+* Sven Bergström: Creator of snõwkit, flõw, snõw and luxe.
+ * Twitter: @__underscorediscovery
+-->
+ * GitHub: @__underscorediscovery
