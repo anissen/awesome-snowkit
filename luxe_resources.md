@@ -28,6 +28,7 @@
 ### Components
 * [AbelToy / Gradient.hx](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
 * [underscorediscovery / Example.hx](https://gist.github.com/underscorediscovery/2c53d1d0bf9b9732c38b): Basic hover alpha button component.
+* [underscorediscovery / CameraDrag.hx](https://gist.github.com/underscorediscovery/2cd52a89470421c51301): Simple camera drag + zoom script.
 
 ### Snippets
 * [PlyImporter.hx](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
