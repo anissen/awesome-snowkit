@@ -16,6 +16,7 @@
 * [anissen / spellhive](https://github.com/anissen/spellhive): Simple word game on a hexagonal grid.
 * [desttinghim / tankoffense](https://github.com/desttinghim/tankoffense): A simple 3 lane strategy game made in Luxe.
 * [Zielak / 1Dodger](https://github.com/Zielak/1Dodger): One Game a Week: #1, Dodger ([blog post](http://zielak.pl/1gaw-1-dodger))
+* [Zielak / 2MemoryPuzzle](https://github.com/Zielak/2MemoryPuzzle): One Game a Week: #2, Memory Puzzle ([blog post](http://zielak.pl/1gaw-2-memory-puzzle))
 
 ### Ludum Dare 31
 * [anissen / Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [[source (github)](https://github.com/anissen/ld31)].
