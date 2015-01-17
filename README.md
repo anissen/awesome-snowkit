@@ -1,9 +1,9 @@
 
-# Awesome snõwkit
+# Awesome _snõwkit_
 
 A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
-## Websites
+### Websites
 * [snowkit.org](http://snowkit.org): Official hub for all things snowkit (e.g. flõw, snõw, luxe)
   * [flõw website](http://underscorediscovery.github.io/flow/)
   * [snõw website](http://underscorediscovery.github.io/snow/)
@@ -13,11 +13,11 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
     * [Guides](http://luxeengine.com/docs/guide.html)
     * [API docs](http://luxeengine.com/docs/api/index.html)
 
-## Forums
+### Forums
 <!-- * [snõwkit slack chat](https://underscorediscovery.slack.com/) (membership required) -->
 * [snõwkit gitter chat](https://gitter.im/snowkit/public) (public)
 
-## Twitter
+### Twitter
 * [@snowkitorg](https://twitter.com/snowkitorg): Official Snõwkit twitter account
 * [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
 * [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
@@ -29,13 +29,13 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
  * GitHub: @__underscorediscovery
  -->
 
-# flõw resources
+# _flõw_ resources
 
-# snõw resources
+# _snõw_ resources
 
-# luxe resources
+# _luxe_ resources
 
-## Open Source Projects
+<!-- ## Open Source Projects -->
 
 ### Games/Examples
 * [Dvergar / BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
