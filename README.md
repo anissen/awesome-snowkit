@@ -1,5 +1,39 @@
-# Luxe resources
 
+# Awesome snõwkit
+
+A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
+
+## Websites
+* [snowkit.org](http://snowkit.org): Official hub for all things snowkit (e.g. flõw, snõw, luxe)
+  * [flõw website](http://underscorediscovery.github.io/flow/)
+  * [snõw website](http://underscorediscovery.github.io/snow/)
+    * [API docs](http://underscorediscovery.github.io/snow/api/index.html)
+  * [luxe website](http://luxeengine.com/)
+    * [Setup guide](http://luxeengine.com/docs/setup.html)
+    * [Guides](http://luxeengine.com/docs/guide.html)
+    * [API docs](http://luxeengine.com/docs/api/index.html)
+
+## Forums
+<!-- * [snõwkit slack chat](https://underscorediscovery.slack.com/) (membership required) -->
+* [snõwkit gitter chat](https://gitter.im/snowkit/public) (public)
+
+## Twitter
+* [@snowkitorg](https://twitter.com/snowkitorg): Official Snõwkit twitter account
+* [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
+* [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
+
+<!--
+## People
+* Sven Bergström: Creator of snõwkit, flõw, snõw and luxe.
+ * Twitter: @__underscorediscovery
+ * GitHub: @__underscorediscovery
+ -->
+
+# flõw resources
+
+# snõw resources
+
+# luxe resources
 
 ## Open Source Projects
 
@@ -35,29 +69,3 @@
 ### Snippets
 * [PlyImporter.hx](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
 * [InputMacro](https://github.com/NicoM1/InputMacro): Simple, remappable, macro-based input handling
-
-## Websites
-* [snowkit.org](http://snowkit.org): Official hub for all things snowkit (e.g. flõw, snõw, luxe)
-  * [flõw website](http://underscorediscovery.github.io/flow/)
-  * [snõw website](http://underscorediscovery.github.io/snow/)
-    * [API docs](http://underscorediscovery.github.io/snow/api/index.html)
-  * [luxe website](http://luxeengine.com/)
-    * [Setup guide](http://luxeengine.com/docs/setup.html)
-    * [Guides](http://luxeengine.com/docs/guide.html)
-    * [API docs](http://luxeengine.com/docs/api/index.html)
-
-## Forums
-<!-- * [snõwkit slack chat](https://underscorediscovery.slack.com/) (membership required) -->
-* [snõwkit gitter chat](https://gitter.im/snowkit/public) (public)
-
-## Twitter
-* [@snowkitorg](https://twitter.com/snowkitorg): Official Snõwkit twitter account
-* [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
-* [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
-
-<!--
-## People
-* Sven Bergström: Creator of snõwkit, flõw, snõw and luxe.
- * Twitter: @__underscorediscovery
- * GitHub: @__underscorediscovery
- -->
