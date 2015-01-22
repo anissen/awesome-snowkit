@@ -26,7 +26,20 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ## People
 * Sven Bergström: Creator of snõwkit, flõw, snõw and luxe.
  * Twitter: @__underscorediscovery
- * GitHub: @__underscorediscovery
+ * Github: @__underscorediscovery
+ 
+* Nico M.: ???
+ * Twitter: https://twitter.com/nico_m__
+ * GithHub: ???
+
+* Tilman Schmidt: ???
+ * Twitter: https://twitter.com/KeyMaster_
+ * Github: ???
+ 
+* Jonathan Hirz: ???
+ * Twitter: https://twitter.com/jonathanhirz
+ * Github: ???
+ * Blog: ???
  -->
 
 # _flõw_ resources
