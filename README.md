@@ -69,3 +69,6 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Snippets
 * [PlyImporter.hx](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
 * [InputMacro](https://github.com/NicoM1/InputMacro): Simple, remappable, macro-based input handling
+
+### Utilities
+* [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
