@@ -31,9 +31,25 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 # _flõw_ resources
 
+### Websites
+* [flõw website](http://underscorediscovery.github.io/flow/)
+* [flõw github](https://github.com/underscorediscovery/flow)
+
 # _snõw_ resources
 
+### Websites
+* [snõw website](http://underscorediscovery.github.io/snow/)
+  * [API docs](http://underscorediscovery.github.io/snow/api/index.html)
+* [snõw github](https://github.com/underscorediscovery/snow)
+
 # _luxe_ resources
+
+### Websites
+* [luxe website](http://luxeengine.com/)
+  * [Setup guide](http://luxeengine.com/docs/setup.html)
+  * [Guides](http://luxeengine.com/docs/guide.html)
+  * [API docs](http://luxeengine.com/docs/api/index.html)
+* [luxe github](https://github.com/underscorediscovery/luxe)
 
 <!-- ## Open Source Projects -->
 
