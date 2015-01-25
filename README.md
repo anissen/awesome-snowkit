@@ -1,6 +1,8 @@
 
 # Awesome _snõwkit_
 
+<img align="right" src="http://snowkit.org/content/images/2014/Sep/snowkit.png">
+
 A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 ### Websites
@@ -42,20 +44,29 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
  * Blog: ???
  -->
 
+
 # _flõw_ resources
+
+<img align="right" src="http://snowkit.org/content/images/2014/Sep/flow.png">
 
 ### Websites
 * [flõw website](http://underscorediscovery.github.io/flow/)
 * [flõw github](https://github.com/underscorediscovery/flow)
 
+
 # _snõw_ resources
+
+<img align="right" src="http://snowkit.org/content/images/2014/Sep/snow.png">
 
 ### Websites
 * [snõw website](http://underscorediscovery.github.io/snow/)
   * [API docs](http://underscorediscovery.github.io/snow/api/index.html)
 * [snõw github](https://github.com/underscorediscovery/snow)
 
+
 # _luxe_ resources
+
+<img align="right" src="http://snowkit.org/content/images/2014/Sep/luxe.png">
 
 ### Websites
 * [luxe website](http://luxeengine.com/)
@@ -101,3 +112,23 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 ### Utilities
 * [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
+
+
+# _hxsw_ resources
+
+<img src="http://snowkit.org/content/images/2014/11/hxsw.png">
+
+
+# _mínt_ resources
+
+<img src="http://snowkit.org/content/images/2015/01/mint-1.png">
+
+
+# _scrìbe_ resources
+
+<img src="http://snowkit.org/content/images/2014/Sep/scribe.png">
+
+
+# _deviše_ resources
+
+<img src="http://snowkit.org/content/images/2014/Sep/devise.png">
