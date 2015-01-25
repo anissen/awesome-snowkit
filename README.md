@@ -59,7 +59,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 ### Projects
 * [horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and Snow.
-* 
+
 
 # _luxe_ resources
 
@@ -90,7 +90,12 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Zielak / 2MemoryPuzzle](https://github.com/Zielak/2MemoryPuzzle): One Game a Week: #2, Memory Puzzle ([blog post](http://zielak.pl/1gaw-2-memory-puzzle))
 
 ### Ludum Dare 31
-* [anissen / Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [[source (github)](https://github.com/anissen/ld31)].
+<a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/30512-shot0.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=34"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/34-shot0.jpg-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/3012-shot0.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/7279-shot2.png-crop-180-140.jpg"></a>
+
+* [anissen / Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [[source (github)](https://github.com/anissen/ld31)]. 
 * [jovoc / Leviathan](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=34): Leviathan is a card-battling tower defensey thing [[source (google code)](https://code.google.com/p/ld48jovoc/source/browse/#svn%2Fld31_onescreen%2Fsrc)].
 * [joekinley / Scarecrow](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012): Scare away crows [[source (zip)](http://www.elcoino.de/LD31src.zip)].
 * [Carduus / LiliLight](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279): Lili is stuck in her Nightmare, help her to chase her Demons in order to wake up! [(no source)].
