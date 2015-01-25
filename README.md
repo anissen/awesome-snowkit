@@ -6,14 +6,8 @@
 A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 ### Websites
-* [snowkit.org](http://snowkit.org): Official hub for all things snowkit (e.g. flõw, snõw, luxe)
-  * [flõw website](http://underscorediscovery.github.io/flow/)
-  * [snõw website](http://underscorediscovery.github.io/snow/)
-    * [API docs](http://underscorediscovery.github.io/snow/api/index.html)
-  * [luxe website](http://luxeengine.com/)
-    * [Setup guide](http://luxeengine.com/docs/setup.html)
-    * [Guides](http://luxeengine.com/docs/guide.html)
-    * [API docs](http://luxeengine.com/docs/api/index.html)
+* [snowkit.org](http://snowkit.org): Official hub for all things snowkit (flõw, snõw, luxe, etc.)
+* [snowkit.org/libs](http://snowkit.org/libs/): Officiel snowkit libraries
 
 ### Forums
 <!-- * [snõwkit slack chat](https://underscorediscovery.slack.com/) (membership required) -->
