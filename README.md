@@ -63,6 +63,9 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
   * [API docs](http://underscorediscovery.github.io/snow/api/index.html)
 * [snõw github](https://github.com/underscorediscovery/snow)
 
+### Projects
+* [horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and Snow.
+* 
 
 # _luxe_ resources
 
