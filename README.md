@@ -89,6 +89,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Zielak / 1Dodger](https://github.com/Zielak/1Dodger): One Game a Week: #1, Dodger ([blog post](http://zielak.pl/1gaw-1-dodger))
 * [Zielak / 2MemoryPuzzle](https://github.com/Zielak/2MemoryPuzzle): One Game a Week: #2, Memory Puzzle ([blog post](http://zielak.pl/1gaw-2-memory-puzzle))
 * [Zielak / 4Simon](https://github.com/Zielak/4Simon): One Game a Week: #4, Simon Says ([blog post](http://zielak.pl/1gaw-4-simon-says))
+* [desttinghim / ruins-game](https://github.com/desttinghim/ruins-game): Exploration and puzzle focused platformer
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
@@ -117,7 +118,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 ### Utilities
 * [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
-
+* [Zielak / pixel-sprite-generator-luxe](https://github.com/Zielak/pixel-sprite-generator-luxe): Pixel Sprite Generator prepared for Luxe engine
 
 # _hxsw_ resources
 
