@@ -1,5 +1,5 @@
 
-# Awesome _snõwkit_
+# Awesome snõwkit
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/snowkit.png">
 
@@ -132,9 +132,9 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 <img src="http://snowkit.org/content/images/2015/01/mint-1.png">
 
-### dev logs
+### Development logs
 
-* dev update 1 ["mint details part 1"](http://snowkit.org/2015/01/25/mint-details-part-1/)
+* Development update 1, ["Mint Details Part 1"](http://snowkit.org/2015/01/25/mint-details-part-1/)
 
 
 # scrìbe resources
