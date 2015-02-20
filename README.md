@@ -39,7 +39,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
  -->
 
 
-# _flõw_ resources
+# flõw resources
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/flow.png">
 
@@ -48,7 +48,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [flõw github](https://github.com/underscorediscovery/flow)
 
 
-# _snõw_ resources
+# snõw resources
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/snow.png">
 
@@ -61,7 +61,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and Snow.
 
 
-# _luxe_ resources
+# luxe resources
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/luxe.png">
 
@@ -123,21 +123,25 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [DjPale / IsometricEdit](https://github.com/DjPale/IsometricEdit): Simple graphical tile editor for isometric spritesheets
 * [restorer / zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle emitter for OpenFL compatible with Particle Designer (support for snõw/luxe planned)
 
-# _hxsw_ resources
+# hxsw resources
 
 <img src="http://snowkit.org/content/images/2014/11/hxsw.png">
 
 
-# _mínt_ resources
+# mínt resources
 
 <img src="http://snowkit.org/content/images/2015/01/mint-1.png">
 
+### dev logs
 
-# _scrìbe_ resources
+* dev update 1 ["mint details part 1"](http://snowkit.org/2015/01/25/mint-details-part-1/)
+
+
+# scrìbe resources
 
 <img src="http://snowkit.org/content/images/2014/Sep/scribe.png">
 
 
-# _deviše_ resources
+# deviše resources
 
 <img src="http://snowkit.org/content/images/2014/Sep/devise.png">
