@@ -45,7 +45,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 ### Websites
 * [flõw website](http://underscorediscovery.github.io/flow/)
-* [flõw github](https://github.com/underscorediscovery/flow)
+* [flõw on GitHub](https://github.com/underscorediscovery/flow)
 
 
 # snõw resources
@@ -55,7 +55,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Websites
 * [snõw website](http://underscorediscovery.github.io/snow/)
   * [API docs](http://underscorediscovery.github.io/snow/api/index.html)
-* [snõw github](https://github.com/underscorediscovery/snow)
+* [snõw on GitHub](https://github.com/underscorediscovery/snow)
 
 ### Projects
 * [horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and Snow.
@@ -70,7 +70,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
   * [Setup guide](http://luxeengine.com/docs/setup.html)
   * [Guides](http://luxeengine.com/docs/guide.html)
   * [API docs](http://luxeengine.com/docs/api/index.html)
-* [luxe github](https://github.com/underscorediscovery/luxe)
+* [luxe on GitHub](https://github.com/underscorediscovery/luxe)
 
 <!-- ## Open Source Projects -->
 
@@ -125,12 +125,15 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 # hxsw resources
 
-<img src="http://snowkit.org/content/images/2014/11/hxsw.png">
+<img align="right" src="http://snowkit.org/content/images/2014/11/hxsw.png">
+
+### Websites
+* [hxsw on GitHub](https://github.com/underscorediscovery/hxsw)
 
 
 # mínt resources
 
-<img src="http://snowkit.org/content/images/2015/01/mint-1.png">
+<img align="right" src="http://snowkit.org/content/images/2015/01/mint-1.png">
 
 ### Development logs
 
@@ -139,9 +142,12 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 # scrìbe resources
 
-<img src="http://snowkit.org/content/images/2014/Sep/scribe.png">
+<img align="right" src="http://snowkit.org/content/images/2014/Sep/scribe.png">
+
+### Websites
+* [scríbe on GitHub](https://github.com/underscorediscovery/hxsw)
 
 
 # deviše resources
 
-<img src="http://snowkit.org/content/images/2014/Sep/devise.png">
+<img align="right" src="http://snowkit.org/content/images/2014/Sep/devise.png">
