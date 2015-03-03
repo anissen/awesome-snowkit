@@ -121,7 +121,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Dvergar / PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
 * [Zielak / Pixel Sprite Generator](https://github.com/Zielak/pixel-sprite-generator-luxe): Pixel Sprite Generator prepared for Luxe engine
 * [DjPale / IsometricEdit](https://github.com/DjPale/IsometricEdit): Simple graphical tile editor for isometric spritesheets
-* [restorer / zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle emitter for OpenFL compatible with Particle Designer (support for snõw/luxe planned)
+* [restorer / zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle system for OpenFL and Luxe. Compatible with Particle Designer.
 
 # hxsw resources
 
