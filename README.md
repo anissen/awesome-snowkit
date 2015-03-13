@@ -146,7 +146,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/scribe.png">
 
 ### Websites
-* [scríbe on GitHub](https://github.com/underscorediscovery/hxsw)
+* [scríbe on GitHub](https://github.com/underscorediscovery/scribe)
 
 
 # deviše resources
