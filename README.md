@@ -8,6 +8,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Websites
 * [snowkit.org](http://snowkit.org): Official hub for all things snowkit (flõw, snõw, luxe, etc.)
 * [snowkit.org/libs](http://snowkit.org/libs/): Officiel snowkit libraries
+* [snowkit on GitHub](https://www.github.com/snowkit)
 
 ### Forums
 <!-- * [snõwkit slack chat](https://underscorediscovery.slack.com/) (membership required) -->
@@ -58,7 +59,8 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [snõw on GitHub](https://github.com/underscorediscovery/snow)
 
 ### Projects
-* [horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and Snow.
+* [eliasku / horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and snow.
+* [vujadin / BabylonHx_Snow](https://github.com/vujadin/BabylonHx_Snow): A direct port of Babylon.js 3D engine to snow.
 
 
 # luxe resources
