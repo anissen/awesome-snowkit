@@ -48,6 +48,11 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [flõw website](http://underscorediscovery.github.io/flow/)
 * [flõw on GitHub](https://github.com/underscorediscovery/flow)
 
+### Editor Integrations
+* [Sublime Text 3](http://underscorediscovery.github.io/flow/guide/sublimetext.html)
+* [FlashDevelop](http://underscorediscovery.github.io/flow/guide/flashdevelop.html)
+* [Atom](https://github.com/snowkit/atom-flow)
+
 
 # snõw resources
 
