@@ -114,6 +114,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 ### Libraries
 * [josuigoa / Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
+* [Dvergar / rainbow](https://github.com/Dvergar/rainbow): Text coloring/sizing per character.
 
 ### Components
 * [AbelToy / Gradient.hx](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
