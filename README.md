@@ -131,6 +131,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Zielak / Pixel Sprite Generator](https://github.com/Zielak/pixel-sprite-generator-luxe): Pixel Sprite Generator prepared for Luxe engine
 * [DjPale / IsometricEdit](https://github.com/DjPale/IsometricEdit): Simple graphical tile editor for isometric spritesheets
 * [restorer / zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle system for OpenFL and Luxe. Compatible with Particle Designer.
+* [hxDaedalus / hxDaedalus](https://github.com/hxDaedalus/hxDaedalus): 2D environment modeling and pathfinding.
 
 # hxsw resources
 
