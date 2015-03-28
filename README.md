@@ -37,6 +37,8 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
  * Twitter: https://twitter.com/jonathanhirz
  * Github: ???
  * Blog: ???
+ 
+ Dvergar, Zielak, DJPale, Absurditure, anissen
  -->
 
 
@@ -64,8 +66,8 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [snõw on GitHub](https://github.com/underscorediscovery/snow)
 
 ### Projects
-* [eliasku / horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and snow.
-* [vujadin / BabylonHx_Snow](https://github.com/vujadin/BabylonHx_Snow): A direct port of Babylon.js 3D engine to snow.
+* [horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and snow.
+* [BabylonHx](https://github.com/vujadin/BabylonHx): A direct port of Babylon.js 3D engine to snow.
 
 
 # luxe resources
@@ -82,22 +84,22 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <!-- ## Open Source Projects -->
 
 ### Games/Examples
-* [Dvergar / BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
-* [Eiyeron / SQUARE](https://github.com/Eiyeron/-SQUARE-): Complete, but minimalistic, game.
-* [Rostiger / Luxe Projects](https://github.com/Rostiger/Luxe_Projects): Different tests projects.
-* [NicoM1 / Collab](https://github.com/NicoM1/Collab): Shmup-like game collaboration between [NicoM1](https://github.com/NicoM1) and [Eiyeron](https://github.com/Eiyeron).
-* [jonathanhirz / starFieldLuxe](https://github.com/jonathanhirz/starFieldLuxe): Star field experiment.
-* [JosePedroDias / snowkitTests](https://github.com/JosePedroDias/snowkitTests): Endeavors with snowkit.
-* [chronosyndrome / liquid-luxe](https://github.com/chronosyndrome/liquid-luxe): 2D liquid simulation using snowkit and Luxe.
-* [NicoM1 / Orbitantlers-Collab](https://github.com/NicoM1/Orbitantlers-Collab): Platformer game collaboration between [NicoM1](https://github.com/NicoM1) and [Orbitantlers](https://github.com/Absurditure).
-* [desttinghim / luxeout](https://github.com/desttinghim/luxeout): Simple breakout clone.
-* [anissen / spellhive](https://github.com/anissen/spellhive): Simple word game on a hexagonal grid.
-* [desttinghim / tankoffense](https://github.com/desttinghim/tankoffense): A simple 3 lane strategy game made in Luxe.
-* [Zielak / 1Dodger](https://github.com/Zielak/1Dodger): One Game a Week: #1, Dodger ([blog post](http://zielak.pl/1gaw-1-dodger))
-* [Zielak / 2MemoryPuzzle](https://github.com/Zielak/2MemoryPuzzle): One Game a Week: #2, Memory Puzzle ([blog post](http://zielak.pl/1gaw-2-memory-puzzle))
-* [Zielak / 4Simon](https://github.com/Zielak/4Simon): One Game a Week: #4, Simon Says ([blog post](http://zielak.pl/1gaw-4-simon-says))
-* [Zielak / 5Snake](https://github.com/Zielak/5Snake): One Game a Week: #5, Snake
-* [desttinghim / ruins-game](https://github.com/desttinghim/ruins-game): Exploration and puzzle focused platformer
+* [BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
+* [SQUARE](https://github.com/Eiyeron/-SQUARE-): Complete, but minimalistic, game.
+* [Luxe Projects](https://github.com/Rostiger/Luxe_Projects): Different tests projects.
+* [Collab](https://github.com/NicoM1/Collab): Shmup-like game collaboration between [NicoM1](https://github.com/NicoM1) and [Eiyeron](https://github.com/Eiyeron).
+* [starFieldLuxe](https://github.com/jonathanhirz/starFieldLuxe): Star field experiment.
+* [snowkitTests](https://github.com/JosePedroDias/snowkitTests): Endeavors with snowkit.
+* [liquid-luxe](https://github.com/chronosyndrome/liquid-luxe): 2D liquid simulation using snowkit and Luxe.
+* [Orbitantlers-Collab](https://github.com/NicoM1/Orbitantlers-Collab): Platformer game collaboration between [NicoM1](https://github.com/NicoM1) and [Orbitantlers](https://github.com/Absurditure).
+* [luxeout](https://github.com/desttinghim/luxeout): Simple breakout clone.
+* [spellhive](https://github.com/anissen/spellhive): Simple word game on a hexagonal grid.
+* [tankoffense](https://github.com/desttinghim/tankoffense): A simple 3 lane strategy game made in Luxe.
+* [1Dodger](https://github.com/Zielak/1Dodger): One Game a Week: #1, Dodger ([blog post](http://zielak.pl/1gaw-1-dodger))
+* [2MemoryPuzzle](https://github.com/Zielak/2MemoryPuzzle): One Game a Week: #2, Memory Puzzle ([blog post](http://zielak.pl/1gaw-2-memory-puzzle))
+* [4Simon](https://github.com/Zielak/4Simon): One Game a Week: #4, Simon Says ([blog post](http://zielak.pl/1gaw-4-simon-says))
+* [5Snake](https://github.com/Zielak/5Snake): One Game a Week: #5, Snake
+* [ruins-game](https://github.com/desttinghim/ruins-game): Exploration and puzzle focused platformer
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
@@ -107,20 +109,20 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/3012-shot0.png-crop-180-140.jpg"></a>
 <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/7279-shot2.png-crop-180-140.jpg"></a>
 
-* [anissen / Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [[source (github)](https://github.com/anissen/ld31)]. 
-* [jovoc / Leviathan](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=34): Leviathan is a card-battling tower defensey thing [[source (google code)](https://code.google.com/p/ld48jovoc/source/browse/#svn%2Fld31_onescreen%2Fsrc)].
-* [joekinley / Scarecrow](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012): Scare away crows [[source (zip)](http://www.elcoino.de/LD31src.zip)].
-* [Carduus / LiliLight](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279): Lili is stuck in her Nightmare, help her to chase her Demons in order to wake up! [(no source)].
+* [Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [[source (github)](https://github.com/anissen/ld31)]. 
+* [Leviathan](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=34): Leviathan is a card-battling tower defensey thing [[source (google code)](https://code.google.com/p/ld48jovoc/source/browse/#svn%2Fld31_onescreen%2Fsrc)].
+* [Scarecrow](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012): Scare away crows [[source (zip)](http://www.elcoino.de/LD31src.zip)].
+* [LiliLight](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279): Lili is stuck in her Nightmare, help her to chase her Demons in order to wake up! [(no source)].
 
 ### Libraries
-* [josuigoa / Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
-* [Dvergar / rainbow](https://github.com/Dvergar/rainbow): Text coloring/sizing per character.
+* [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
+* [rainbow](https://github.com/Dvergar/rainbow): Text coloring/sizing per character.
 
 ### Components
-* [AbelToy / Gradient.hx](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
-* [underscorediscovery / HoverAlpha.hx](https://gist.github.com/underscorediscovery/2c53d1d0bf9b9732c38b): Basic hover alpha button component.
-* [underscorediscovery / CameraDrag.hx](https://gist.github.com/underscorediscovery/2cd52a89470421c51301): Simple camera drag + zoom script.
-* [le-doux / TrailRenderer.hx](https://gist.github.com/le-doux/d9ac94af66c2b9a86238): A trail renderer component using a triangle mesh.
+* [Gradient.hx](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
+* [HoverAlpha.hx](https://gist.github.com/underscorediscovery/2c53d1d0bf9b9732c38b): Basic hover alpha button component.
+* [CameraDrag.hx](https://gist.github.com/underscorediscovery/2cd52a89470421c51301): Simple camera drag + zoom script.
+* [TrailRenderer.hx](https://gist.github.com/le-doux/d9ac94af66c2b9a86238): A trail renderer component using a triangle mesh.
 
 ### Snippets
 * [PlyImporter.hx](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
@@ -130,11 +132,11 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Project settings for Sublime Text](https://gist.github.com/anissen/3f05b614fc0483899fec) for quickly jumping into luxe/snow/haxe source code
 
 ### Utilities
-* [Dvergar / PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
-* [Zielak / Pixel Sprite Generator](https://github.com/Zielak/pixel-sprite-generator-luxe): Pixel Sprite Generator prepared for Luxe engine
-* [DjPale / IsometricEdit](https://github.com/DjPale/IsometricEdit): Simple graphical tile editor for isometric spritesheets
-* [restorer / zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle system for OpenFL and Luxe. Compatible with Particle Designer.
-* [hxDaedalus / hxDaedalus](https://github.com/hxDaedalus/hxDaedalus): 2D environment modeling and pathfinding.
+* [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
+* [Pixel Sprite Generator](https://github.com/Zielak/pixel-sprite-generator-luxe): Pixel Sprite Generator prepared for Luxe engine
+* [IsometricEdit](https://github.com/DjPale/IsometricEdit): Simple graphical tile editor for isometric spritesheets
+* [zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle system for OpenFL and Luxe. Compatible with Particle Designer.
+* [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus): 2D environment modeling and pathfinding.
 
 # hxsw resources
 
@@ -150,7 +152,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 ### Development logs
 
-* Development update 1, ["Mint Details Part 1"](http://snowkit.org/2015/01/25/mint-details-part-1/)
+* Development update 1, [_Mint Details Part 1_](http://snowkit.org/2015/01/25/mint-details-part-1/)
 
 
 # scrìbe resources
