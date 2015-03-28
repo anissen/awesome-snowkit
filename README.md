@@ -100,6 +100,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [4Simon](https://github.com/Zielak/4Simon): One Game a Week: #4, Simon Says ([blog post](http://zielak.pl/1gaw-4-simon-says))
 * [5Snake](https://github.com/Zielak/5Snake): One Game a Week: #5, Snake
 * [ruins-game](https://github.com/desttinghim/ruins-game): Exploration and puzzle focused platformer
+* [hxDaedalus examples](https://github.com/hxDaedalus/hxDaedalus-luxe-examples): Luxe examples of [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) (2D environment modeling and pathfinding)
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
