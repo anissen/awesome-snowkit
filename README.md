@@ -101,6 +101,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [5Snake](https://github.com/Zielak/5Snake): One Game a Week: #5, Snake
 * [ruins-game](https://github.com/desttinghim/ruins-game): Exploration and puzzle focused platformer
 * [hxDaedalus examples](https://github.com/hxDaedalus/hxDaedalus-luxe-examples): Luxe examples of [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) (2D environment modeling and pathfinding)
+* [LuxePong](https://github.com/FuzzyWuzzie/LuxePong): A simple game of Pong.
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
