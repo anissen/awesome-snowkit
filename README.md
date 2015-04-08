@@ -38,7 +38,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
  * Github: ???
  * Blog: ???
  
- Dvergar, Zielak, DJPale, Absurditure, anissen
+ Dvergar, Zielak, DJPale, Absurditure, anissen, FuzzyWuzzie
  -->
 
 
@@ -102,6 +102,10 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [ruins-game](https://github.com/desttinghim/ruins-game): Exploration and puzzle focused platformer
 * [hxDaedalus examples](https://github.com/hxDaedalus/hxDaedalus-luxe-examples): Luxe examples of [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) (2D environment modeling and pathfinding)
 * [LuxePong](https://github.com/FuzzyWuzzie/LuxePong): A simple game of Pong.
+
+### Other Projects
+* [CustomLuxePhysics](https://github.com/FuzzyWuzzie/CustomLuxePhysics): A simple demo showing how to write your own physics engine for Luxe.
+* [CustomLuxePreloader](https://github.com/FuzzyWuzzie/CustomLuxePreloader): A simple demo showing a custom preloader in Haxe.
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
