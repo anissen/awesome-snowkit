@@ -19,6 +19,10 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
 * [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
 
+### Sublime Text
+* [Project settings for Sublime Text](https://gist.github.com/anissen/3f05b614fc0483899fec) for quickly jumping into luxe/snõw/haxe source code.
+* [Templates for Sublime Text](http://snowkit.org/2015/04/07/snowkit-templates-for-sublime-text/) for auto-generating flow/snõw/luxe projects.
+
 <!--
 ## People
 * Sven Bergström: Creator of snõwkit, flõw, snõw and luxe.
@@ -133,9 +137,6 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Snippets
 * [PlyImporter.hx](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
 * [InputMacro](https://github.com/NicoM1/InputMacro): Simple, remappable, macro-based input handling
-
-### Tips & Tricks
-* [Project settings for Sublime Text](https://gist.github.com/anissen/3f05b614fc0483899fec) for quickly jumping into luxe/snow/haxe source code
 
 ### Utilities
 * [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
