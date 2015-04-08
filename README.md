@@ -106,6 +106,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [ruins-game](https://github.com/desttinghim/ruins-game): Exploration and puzzle focused platformer
 * [hxDaedalus examples](https://github.com/hxDaedalus/hxDaedalus-luxe-examples): Luxe examples of [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) (2D environment modeling and pathfinding)
 * [LuxePong](https://github.com/FuzzyWuzzie/LuxePong): A simple game of Pong.
+* [PhysicsEngine](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic Luxe rectangles physics engine.
 
 ### Other Projects
 * [CustomLuxePhysics](https://github.com/FuzzyWuzzie/CustomLuxePhysics): A simple demo showing how to write your own physics engine for Luxe.
