@@ -111,6 +111,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Other Projects
 * [CustomLuxePhysics](https://github.com/FuzzyWuzzie/CustomLuxePhysics): A simple demo showing how to write your own physics engine for Luxe.
 * [CustomLuxePreloader](https://github.com/FuzzyWuzzie/CustomLuxePreloader): A simple demo showing a custom preloader in Haxe.
+* [LuxeLights](https://github.com/FuzzyWuzzie/LuxeLights): A simple demo showing how to use render textures and shaders to create a basic 2D lighting effect.
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
