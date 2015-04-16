@@ -113,6 +113,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [CustomLuxePreloader](https://github.com/FuzzyWuzzie/CustomLuxePreloader): A simple demo showing a custom preloader in Haxe.
 * [LuxeLights](https://github.com/FuzzyWuzzie/LuxeLights): A simple demo showing how to use render textures and shaders to create a basic 2D lighting effect.
 * [LuxeSightLights](https://github.com/FuzzyWuzzie/LuxeSightLights): Luxe implementation of [Sight & Light](http://ncase.me/sight-and-light/).
+* [LuxeBloom](https://github.com/FuzzyWuzzie/LuxeBloom): A demo for Luxe showing one way to use shaders and rendertextures to apply a bloom effect to the screen.
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
@@ -147,6 +148,7 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [IsometricEdit](https://github.com/DjPale/IsometricEdit): Simple graphical tile editor for isometric spritesheets
 * [zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle system for OpenFL and Luxe. Compatible with Particle Designer.
 * [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus): 2D environment modeling and pathfinding.
+* [LuxeParticleDesigner](https://github.com/FuzzyWuzzie/LuxeParticleDesigner): A tool for quickly designing / tweaking particle systems in Luxe.
 
 # hxsw resources
 
