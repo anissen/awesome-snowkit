@@ -125,10 +125,23 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/3012-shot0.png-crop-180-140.jpg"></a>
 <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/7279-shot2.png-crop-180-140.jpg"></a>
 
-* [Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game [[source (github)](https://github.com/anissen/ld31)]. 
-* [Leviathan](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=34): Leviathan is a card-battling tower defensey thing [[source (google code)](https://code.google.com/p/ld48jovoc/source/browse/#svn%2Fld31_onescreen%2Fsrc)].
-* [Scarecrow](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012): Scare away crows [[source (zip)](http://www.elcoino.de/LD31src.zip)].
-* [LiliLight](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279): Lili is stuck in her Nightmare, help her to chase her Demons in order to wake up! [(no source)].
+* [Train of Thought](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512): Colourful and action-packed word game. [Source (GitHub)](https://github.com/anissen/ld31)
+* [Leviathan](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=34): Leviathan is a card-battling tower defensey thing. [Source (Google Code)](https://code.google.com/p/ld48jovoc/source/browse/#svn%2Fld31_onescreen%2Fsrc)
+* [Scarecrow](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012): Scare away crows. [Source (zip)](http://www.elcoino.de/LD31src.zip)
+* [LiliLight](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279): Lili is stuck in her Nightmare, help her to chase her Demons in order to wake up! (No source)
+
+### Ludum Dare 32
+<a href="http://ludumdare.com/compo/ludum-dare-32/?action=rate&uid=34"><img src="http://ludumdare.com/compo/wp-content/compo2//444368/34-shot0-1429492716.jpg-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-32/?action=rate&uid=50305"><img src="http://ludumdare.com/compo/wp-content/compo2//444368/50305-shot0-1429494291.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=38590"><img src="http://ludumdare.com/compo/wp-content/compo2//444368/38590-shot0-1429481259.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-32/?action=rate&uid=23363"><img src="http://ludumdare.com/compo/wp-content/compo2//444368/23363-shot0-1429494674.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=22923"><img src="http://ludumdare.com/compo/wp-content/compo2//444368/22923-shot2-1429492381.png-crop-180-140.jpg"></a>
+
+* [Food Fight](http://ludumdare.com/compo/ludum-dare-32/?action=rate&uid=34): 3D top-down pea shooter. [Source (GitHub)](https://github.com/joeld42/ld48jovoc/tree/ld32-compoversion/ld32_foodfight)
+* [Censored](http://ludumdare.com/compo/ludum-dare-32/?action=rate&uid=50305): Armed with your pencils, you must throw pencils to draw on all free papers. You must not draw on censored papers! [Source (GitHub)](https://github.com/jeremyfa/ludumdare-32)
+* [BOOMBOX](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=38590): Save people from sadness WITH MUSIC! [Source (GitHub)](https://github.com/Zielak/ld32)
+* [Symmetric Torpedo](http://ludumdare.com/compo/ludum-dare-32/?action=rate&uid=23363): Kill or be killed in a submarine-on-submarine battle. [Source (DropBox)](https://www.dropbox.com/s/nchmotd1bz1cri9/symmetric-torpedo.zip?dl=0)
+* [FEATHERROCK](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=22923): Play as a magical weapon; a rock with feathers. [Source (GitHub)](http://github.com/FuzzyWuzzie/FeatherRock)
 
 ### Libraries
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
