@@ -107,6 +107,8 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [hxDaedalus examples](https://github.com/hxDaedalus/hxDaedalus-luxe-examples): Luxe examples of [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) (2D environment modeling and pathfinding)
 * [LuxePong](https://github.com/FuzzyWuzzie/LuxePong): A simple game of Pong.
 * [PhysicsEngine](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic Luxe rectangles physics engine.
+* [dunjincrul](https://github.com/cucumbur/dunjincrul): A simple dungeon crawling action-RPG.
+* [ld32-warmup](https://github.com/DjPale/ld32-warmup): Warmup game prior to LD32.
 
 ### Other Projects
 * [CustomLuxePhysics](https://github.com/FuzzyWuzzie/CustomLuxePhysics): A simple demo showing how to write your own physics engine for Luxe.
