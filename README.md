@@ -98,17 +98,17 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Orbitantlers-Collab](https://github.com/NicoM1/Orbitantlers-Collab): Platformer game collaboration between [NicoM1](https://github.com/NicoM1) and [Orbitantlers](https://github.com/Absurditure).
 * [luxeout](https://github.com/desttinghim/luxeout): Simple breakout clone.
 * [spellhive](https://github.com/anissen/spellhive): Simple word game on a hexagonal grid.
-* [tankoffense](https://github.com/desttinghim/tankoffense): A simple 3 lane strategy game made in Luxe.
-* [1Dodger](https://github.com/Zielak/1Dodger): One Game a Week: #1, Dodger ([blog post](http://zielak.pl/1gaw-1-dodger))
-* [2MemoryPuzzle](https://github.com/Zielak/2MemoryPuzzle): One Game a Week: #2, Memory Puzzle ([blog post](http://zielak.pl/1gaw-2-memory-puzzle))
-* [4Simon](https://github.com/Zielak/4Simon): One Game a Week: #4, Simon Says ([blog post](http://zielak.pl/1gaw-4-simon-says))
-* [5Snake](https://github.com/Zielak/5Snake): One Game a Week: #5, Snake
-* [ruins-game](https://github.com/desttinghim/ruins-game): Exploration and puzzle focused platformer
+* [Tank Offense](https://github.com/desttinghim/tankoffense): A simple 3 lane strategy game made in Luxe.
+* [Dodger](https://github.com/Zielak/1Dodger): One Game a Week: #1, Dodger ([blog post](http://zielak.pl/1gaw-1-dodger))
+* [Memory Puzzle](https://github.com/Zielak/2MemoryPuzzle): One Game a Week: #2, Memory Puzzle ([blog post](http://zielak.pl/1gaw-2-memory-puzzle))
+* [Simon](https://github.com/Zielak/4Simon): One Game a Week: #4, Simon Says ([blog post](http://zielak.pl/1gaw-4-simon-says))
+* [Snake](https://github.com/Zielak/5Snake): One Game a Week: #5, Snake
+* [Ruins](https://github.com/desttinghim/ruins-game): Exploration and puzzle focused platformer
 * [hxDaedalus examples](https://github.com/hxDaedalus/hxDaedalus-luxe-examples): Luxe examples of [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) (2D environment modeling and pathfinding)
 * [LuxePong](https://github.com/FuzzyWuzzie/LuxePong): A simple game of Pong.
 * [PhysicsEngine](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic Luxe rectangles physics engine.
-* [dunjincrul](https://github.com/cucumbur/dunjincrul): A simple dungeon crawling action-RPG.
-* [ld32-warmup](https://github.com/DjPale/ld32-warmup): Warmup game prior to LD32.
+* [Dunjin Crul](https://github.com/cucumbur/dunjincrul): A simple dungeon crawling action-RPG.
+* [LD32 Warm-Up](https://github.com/DjPale/ld32-warmup): Warmup game prior to LD32.
 * [vshooter](https://bitbucket.org/jonathanhirz/vshooter/): A vertical space, _shmup_ type, shooter.
 * [Celox Inpes](https://github.com/JunoNgx/celox-inpes): A very fast-pased _shmup_ type shooter.
 
