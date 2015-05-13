@@ -109,6 +109,8 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [PhysicsEngine](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic Luxe rectangles physics engine.
 * [dunjincrul](https://github.com/cucumbur/dunjincrul): A simple dungeon crawling action-RPG.
 * [ld32-warmup](https://github.com/DjPale/ld32-warmup): Warmup game prior to LD32.
+* [vshooter](https://bitbucket.org/jonathanhirz/vshooter/): A vertical space, _shmup_ type, shooter.
+* [Celox Inpes](https://github.com/JunoNgx/celox-inpes): A very fast-pased _shmup_ type shooter.
 
 ### Other Projects
 * [CustomLuxePhysics](https://github.com/FuzzyWuzzie/CustomLuxePhysics): A simple demo showing how to write your own physics engine for Luxe.
