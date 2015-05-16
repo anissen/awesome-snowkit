@@ -52,6 +52,8 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/flow.png">
 
+> **flow** is a project based build tool for [Haxe](http://haxe.org), taking a simple json based project description and converting it into a usable application, complete with icons, file templating, binary compression, built in server and more.
+
 ### Websites
 * [flõw website](http://underscorediscovery.github.io/flow/)
 * [flõw on GitHub](https://github.com/underscorediscovery/flow)
