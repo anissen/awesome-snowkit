@@ -5,6 +5,8 @@
 
 A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
+> **snowkit** is a _collective_, a group of libraries, tools and developers with a common set of goals toward a high quality eco system, for the [Haxe](http://haxe.org/) toolkit.
+
 ### Websites
 * [snowkit.org](http://snowkit.org): Official hub for all things snowkit (flõw, snõw, luxe, etc.)
 * [snowkit.org/libs](http://snowkit.org/libs/): Officiel snowkit libraries
@@ -64,6 +66,8 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/snow.png">
 
+> **snow** is a free, [open source](https://github.com/underscorediscovery/snow/blob/master/LICENSE.md) light, pure and clean toolkit for building frameworks, applications and games using [Haxe](http://haxe.org), targeting native platforms and web browser.
+
 ### Websites
 * [snõw website](http://underscorediscovery.github.io/snow/)
   * [API docs](http://underscorediscovery.github.io/snow/api/index.html)
@@ -77,6 +81,8 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 # luxe resources
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/luxe.png">
+
+> **luxe** is a high level, rapid development game engine for deploying games or applications across Mac, Windows, Linux, Android, iOS and WebGL.
 
 ### Websites
 * [luxe website](http://luxeengine.com/)
@@ -171,13 +177,18 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 <img align="right" src="http://snowkit.org/content/images/2014/11/hxsw.png">
 
+> **hxsw** is Haxe Shader Wrangler, a string manipulation library, that offers a simple structured effect file format for managing variations of shaders, with line and directive injection and quasi pathing through an effect key.
+
 ### Websites
+
 * [hxsw on GitHub](https://github.com/underscorediscovery/hxsw)
 
 
 # mínt resources
 
 <img align="right" src="http://snowkit.org/content/images/2015/01/mint-1.png">
+
+> **mint** is a game focused UI library with a focus on simplicitly and ease of use.
 
 ### Development logs
 
@@ -188,6 +199,8 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/scribe.png">
 
+> **scribe** is a documentation generator for the xml documentation files that Haxe outputs.
+
 ### Websites
 * [scríbe on GitHub](https://github.com/underscorediscovery/scribe)
 
@@ -195,3 +208,5 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 # deviše resources
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/devise.png">
+
+> **devise** is a cross platform editor interface for building media content.
