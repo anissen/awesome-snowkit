@@ -3,13 +3,13 @@
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/snowkit.png">
 
-A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
+A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 > **snowkit** is a _collective_, a group of libraries, tools and developers with a common set of goals toward a high quality eco system, for the [Haxe](http://haxe.org/) toolkit.
 
 ### Websites
-* [snowkit.org](http://snowkit.org): Official hub for all things snowkit (flõw, snõw, luxe, etc.)
-* [snowkit.org/libs](http://snowkit.org/libs/): Officiel snowkit libraries
+* [snowkit.org](http://snowkit.org): Official hub for all things snõwkit (flõw, snõw, luxe, etc.)
+* [snowkit.org/libs](http://snowkit.org/libs/): Officiel snõwkit libraries
 * [snowkit on GitHub](https://www.github.com/snowkit)
 
 ### Forums
@@ -17,12 +17,12 @@ A currated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [snõwkit gitter chat](https://gitter.im/snowkit/public) (public)
 
 ### Twitter
-* [@snowkitorg](https://twitter.com/snowkitorg): Official Snõwkit twitter account
+* [@snowkitorg](https://twitter.com/snowkitorg): Official snõwkit twitter account
 * [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
 * [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
 
 ### Sublime Text
-* [Project settings for Sublime Text](https://gist.github.com/anissen/3f05b614fc0483899fec) for quickly jumping into luxe/snõw/haxe source code.
+* [Project settings for Sublime Text](https://gist.github.com/anissen/3f05b614fc0483899fec) for quickly jumping into luxe/snõw/Haxe source code.
 * [Templates for Sublime Text](http://snowkit.org/2015/04/07/snowkit-templates-for-sublime-text/) for auto-generating flow/snõw/luxe projects.
 
 <!--
