@@ -12,6 +12,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [snowkit.org/libs](http://snowkit.org/libs/): Officiel snõwkit libraries
 * [snowkit on GitHub](https://www.github.com/snowkit)
 
+### Documentation
+* [snowkit docset](https://github.com/Marc010/Snowkit.docset): Offline API documention for snow, luxe, Gesluxe, Nape and the Haxe Standard Library
+
 ### Forums
 <!-- * [snõwkit slack chat](https://underscorediscovery.slack.com/) (membership required) -->
 * [snõwkit gitter chat](https://gitter.im/snowkit/public) (public)
