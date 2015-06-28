@@ -129,6 +129,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [LuxeLights](https://github.com/FuzzyWuzzie/LuxeLights): A simple demo showing how to use render textures and shaders to create a basic 2D lighting effect.
 * [LuxeSightLights](https://github.com/FuzzyWuzzie/LuxeSightLights): Luxe implementation of [Sight & Light](http://ncase.me/sight-and-light/).
 * [LuxeBloom](https://github.com/FuzzyWuzzie/LuxeBloom): A demo for Luxe showing one way to use shaders and rendertextures to apply a bloom effect to the screen.
+* [Luxe hscript reload](https://github.com/DjPale/luxe-hscript-reload) Example of using live reloading of hscript to make gameplay logic in luxe ([blog post](http://snowkit.org/2015/06/20/using-hscript-to-program-entity-behaviors-in-luxe-with-auto-reload/)).
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
@@ -161,10 +162,11 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [rainbow](https://github.com/Dvergar/rainbow): Text coloring/sizing per character.
 
 ### Components
-* [Gradient.hx](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
-* [HoverAlpha.hx](https://gist.github.com/underscorediscovery/2c53d1d0bf9b9732c38b): Basic hover alpha button component.
-* [CameraDrag.hx](https://gist.github.com/underscorediscovery/2cd52a89470421c51301): Simple camera drag + zoom script.
-* [TrailRenderer.hx](https://gist.github.com/le-doux/d9ac94af66c2b9a86238): A trail renderer component using a triangle mesh.
+* [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
+* [Hover Alpha](https://gist.github.com/underscorediscovery/2c53d1d0bf9b9732c38b): Basic hover alpha button component.
+* [Camera Drag](https://gist.github.com/underscorediscovery/2cd52a89470421c51301): Simple camera drag + zoom script.
+* [Trail Renderer](https://gist.github.com/le-doux/d9ac94af66c2b9a86238): A trail renderer component using a triangle mesh.
+* [Player Team](https://gist.github.com/underscorediscovery/34536d5e6dab31e1286e): Example of making a flag/team component.
 
 ### Snippets
 * [PlyImporter.hx](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
