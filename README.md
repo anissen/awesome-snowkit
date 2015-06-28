@@ -129,7 +129,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [LuxeLights](https://github.com/FuzzyWuzzie/LuxeLights): A simple demo showing how to use render textures and shaders to create a basic 2D lighting effect.
 * [LuxeSightLights](https://github.com/FuzzyWuzzie/LuxeSightLights): Luxe implementation of [Sight & Light](http://ncase.me/sight-and-light/).
 * [LuxeBloom](https://github.com/FuzzyWuzzie/LuxeBloom): A demo for Luxe showing one way to use shaders and rendertextures to apply a bloom effect to the screen.
-* [Luxe hscript reload](https://github.com/DjPale/luxe-hscript-reload) Example of using live reloading of hscript to make gameplay logic in luxe ([blog post](http://snowkit.org/2015/06/20/using-hscript-to-program-entity-behaviors-in-luxe-with-auto-reload/)).
+* [Luxe hscript reload](https://github.com/DjPale/luxe-hscript-reload): Live reloading of hscript to make gameplay logic in luxe ([blog post](http://snowkit.org/2015/06/20/using-hscript-to-program-entity-behaviors-in-luxe-with-auto-reload/)).
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
