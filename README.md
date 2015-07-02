@@ -29,7 +29,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Templates for Sublime Text](http://snowkit.org/2015/04/07/snowkit-templates-for-sublime-text/) for auto-generating flow/snõw/luxe projects.
 
 ### FlashDevelop
-* [https://github.com/Chman/Snowkit-FD](snowkit-FD): snowkit templates for FlashDevelop
+* [Templates for FlashDevelop](https://github.com/Chman/Snowkit-FD) for auto-generating flow/snõw/luxe projects.
 
 <!--
 ## People
