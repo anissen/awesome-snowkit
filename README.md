@@ -28,6 +28,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Project settings for Sublime Text](https://gist.github.com/anissen/3f05b614fc0483899fec) for quickly jumping into luxe/snõw/Haxe source code.
 * [Templates for Sublime Text](http://snowkit.org/2015/04/07/snowkit-templates-for-sublime-text/) for auto-generating flow/snõw/luxe projects.
 
+### FlashDevelop
+* [https://github.com/Chman/Snowkit-FD](snowkit-FD): snowkit templates for FlashDevelop
+
 <!--
 ## People
 * Sven Bergström: Creator of snõwkit, flõw, snõw and luxe.
