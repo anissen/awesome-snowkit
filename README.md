@@ -24,12 +24,14 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
 * [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
 
-### Sublime Text
-* [Project settings for Sublime Text](https://gist.github.com/anissen/3f05b614fc0483899fec) for quickly jumping into luxe/snõw/Haxe source code.
-* [Templates for Sublime Text](http://snowkit.org/2015/04/07/snowkit-templates-for-sublime-text/) for auto-generating flow/snõw/luxe projects.
+### Editor Support
 
-### FlashDevelop
-* [Templates for FlashDevelop](https://github.com/Chman/Snowkit-FD) for auto-generating flow/snõw/luxe projects.
+#### Sublime Text
+* [Project settings for Sublime Text](https://gist.github.com/anissen/3f05b614fc0483899fec) for quickly jumping into luxe/snõw/Haxe source code
+* [Templates for Sublime Text](http://snowkit.org/2015/04/07/snowkit-templates-for-sublime-text/) for auto-generating flow/snõw/luxe projects
+
+#### FlashDevelop
+* [Templates for FlashDevelop](https://github.com/Chman/Snowkit-FD) for auto-generating flow/snõw/luxe projects
 
 <!--
 ## People
@@ -99,8 +101,6 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
   * [API docs](http://luxeengine.com/docs/api/index.html)
 * [luxe on GitHub](https://github.com/underscorediscovery/luxe)
 
-<!-- ## Open Source Projects -->
-
 ### Games/Examples
 * [BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
 * [SQUARE](https://github.com/Eiyeron/-SQUARE-): Complete, but minimalistic, game.
@@ -160,6 +160,18 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Symmetric Torpedo](http://ludumdare.com/compo/ludum-dare-32/?action=rate&uid=23363): Kill or be killed in a submarine-on-submarine battle. [Source (DropBox)](https://www.dropbox.com/s/nchmotd1bz1cri9/symmetric-torpedo.zip?dl=0)
 * [FEATHERROCK](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=22923): Play as a magical weapon; a rock with feathers. [Source (GitHub)](http://github.com/FuzzyWuzzie/FeatherRock)
 
+### Generators
+* [Slush generator](https://github.com/Clever-Coding/slush-luxe): Tool for generating new luxe projects, states, entities, components and more
+* [Parcel generator](https://github.com/Clever-Coding/parcel-cli): Tool for auto-generating a `parcel.json`-file from a directory
+
+### Utilities
+* [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
+* [Pixel Sprite Generator](https://github.com/Zielak/pixel-sprite-generator-luxe): Pixel Sprite Generator prepared for Luxe engine
+* [IsometricEdit](https://github.com/DjPale/IsometricEdit): Simple graphical tile editor for isometric spritesheets
+* [zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle system for OpenFL and Luxe. Compatible with Particle Designer.
+* [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus): 2D environment modeling and pathfinding.
+* [LuxeParticleDesigner](https://github.com/FuzzyWuzzie/LuxeParticleDesigner): A tool for quickly designing / tweaking particle systems in Luxe.
+
 ### Libraries
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
 * [rainbow](https://github.com/Dvergar/rainbow): Text coloring/sizing per character.
@@ -174,14 +186,6 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Snippets
 * [PlyImporter.hx](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
 * [InputMacro](https://github.com/NicoM1/InputMacro): Simple, remappable, macro-based input handling
-
-### Utilities
-* [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
-* [Pixel Sprite Generator](https://github.com/Zielak/pixel-sprite-generator-luxe): Pixel Sprite Generator prepared for Luxe engine
-* [IsometricEdit](https://github.com/DjPale/IsometricEdit): Simple graphical tile editor for isometric spritesheets
-* [zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle system for OpenFL and Luxe. Compatible with Particle Designer.
-* [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus): 2D environment modeling and pathfinding.
-* [LuxeParticleDesigner](https://github.com/FuzzyWuzzie/LuxeParticleDesigner): A tool for quickly designing / tweaking particle systems in Luxe.
 
 # hxsw resources
 
