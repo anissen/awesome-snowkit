@@ -174,7 +174,8 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 ### Libraries
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
-* [rainbow](https://github.com/Dvergar/rainbow): Text coloring/sizing per character.
+* [Rainbow](https://github.com/Dvergar/rainbow): Text coloring/sizing per character.
+* [Gif](https://github.com/snowkit/gif): Library agnostic Haxe Gif encoder.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
@@ -185,15 +186,15 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [FPS](https://gist.github.com/underscorediscovery/effb9014eb0de75b64c5): Frames per second text component.
 
 ### Snippets
-* [Ply Importer](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
-* [Input Macro](https://github.com/NicoM1/InputMacro): Simple, remappable, macro-based input handling
-* [Isometric view](https://gist.github.com/KeyMaster-/80e6f31e580e1186061e): Code snippet for setting on the camera for isometric view
-* [Physics Bodies](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic rectangles physics engine
-* [Wave Physics](https://gist.github.com/KeyMaster-/9d6898d686c24f6f5f62): Code sample for doing wave spring physics
+* [Ply Importer](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe.
+* [Input Macro](https://github.com/NicoM1/InputMacro): Simple, remappable, macro-based input handling.
+* [Isometric view](https://gist.github.com/KeyMaster-/80e6f31e580e1186061e): Code snippet for setting on the camera for isometric view.
+* [Physics Bodies](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic rectangles physics engine.
+* [Wave Physics](https://gist.github.com/KeyMaster-/9d6898d686c24f6f5f62): Code sample for doing wave spring physics.
 
 ### Shaders
-* [Polar Wrap](https://gist.github.com/KeyMaster-/2bb5e20f824241f3caef): Luxe polar warp shader
-* [Tilt Shift](https://gist.github.com/underscorediscovery/10324388): Tilt shift shader
+* [Polar Wrap](https://gist.github.com/KeyMaster-/2bb5e20f824241f3caef): Luxe polar warp shader.
+* [Tilt Shift](https://gist.github.com/underscorediscovery/10324388): Tilt shift shader.
 
 # hxsw resources
 
