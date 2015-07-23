@@ -182,10 +182,18 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Camera Drag](https://gist.github.com/underscorediscovery/2cd52a89470421c51301): Simple camera drag + zoom script.
 * [Trail Renderer](https://gist.github.com/le-doux/d9ac94af66c2b9a86238): A trail renderer component using a triangle mesh.
 * [Player Team](https://gist.github.com/underscorediscovery/34536d5e6dab31e1286e): Example of making a flag/team component.
+* [FPS](https://gist.github.com/underscorediscovery/effb9014eb0de75b64c5): Frames per second text component.
 
 ### Snippets
-* [PlyImporter.hx](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
-* [InputMacro](https://github.com/NicoM1/InputMacro): Simple, remappable, macro-based input handling
+* [Ply Importer](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe
+* [Input Macro](https://github.com/NicoM1/InputMacro): Simple, remappable, macro-based input handling
+* [Isometric view](https://gist.github.com/KeyMaster-/80e6f31e580e1186061e): Code snippet for setting on the camera for isometric view
+* [Physics Bodies](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic rectangles physics engine
+* [Wave Physics](https://gist.github.com/KeyMaster-/9d6898d686c24f6f5f62): Code sample for doing wave spring physics
+
+### Shaders
+* [Polar Wrap](https://gist.github.com/KeyMaster-/2bb5e20f824241f3caef): Luxe polar warp shader
+* [Tilt Shift](https://gist.github.com/underscorediscovery/10324388): Tilt shift shader
 
 # hxsw resources
 
