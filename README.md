@@ -176,6 +176,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
 * [Rainbow](https://github.com/Dvergar/rainbow): Text coloring/sizing per character.
 * [Gif](https://github.com/snowkit/gif): Library agnostic Haxe Gif encoder.
+* [Behavior Trees](https://github.com/whuop/hxbt): Behavior Tree implementation with Luxe sample.
+* [Maze Generator](https://github.com/whuop/MazeGen): Library of algorithms for generating mazes.
+* [L-System](https://github.com/whuop/L-System): Lindenmayer system for generating trees.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
