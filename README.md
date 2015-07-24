@@ -200,11 +200,12 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Tilt Shift](https://gist.github.com/underscorediscovery/10324388): Tilt shift shader.
 
 ### Closed Source Games
-* [3720](http://jtruher.itch.io/3720-1) (Mac/Windows): Space shooter/dodger from a pigsquad game jam.
-* [Marballs](http://jtruher.itch.io/marballs) (Mac/Windows): It's marbles, bumping into each other.
-* [Zombie Shooter](http://jonathanhirz.itch.io/unnamed-shooter) (Mac): An in-development top down shooter.
-* [BYRL](http://jonathanhirz.itch.io/byrl) (Mac/Windows): Backyard roguelike.
+* [3720](http://jtruher.itch.io/3720-1) (Mac/Windows, free¹): Space shooter/dodger from a pigsquad game jam.
+* [Marballs](http://jtruher.itch.io/marballs) (Mac/Windows, free¹): It's marbles, bumping into each other.
+* [Zombie Shooter](http://jonathanhirz.itch.io/unnamed-shooter, free¹) (Mac): An in-development top down shooter.
+* [BYRL](http://jonathanhirz.itch.io/byrl) (Mac/Windows, free¹): Backyard roguelike.
 
+¹ Name your price
 
 # hxsw resources
 
