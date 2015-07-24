@@ -199,6 +199,13 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Polar Wrap](https://gist.github.com/KeyMaster-/2bb5e20f824241f3caef): Luxe polar warp shader.
 * [Tilt Shift](https://gist.github.com/underscorediscovery/10324388): Tilt shift shader.
 
+### Closed Source Games
+* [3720](http://jtruher.itch.io/3720-1) (Mac/Windows): Space shooter/dodger from a pigsquad game jam.
+* [Marballs](http://jtruher.itch.io/marballs) (Mac/Windows): It's marbles, bumping into each other.
+* [Zombie Shooter](http://jonathanhirz.itch.io/unnamed-shooter) (Mac): An in-development top down shooter.
+* [BYRL](http://jonathanhirz.itch.io/byrl) (Mac/Windows): Backyard roguelike.
+
+
 # hxsw resources
 
 <img align="right" src="http://snowkit.org/content/images/2014/11/hxsw.png">
