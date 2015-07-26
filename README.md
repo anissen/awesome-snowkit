@@ -179,6 +179,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Behavior Trees](https://github.com/whuop/hxbt): Behavior Tree implementation with Luxe sample.
 * [Maze Generator](https://github.com/whuop/MazeGen): Library of algorithms for generating mazes.
 * [L-System](https://github.com/whuop/L-System): Lindenmayer system for generating trees.
+* [WhuopLib](https://github.com/whuop/WhuopLib): A set of helper classes, such as loading Entities/Sprites from json.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
