@@ -195,6 +195,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Isometric view](https://gist.github.com/KeyMaster-/80e6f31e580e1186061e): Code snippet for setting on the camera for isometric view.
 * [Physics Bodies](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic rectangles physics engine.
 * [Wave Physics](https://gist.github.com/KeyMaster-/9d6898d686c24f6f5f62): Code sample for doing wave spring physics.
+* [Image from URL](https://gist.github.com/bmfs/18caf119cfc6bfeff5fd): Example of loading an image from an URL.
 
 ### Shaders
 * [Polar Wrap](https://gist.github.com/KeyMaster-/2bb5e20f824241f3caef): Luxe polar warp shader.
