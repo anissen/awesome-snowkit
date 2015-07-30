@@ -209,6 +209,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Marballs](http://jtruher.itch.io/marballs) (Mac/Windows, free¹): It's marbles, bumping into each other.
 * [Zombie Shooter](http://jonathanhirz.itch.io/unnamed-shooter) (Mac, free¹): An in-development top down shooter.
 * [BYRL](http://jonathanhirz.itch.io/byrl) (Mac/Windows, free¹): Backyard roguelike.
+* [Widgeteer](http://brodybrooks.com/widget) (Web, free): Connect components to from complex machines. Uses Luxe and Mint.
 
 ¹ Name your own price (can be free).
 
