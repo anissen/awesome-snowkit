@@ -101,14 +101,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
   * [API docs](http://luxeengine.com/docs/api/index.html)
 * [luxe on GitHub](https://github.com/underscorediscovery/luxe)
 
-### Games/Examples
+### Games
 * [BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
 * [SQUARE](https://github.com/Eiyeron/-SQUARE-): Complete, but minimalistic, game.
-* [Luxe Projects](https://github.com/Rostiger/Luxe_Projects): Different tests projects.
 * [Collab](https://github.com/NicoM1/Collab): Shmup-like game collaboration between [NicoM1](https://github.com/NicoM1) and [Eiyeron](https://github.com/Eiyeron).
-* [starFieldLuxe](https://github.com/jonathanhirz/starFieldLuxe): Star field experiment.
-* [snowkitTests](https://github.com/JosePedroDias/snowkitTests): Endeavors with snowkit.
-* [liquid-luxe](https://github.com/chronosyndrome/liquid-luxe): 2D liquid simulation using snowkit and Luxe.
 * [Orbitantlers-Collab](https://github.com/NicoM1/Orbitantlers-Collab): Platformer game collaboration between [NicoM1](https://github.com/NicoM1) and [Orbitantlers](https://github.com/Absurditure).
 * [luxeout](https://github.com/desttinghim/luxeout): Simple breakout clone.
 * [spellhive](https://github.com/anissen/spellhive): Simple word game on a hexagonal grid.
@@ -118,15 +114,19 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Simon](https://github.com/Zielak/4Simon): One Game a Week: #4, Simon Says ([blog post](http://zielak.pl/1gaw-4-simon-says))
 * [Snake](https://github.com/Zielak/5Snake): One Game a Week: #5, Snake
 * [Ruins](https://github.com/desttinghim/ruins-game): Exploration and puzzle focused platformer
-* [hxDaedalus examples](https://github.com/hxDaedalus/hxDaedalus-luxe-examples): Luxe examples of [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) (2D environment modeling and pathfinding)
 * [LuxePong](https://github.com/FuzzyWuzzie/LuxePong): A simple game of Pong.
-* [PhysicsEngine](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic Luxe rectangles physics engine.
 * [Dunjin Crul](https://github.com/cucumbur/dunjincrul): A simple dungeon crawling action-RPG.
 * [LD32 Warm-Up](https://github.com/DjPale/ld32-warmup): Warmup game prior to LD32.
 * [vshooter](https://bitbucket.org/jonathanhirz/vshooter/): A vertical space, _shmup_ type, shooter.
 * [Celox Inpes](https://github.com/JunoNgx/celox-inpes): A very fast-pased _shmup_ type shooter.
 
-### Other Projects
+### Examples/Experiments
+* [Luxe Projects](https://github.com/Rostiger/Luxe_Projects): Different tests projects.
+* [starFieldLuxe](https://github.com/jonathanhirz/starFieldLuxe): Star field experiment.
+* [snowkitTests](https://github.com/JosePedroDias/snowkitTests): Endeavors with snowkit.
+* [liquid-luxe](https://github.com/chronosyndrome/liquid-luxe): 2D liquid simulation using snowkit and Luxe.
+* [hxDaedalus examples](https://github.com/hxDaedalus/hxDaedalus-luxe-examples): Luxe examples of [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) (2D environment modeling and pathfinding)
+* [PhysicsEngine](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic Luxe rectangles physics engine.
 * [CustomLuxePhysics](https://github.com/FuzzyWuzzie/CustomLuxePhysics): A simple demo showing how to write your own physics engine for Luxe.
 * [CustomLuxePreloader](https://github.com/FuzzyWuzzie/CustomLuxePreloader): A simple demo showing a custom preloader in Haxe.
 * [LuxeLights](https://github.com/FuzzyWuzzie/LuxeLights): A simple demo showing how to use render textures and shaders to create a basic 2D lighting effect.
