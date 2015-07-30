@@ -133,6 +133,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [LuxeSightLights](https://github.com/FuzzyWuzzie/LuxeSightLights): Luxe implementation of [Sight & Light](http://ncase.me/sight-and-light/).
 * [LuxeBloom](https://github.com/FuzzyWuzzie/LuxeBloom): A demo for Luxe showing one way to use shaders and rendertextures to apply a bloom effect to the screen.
 * [Luxe hscript reload](https://github.com/DjPale/luxe-hscript-reload): Live reloading of hscript to make gameplay logic in luxe ([blog post](http://snowkit.org/2015/06/20/using-hscript-to-program-entity-behaviors-in-luxe-with-auto-reload/)).
+* [Foldable](https://github.com/josuigoa/experiments/tree/master/luxe/foldable): Experiment in creating foldable geometry ([screenshot](https://raw.githubusercontent.com/josuigoa/experiments/master/luxe/normal_mapping/normal_mapping.gif)).
+* [Normal Mapping](https://github.com/josuigoa/experiments/tree/master/luxe/normal_mapping): Experiment in creating normal mapped texture ([screenshot](https://raw.githubusercontent.com/josuigoa/experiments/master/luxe/foldable/folding_paper.gif)).
+* [Perlin Clouds](https://github.com/josuigoa/experiments/tree/master/luxe/perlin_clouds): Experiment in creating a texture with Perlin noise ([screenshot](https://github.com/josuigoa/experiments/raw/master/luxe/perlin_clouds/perlin_clouds.gif)).
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
