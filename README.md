@@ -121,6 +121,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Celox Inpes](https://github.com/JunoNgx/celox-inpes): A very fast-pased _shmup_ type shooter.
 
 ### Examples/Experiments
+* [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
 * [Luxe Projects](https://github.com/Rostiger/Luxe_Projects): Different tests projects.
 * [starFieldLuxe](https://github.com/jonathanhirz/starFieldLuxe): Star field experiment.
 * [snowkitTests](https://github.com/JosePedroDias/snowkitTests): Endeavors with snowkit.
