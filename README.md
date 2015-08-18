@@ -117,9 +117,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [LuxePong](https://github.com/FuzzyWuzzie/LuxePong): A simple game of Pong.
 * [Dunjin Crul](https://github.com/cucumbur/dunjincrul): A simple dungeon crawling action-RPG.
 * [LD32 Warm-Up](https://github.com/DjPale/ld32-warmup): Warmup game prior to LD32.
-* [vshooter](https://bitbucket.org/jonathanhirz/vshooter/): A vertical space, _shmup_ type, shooter.
+* [vshooter](https://gitlab.com/jonathanhirz/vshooter): A vertical space, _shmup_ type, shooter.
 * [Celox Inpes](https://github.com/JunoNgx/celox-inpes): A very fast-pased _shmup_ type shooter.
-* [BYRL](https://github.com/jonathanhirz/luxe_backyard_roguelike): Source code for roguelike that takes place in a backyard.
+* [BYRL](https://gitlab.com/jonathanhirz/fathersdayjam): Source code for roguelike that takes place in a backyard.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
