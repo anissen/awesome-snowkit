@@ -141,7 +141,11 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 <!-- image for Zielak / 4Simon: http://zielak.pl/wp-content/uploads/2015/02/simon_prev_head.gif -->
 
-### Ludum Dare 31
+### Game Jams
+
+#### Ludum Dare 31
+Date: December 8th, 2014
+
 <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/30512-shot0.png-crop-180-140.jpg"></a>
 <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=34"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/34-shot0.jpg-crop-180-140.jpg"></a>
 <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/3012-shot0.png-crop-180-140.jpg"></a>
@@ -152,7 +156,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Scarecrow](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=3012): Scare away crows. [Source (zip)](http://www.elcoino.de/LD31src.zip)
 * [LiliLight](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7279): Lili is stuck in her Nightmare, help her to chase her Demons in order to wake up! (No source)
 
-### Ludum Dare 32
+#### Ludum Dare 32
+Date: April 20th, 2015
+
 <a href="http://ludumdare.com/compo/ludum-dare-32/?action=rate&uid=34"><img src="http://ludumdare.com/compo/wp-content/compo2//444368/34-shot0-1429492716.jpg-crop-180-140.jpg"></a>
 <a href="http://ludumdare.com/compo/ludum-dare-32/?action=rate&uid=50305"><img src="http://ludumdare.com/compo/wp-content/compo2//444368/50305-shot0-1429494291.png-crop-180-140.jpg"></a>
 <a href="http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=38590"><img src="http://ludumdare.com/compo/wp-content/compo2//444368/38590-shot0-1429481259.png-crop-180-140.jpg"></a>
@@ -164,6 +170,14 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [BOOMBOX](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=38590): Save people from sadness WITH MUSIC! [Source (GitHub)](https://github.com/Zielak/ld32)
 * [Symmetric Torpedo](http://ludumdare.com/compo/ludum-dare-32/?action=rate&uid=23363): Kill or be killed in a submarine-on-submarine battle. [Source (DropBox)](https://www.dropbox.com/s/nchmotd1bz1cri9/symmetric-torpedo.zip?dl=0)
 * [FEATHERROCK](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=22923): Play as a magical weapon; a rock with feathers. [Source (GitHub)](http://github.com/FuzzyWuzzie/FeatherRock)
+
+#### GBJam 4
+Date: August 18th, 2015
+
+<a href="http://gamejolt.com/games/where-s-my-dog/87073"><img src="https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/400/87073-crop0_31_640_391-daspygbc.jpg" width="30%"></a>
+<a href="http://gamejolt.com/games/rush/85421"><img src="https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/400/85421-crop215_110_804_441-7a9iuzxg.jpg" width="30%"></a>
+* [Where's My Dog](http://gamejolt.com/games/where-s-my-dog/87073): Atmospheric platformer. [No source]
+* [Rush](http://gamejolt.com/games/rush/85421): Arcade runner game about love and throwing crates. [Source (GitHub)](https://github.com/Zielak/gbjam4)
 
 ### Generators
 * [Slush generator](https://github.com/Clever-Coding/slush-luxe): Tool for generating new luxe projects, states, entities, components and more
