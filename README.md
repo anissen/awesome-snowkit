@@ -216,6 +216,7 @@ Date: August 18th, 2015
 * [Physics Bodies](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic rectangles physics engine.
 * [Wave Physics](https://gist.github.com/KeyMaster-/9d6898d686c24f6f5f62): Code sample for doing wave spring physics.
 * [Image from URL](https://gist.github.com/bmfs/18caf119cfc6bfeff5fd): Example of loading an image from an URL.
+* [Loading Splash Screen](https://gist.github.com/opligr/8dede4f1fadf364eaced): A custom ParcelProgress for Luxe that shows a splash screen.
 
 ### Shaders
 * [Polar Wrap](https://gist.github.com/KeyMaster-/2bb5e20f824241f3caef): Luxe polar warp shader.
