@@ -1,6 +1,21 @@
 
 # Awesome snõwkit
 
+## Table of Contents
+
+* [snõwkit resources](#snõwkit-resources)
+* [flõw resources](#flõw-resources)
+* [snõw resources](#snõw-resources)
+* [luxe resources](#luxe-resources)
+* [hxsw resources](#hxsw-resources)
+* [mínt resources](#mínt-resources)
+* [linc resources](#linc-resources)
+* [scrìbe resources](#scrìbe-resources)
+* [deviše resources](#deviše-resources)
+
+
+# snõwkit resources
+
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/snowkit.png">
 
 A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
