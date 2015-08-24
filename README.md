@@ -172,6 +172,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Where's My Dog](http://gamejolt.com/games/where-s-my-dog/87073): Atmospheric platformer. [No source]
 * [Rush](http://gamejolt.com/games/rush/85421): Arcade runner game about love and throwing crates. [Source (GitHub)](https://github.com/Zielak/gbjam4)
 
+#### Ludum Dare 33
+[_Placeholder - feel free to submit a pull request if you've made a LD33 entry using snow/luxe_]
+
 ### Generators
 * [Slush generator](https://github.com/Clever-Coding/slush-luxe): Tool for generating new luxe projects, states, entities, components and more
 * [Parcel generator](https://github.com/Clever-Coding/parcel-cli): Tool for auto-generating a `parcel.json`-file from a directory
