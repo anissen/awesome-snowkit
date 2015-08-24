@@ -246,10 +246,26 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 * [mint on GitHub](https://github.com/snowkit/mint)
 
-### Development logs
+### Blog Posts
 
 * [Development log, part 1](http://snowkit.org/2015/01/25/mint-details-part-1/)
 * [Alpha release annoncement](http://snowkit.org/2015/08/21/mint-alpha-release/)
+
+
+# linc resources
+
+<img align="right" src="https://snowkit.github.io/linc/images/logo.png">
+
+> **linc** is collection of libraries for the Haxe c++ target.
+
+### Websites
+
+* [linc website](https://snowkit.github.io/linc/index.html)
+* [linc on GitHub](https://github.com/snowkit/linc)
+
+### Blog Posts
+
+* [Announcing linc: SDL & more with Haxe only](http://snowkit.org/2015/08/24/announcing-linc/)
 
 
 # scrìbe resources
