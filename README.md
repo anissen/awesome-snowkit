@@ -242,9 +242,14 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 > **mint** is a game focused UI library with a focus on simplicitly and ease of use.
 
+### Websites
+
+* [mint on GitHub](https://github.com/snowkit/mint)
+
 ### Development logs
 
-* Development update 1, [_Mint Details Part 1_](http://snowkit.org/2015/01/25/mint-details-part-1/)
+* [Development log, part 1](http://snowkit.org/2015/01/25/mint-details-part-1/)
+* [Alpha release annoncement](http://snowkit.org/2015/08/21/mint-alpha-release/)
 
 
 # scrìbe resources
