@@ -207,8 +207,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 
 ### Generators
-* [Slush generator](https://github.com/Clever-Coding/slush-luxe): Tool for generating new luxe projects, states, entities, components and more
-* [Parcel generator](https://github.com/Clever-Coding/parcel-cli): Tool for auto-generating a `parcel.json`-file from a directory
+* [Slush Generator](https://github.com/Clever-Coding/slush-luxe): Tool for generating new luxe projects, states, entities, components and more
+* [Parcel Generator](https://github.com/Clever-Coding/parcel-cli): Tool for auto-generating a `parcel.json`-file from a directory
+* [Yeoman Generator](https://github.com/artbit/generator-luxe): Tool for generating luxe projects, states, entities and components
 
 ### Utilities
 * [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
