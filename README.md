@@ -188,7 +188,23 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Rush](http://gamejolt.com/games/rush/85421): Arcade runner game about love and throwing crates. [Source (GitHub)](https://github.com/Zielak/gbjam4)
 
 #### Ludum Dare 33
-[_Placeholder - feel free to submit a pull request if you've made a LD33 entry using snow/luxe_]
+<a href="http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=23611"><img src="http://ludumdare.com/compo/wp-content/compo2//479518/23611-shot0-1440373257.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=34"><img src="http://ludumdare.com/compo/wp-content/compo2//479518/34-shot0-1440379320.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=41337"><img src="http://ludumdare.com/compo/wp-content/compo2//479518/41337-shot0-1440364827.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=30512"><img src="http://ludumdare.com/compo/wp-content/compo2//479518/30512-shot1-1440363242.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=25271"><img src="http://ludumdare.com/compo/wp-content/compo2//479518/25271-shot0-1440549093.jpg-crop-180-140.jpg"></a>
+
+* [Blobby Monster](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=23611): You must attack people while they're travelling from house to house. [Source (zip)](http://imdeity.com/ludum/33/Source.zip)
+* [Hugzilla](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=34): Hug everything to death in this cute colorful 3D game. [Source (GitHub)](https://github.com/joeld42/ld48jovoc)
+* [I'm not a monster](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=41337): You play as a good monster trying to convience people of your good intentions. [Source (GitHub)](https://github.com/EduardoLopes/LD33)
+* [Monster's Ball](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=30512): Participate in the monsters' favorite pasttime where you throw rubber balls at things. [Source (GitHub)](https://github.com/anissen/ld33)
+* [The monster](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=25271): Visual novel where you play as a monster. [Source (GitHub)](https://github.com/mrcdk/ld33)
+
+<!--
+<a href="link"><img src="picture"></a>
+* [Title](link): Description. [Source (GitHub)](source)
+-->
+
 
 ### Generators
 * [Slush generator](https://github.com/Clever-Coding/slush-luxe): Tool for generating new luxe projects, states, entities, components and more
