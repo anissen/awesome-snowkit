@@ -227,6 +227,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [L-System](https://github.com/whuop/L-System): Lindenmayer system for generating trees.
 * [WhuopLib](https://github.com/whuop/WhuopLib): A set of helper classes, such as loading Entities/Sprites from json.
 * [Spatial Hash](https://gist.github.com/RudenkoArt/2bc27bb7af9338699cda): Broad-phase algorithm for collision detection on uniform grids.
+* [Pincushion](https://github.com/le-doux/pincushion): Vector game editor & animation tool. [Test game](https://github.com/le-doux/Star-Gazer) for Pincushion.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
