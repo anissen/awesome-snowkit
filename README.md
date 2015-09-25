@@ -218,6 +218,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle system for OpenFL and Luxe. Compatible with Particle Designer.
 * [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus): 2D environment modeling and pathfinding.
 * [LuxeParticleDesigner](https://github.com/FuzzyWuzzie/LuxeParticleDesigner): A tool for quickly designing / tweaking particle systems in Luxe.
+* [AutoTerrainGen](https://github.com/Zielak/AutoTerrainGen): Generate terrain maps for Tiled by providing 2 or more tilesets.
 
 ### Libraries
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
@@ -229,6 +230,8 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [WhuopLib](https://github.com/whuop/WhuopLib): A set of helper classes, such as loading Entities/Sprites from json.
 * [Spatial Hash](https://gist.github.com/RudenkoArt/2bc27bb7af9338699cda): Broad-phase algorithm for collision detection on uniform grids.
 * [Pincushion](https://github.com/le-doux/pincushion): Vector game editor & animation tool. [Test game](https://github.com/le-doux/Star-Gazer) for Pincushion.
+* [hxGameJolt](https://github.com/Zielak/hxGameJolt): [Game Jolt](http://gamejolt.com/) API for Haxe users. Includes Luxe example.
+* [DConsole](https://github.com/ProG4mr/dconsole): In-game drop-down console that provides runtime acess to methods, variables and more.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
@@ -259,6 +262,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [BYRL](http://jonathanhirz.itch.io/byrl) (Mac/Windows, free¹): Backyard roguelike.
 * [Widgeteer](http://brodybrooks.com/widget) (Web, free): Connect components to from complex machines. Uses Luxe and Mint.
 * [profectus.4](http://junongx.itch.io/profectus4) (Android, free¹): Minimalistic geometry shooter.
+* [Kung Fu Kid](http://dj_pale.itch.io/kung-fu-kid) (Web/Linux, free¹): Retro arcade game inspired by the old classic "Kung Fu" on Arcade and multiple 8-bit machines.
 
 ¹ Name your own price (can be free).
 
