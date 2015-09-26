@@ -255,7 +255,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Polar Wrap](https://gist.github.com/KeyMaster-/2bb5e20f824241f3caef): Luxe polar warp shader.
 * [Tilt Shift](https://gist.github.com/underscorediscovery/10324388): Tilt shift shader.
 
-### Closed Source Games
+### Released Games
 * [3720](http://jtruher.itch.io/3720-1) (Mac/Windows, free¹): Space shooter/dodger from a pigsquad game jam.
 * [Marballs](http://jtruher.itch.io/marballs) (Mac/Windows, free¹): It's marbles, bumping into each other.
 * [Zombie Shooter](http://jonathanhirz.itch.io/unnamed-shooter) (Mac, free¹): An in-development top down shooter.
@@ -263,6 +263,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Widgeteer](http://brodybrooks.com/widget) (Web, free): Connect components to from complex machines. Uses Luxe and Mint.
 * [profectus.4](http://junongx.itch.io/profectus4) (Android, free¹): Minimalistic geometry shooter.
 * [Kung Fu Kid](http://dj_pale.itch.io/kung-fu-kid) (Web/Linux, free¹): Retro arcade game inspired by the old classic "Kung Fu" on Arcade and multiple 8-bit machines.
+* [Anchorverse](http://ziege.itch.io/anchorverse) (Windows/Linux/Source, free¹): Become a hero! Go save the Anchorverse!
 
 ¹ Name your own price (can be free).
 
