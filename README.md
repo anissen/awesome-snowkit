@@ -127,8 +127,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [snõw on GitHub](https://github.com/underscorediscovery/snow)
 
 ### Projects
-* [horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and snow.
+<!-- REMOVED: * [horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and snow. -->
 * [BabylonHx](https://github.com/vujadin/BabylonHx): A direct port of Babylon.js 3D engine to snow.
+* [tusk](https://github.com/BlazingMammothGames/tusk): A game engine built on top of snõw
 
 
 # luxe resources
