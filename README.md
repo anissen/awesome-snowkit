@@ -163,7 +163,8 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [LD32 Warm-Up](https://github.com/DjPale/ld32-warmup): Warmup game prior to LD32.
 * [vshooter](https://gitlab.com/jonathanhirz/vshooter): A vertical space, _shmup_ type, shooter.
 * [Celox Inpes](https://github.com/JunoNgx/celox-inpes): A very fast-pased _shmup_ type shooter.
-* [BYRL](https://gitlab.com/jonathanhirz/fathersdayjam): Source code for roguelike that takes place in a backyard.
+* [BYRL](https://gitlab.com/jonathanhirz/fathersdayjam): Roguelike that takes place in a backyard.
+* [Seeker](https://github.com/userotti/seeker): Space shooter prototype.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
@@ -183,7 +184,6 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Normal Mapping](https://github.com/josuigoa/experiments/tree/master/luxe/normal_mapping): Experiment in creating normal mapped texture ([screenshot](https://raw.githubusercontent.com/josuigoa/experiments/master/luxe/normal_mapping/normal_mapping.gif)).
 * [Perlin Clouds](https://github.com/josuigoa/experiments/tree/master/luxe/perlin_clouds): Experiment in creating a texture with Perlin noise ([screenshot](https://github.com/josuigoa/experiments/raw/master/luxe/perlin_clouds/perlin_clouds.gif)).
 * [Luxe3D](https://github.com/FuzzyWuzzie/Luxe3D): Experiments in 3D in Luxe.
-* [Seeker](https://github.com/userotti/seeker): Space shooter prototype.
 
 ### Game Jams
 
@@ -243,7 +243,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 ### Utilities
 * [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer): Haxe map importer for Pyxel Edit for the free & paid version. Includes helper for luxe.
-* [Pixel Sprite Generator](https://github.com/Zielak/pixel-sprite-generator-luxe): Pixel Sprite Generator prepared for Luxe engine
+* [Pixel Sprite Generator](https://github.com/Zielak/pixel-sprite-generator-luxe): Pixel sprite generator prepared for Luxe engine.
 * [IsometricEdit](https://github.com/DjPale/IsometricEdit): Simple graphical tile editor for isometric spritesheets
 * [zame-haxe-particles](https://github.com/restorer/zame-haxe-particles): Particle system for OpenFL and Luxe. Compatible with Particle Designer.
 * [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus): 2D environment modeling and pathfinding.
