@@ -183,6 +183,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Normal Mapping](https://github.com/josuigoa/experiments/tree/master/luxe/normal_mapping): Experiment in creating normal mapped texture ([screenshot](https://raw.githubusercontent.com/josuigoa/experiments/master/luxe/normal_mapping/normal_mapping.gif)).
 * [Perlin Clouds](https://github.com/josuigoa/experiments/tree/master/luxe/perlin_clouds): Experiment in creating a texture with Perlin noise ([screenshot](https://github.com/josuigoa/experiments/raw/master/luxe/perlin_clouds/perlin_clouds.gif)).
 * [Luxe3D](https://github.com/FuzzyWuzzie/Luxe3D): Experiments in 3D in Luxe.
+* [Seeker](https://github.com/userotti/seeker): Space shooter prototype.
 
 ### Game Jams
 
