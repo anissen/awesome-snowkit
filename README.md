@@ -264,6 +264,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Pincushion](https://github.com/le-doux/pincushion): Vector game editor & animation tool. [Test game](https://github.com/le-doux/Star-Gazer) for Pincushion.
 * [hxGameJolt](https://github.com/Zielak/hxGameJolt): [Game Jolt](http://gamejolt.com/) API for Haxe users. Includes Luxe example.
 * [DConsole](https://github.com/ProG4mr/dconsole): In-game drop-down console that provides runtime acess to methods, variables and more.
+* [gessie](https://github.com/kevinresol/gessie): Gesture recognition library with support for Luxe and OpenFL.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
