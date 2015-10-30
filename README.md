@@ -130,6 +130,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <!-- REMOVED: * [horror](https://github.com/eliasku/horror): Mid-level 2D GPU framework. Compatible with OpenFL, Lime and snow. -->
 * [BabylonHx](https://github.com/vujadin/BabylonHx): A direct port of Babylon.js 3D engine to snow.
 * [tusk](https://github.com/BlazingMammothGames/tusk): A game engine built on top of snõw
+* [ChopEngine](https://github.com/Ohmnivore/ChopEngine): A Haxe cross-platform 3D game engine built on top of snow and Lime.
 
 
 # luxe resources
