@@ -186,6 +186,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Perlin Clouds](https://github.com/josuigoa/experiments/tree/master/luxe/perlin_clouds): Experiment in creating a texture with Perlin noise ([screenshot](https://github.com/josuigoa/experiments/raw/master/luxe/perlin_clouds/perlin_clouds.gif)).
 * [Luxe3D](https://github.com/FuzzyWuzzie/Luxe3D): Experiments in 3D in Luxe.
 * [Dancefloor](https://github.com/Zielak/dancefloor): Dance floor simulator!
+* [LuxePixelPerfect](https://github.com/MicUurloon/LuxePixelPerfect): Luxe example of a pixel perfect zoom.
 
 ### Game Jams
 
