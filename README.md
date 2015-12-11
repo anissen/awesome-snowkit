@@ -187,6 +187,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Luxe3D](https://github.com/FuzzyWuzzie/Luxe3D): Experiments in 3D in Luxe.
 * [Dancefloor](https://github.com/Zielak/dancefloor): Dance floor simulator!
 * [LuxePixelPerfect](https://github.com/MicUurloon/LuxePixelPerfect): Luxe example of a pixel perfect zoom.
+* [RegisAgro](https://github.com/FuzzyWuzzie/RegisAgro): An unfinished implementation of hnefatafl ("Kings Table"). Demonstrates shader effects setup.
 
 ### Game Jams
 
