@@ -234,6 +234,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Monster's Ball](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=30512): Participate in the monsters' favorite pasttime where you throw rubber balls at things. [Source (GitHub)](https://github.com/anissen/ld33)
 * [The monster](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=25271): Visual novel where you play as a monster. [Source (GitHub)](https://github.com/mrcdk/ld33)
 
+#### Ludum Dare 34
+
+_Made a game for Ludum Dare 34 using a member of the snowkit family? Feel free to create a pull request, issue or ping me on [the chat](https://gitter.im/snowkit/public)._
+
 <!--
 <a href="link"><img src="picture"></a>
 * [Title](link): Description. [Source (GitHub)](source)
