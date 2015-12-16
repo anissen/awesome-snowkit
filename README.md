@@ -240,6 +240,17 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 _Made a game for Ludum Dare 34 using a member of the snowkit family? Feel free to create a pull request, issue or ping me on [the chat](https://gitter.im/snowkit/public)._
 
 <!--
+LD34 games made with Luxe/snow/tusk
+* Two Trees: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=7956
+* Eat and Run: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=47736
+* Ludum Party!: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=22923
+* Infinite Tower: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41337
+* Santa Rush: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41073
+* A Life in a Year: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=30512
+-->
+
+
+<!--
 <a href="link"><img src="picture"></a>
 * [Title](link): Description. [Source (GitHub)](source)
 -->
