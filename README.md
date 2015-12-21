@@ -236,25 +236,26 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [The monster](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=25271): Visual novel where you play as a monster. [Source (GitHub)](https://github.com/mrcdk/ld33)
 
 #### Ludum Dare 34
+<a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=47736"><img src="http://ludumdare.com/compo/wp-content/compo2//511439/47736-shot1-1450061808.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=38590"><img src="http://ludumdare.com/compo/wp-content/compo2//511439/38590-shot0-1450047052.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41337"><img src="http://ludumdare.com/compo/wp-content/compo2//511439/41337-shot0-1450053096.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=30512"><img src="http://ludumdare.com/compo/wp-content/compo2//511439/30512-shot0-1450045142.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=22923"><img src="http://ludumdare.com/compo/wp-content/compo2//511439/22923-shot1-1450039508.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41073"><img src="http://ludumdare.com/compo/wp-content/compo2//511439/41073-shot2-1450118046.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=7956"><img src="http://ludumdare.com/compo/wp-content/compo2//511439/7956-shot0-1450061085.png-crop-180-140.jpg"></a>
 
-_Made a game for Ludum Dare 34 using a member of the snowkit family? Feel free to create a pull request, issue or ping me on [the chat](https://gitter.im/snowkit/public)._
-
-<!--
-LD34 games made with Luxe/snow/tusk
-* Two Trees: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=7956
-* Eat and Run: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=47736
-* Ludum Party!: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=22923
-* Infinite Tower: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41337
-* Santa Rush: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41073
-* A Life in a Year: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=30512
--->
-
+* [Eat and Run](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=47736): Eat ants. Beware of ants. [Source (GitHub)](https://github.com/RudenkoArt/LD34)
+* [Hungry Spider](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=38590): You're a spider! Eat, but not too much. Avoid Spikes. [Source (GitHub)](https://github.com/Zielak/LDJAM34)
+* [Infinite Tower](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41337): Climb the infinite tower. [Source (GitHub)](https://github.com/EduardoLopes/LD34)
+* [A Life in a Year](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=30512): You guide a young tree in its first year of life. Collect items to grow and prosper. [Source (GitHub)](https://github.com/anissen/ld34)
+* [Ludum Party!](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=22923): Challenge a friend or CPU to a series of minigames! Made with [tusk](https://github.com/BlazingMammothGames/tusk). [Source (GitHub)](https://github.com/FuzzyWuzzie/LD34)
+* [Santa Rush](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41073): In this game you must deliver presents to igloos as fast as possible. Good luck! [Source (GitHub)](https://github.com/Dohxis/LD34)
+* [Two Trees](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=7956): A game about growing trees. You and another fine young tree are on a hill, growing away. [Source (zip)](http://www.mediafire.com/download/lqsflxzfmv718kw/twotrees.zip)
 
 <!--
 <a href="link"><img src="picture"></a>
 * [Title](link): Description. [Source (GitHub)](source)
 -->
-
 
 ### Generators
 * [Slush Generator](https://github.com/Clever-Coding/slush-luxe): Tool for generating new luxe projects, states, entities, components and more
