@@ -317,6 +317,7 @@ LD34 games made with Luxe/snow/tusk
 * [profectus.4](http://junongx.itch.io/profectus4) (Android, free¹): Minimalistic geometry shooter.
 * [Kung Fu Kid](http://dj_pale.itch.io/kung-fu-kid) (Web/Linux, free¹): Retro arcade game inspired by the old classic "Kung Fu" on Arcade and multiple 8-bit machines.
 * [Anchorverse](http://ziege.itch.io/anchorverse) (Windows/Linux/Source, free¹): Become a hero! Go save the Anchorverse!
+* [Threes!](http://play.threesgame.com) (Web, free): Threes is tiny puzzle that grows on you.
 
 ¹ Name your own price (can be free).
 
