@@ -318,6 +318,7 @@ LD34 games made with Luxe/snow/tusk
 * [Kung Fu Kid](http://dj_pale.itch.io/kung-fu-kid) (Web/Linux, free¹): Retro arcade game inspired by the old classic "Kung Fu" on Arcade and multiple 8-bit machines.
 * [Anchorverse](http://ziege.itch.io/anchorverse) (Windows/Linux/Source, free¹): Become a hero! Go save the Anchorverse!
 * [Threes!](http://play.threesgame.com) (Web, free): Threes is tiny puzzle that grows on you.
+* [Fargerfight Arque](http://junongx.itch.io/fargerfight-arque) (Android/iOS/Source, free¹): Local-multiplayer smartphone violence.
 
 ¹ Name your own price (can be free).
 
