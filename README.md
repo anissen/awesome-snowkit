@@ -166,6 +166,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Celox Inpes](https://github.com/JunoNgx/celox-inpes): A very fast-pased _shmup_ type shooter.
 * [BYRL](https://gitlab.com/jonathanhirz/fathersdayjam): Roguelike that takes place in a backyard.
 * [Seeker](https://github.com/userotti/seeker): Space shooter prototype.
+* [Shooting Desk](https://github.com/Zielak/ShootingDesk): Turn-based team shooting game. Imagine Counter-Strike played like the old Heroes games.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
