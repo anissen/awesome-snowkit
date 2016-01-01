@@ -146,6 +146,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
   * [API docs](http://luxeengine.com/docs/api/index.html)
 * [luxe on GitHub](https://github.com/underscorediscovery/luxe)
 
+### Templates
+* [luxeTpl](https://github.com/JunoNgx/luxeTpl): A state-centric template for the Luxe Engine.
+* [GreenTemplate](https://github.com/Zielak/GreenTemplate): Template for quickly prototyping Luxe games.
+
 ### Games
 * [BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
 * [SQUARE](https://github.com/Eiyeron/-SQUARE-): Complete, but minimalistic, game.
@@ -189,7 +193,6 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Dancefloor](https://github.com/Zielak/dancefloor): Dance floor simulator!
 * [LuxePixelPerfect](https://github.com/MicUurloon/LuxePixelPerfect): Luxe example of a pixel perfect zoom.
 * [RegisAgro](https://github.com/FuzzyWuzzie/RegisAgro): An unfinished implementation of hnefatafl ("Kings Table"). Demonstrates shader effects setup.
-* [GreenTemplate](https://github.com/Zielak/GreenTemplate): Template for quickly prototyping Luxe games.
 
 ### Game Jams
 
