@@ -324,6 +324,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Anchorverse](http://ziege.itch.io/anchorverse) (Windows/Linux/Source, free¹): Become a hero! Go save the Anchorverse!
 * [Threes!](http://play.threesgame.com) (Web, free): Threes is tiny puzzle that grows on you.
 * [Fargerfight Arque](http://junongx.itch.io/fargerfight-arque) (Android/iOS/Source, free¹): Local-multiplayer smartphone violence.
+* [The Westport Independent](http://www.doublezeroonezero.com/westport.html) (Mac/Windows/Linux/Android/iOS, price depending on platform): _A game about corruption and newspapers_
 
 ¹ Name your own price (can be free).
 
