@@ -361,6 +361,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Development log, part 1](http://snowkit.org/2015/01/25/mint-details-part-1/)
 * [Alpha release annoncement](http://snowkit.org/2015/08/21/mint-alpha-release/)
 
+### Examples
+
+* [Mint example](https://github.com/stisa/mint-example): Basic example using Window and Label.
+
 
 # linc resources
 
