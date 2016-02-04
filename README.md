@@ -193,6 +193,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Dancefloor](https://github.com/Zielak/dancefloor): Dance floor simulator!
 * [LuxePixelPerfect](https://github.com/MicUurloon/LuxePixelPerfect): Luxe example of a pixel perfect zoom.
 * [RegisAgro](https://github.com/FuzzyWuzzie/RegisAgro): An unfinished implementation of hnefatafl ("Kings Table"). Demonstrates shader effects setup.
+* [Luxe Net Test](https://github.com/stisa/luxe-net-test): Example of a multiplayer game, using node.js as the game server and luxe as client.
 
 ### Game Jams
 
