@@ -306,6 +306,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [DConsole](https://github.com/ProG4mr/dconsole): In-game drop-down console that provides runtime acess to methods, variables and more.
 * [gessie](https://github.com/kevinresol/gessie): Gesture recognition library with support for Luxe and OpenFL.
 * [SpriterHaxeEngine](https://github.com/loudoweb/SpriterHaxeEngine): Use animations from Brashmonkey's Spriter SCML in Luxe and OpenFL.
+* [Luxe ASCII](https://github.com/mattj1/luxe_ascii): ASCII Rendering for Luxe.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
