@@ -114,6 +114,8 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [FlashDevelop](http://underscorediscovery.github.io/flow/guide/flashdevelop.html)
 * [Atom](https://github.com/snowkit/atom-flow)
 
+### Articles
+* [Using Hooks](http://stisa.space/articles/luxe-hooks/): Using hooks to set up scripts to run before/after flow
 
 # snõw resources
 
