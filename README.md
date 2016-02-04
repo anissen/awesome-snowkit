@@ -256,6 +256,13 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Santa Rush](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41073): In this game you must deliver presents to igloos as fast as possible. Good luck! [Source (GitHub)](https://github.com/Dohxis/LD34)
 * [Two Trees](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=7956): A game about growing trees. You and another fine young tree are on a hill, growing away. [Source (zip)](http://www.mediafire.com/download/lqsflxzfmv718kw/twotrees.zip)
 
+#### Global Game Jam 2016
+
+<a href="http://globalgamejam.org/2016/games/alien-growth"><img src="http://globalgamejam.org/sites/default/files/styles/game_sidebar__wide/public/game/featured_image/aliengrowthfront.png?itok=8zcc35Q0" width="200px"></a>
+<a href="http://globalgamejam.org/2016/games/le-pr%C3%A9cheur"><img src=http://globalgamejam.org/sites/default/files/styles/game_sidebar__wide/public/game/featured_image/soon.png?itok=LTY8NQV9" width="200px"></a>
+* [Alien Growth](http://globalgamejam.org/2016/games/alien-growth): Watch procedurally generated, alien plants grow. Perform rituals to alter your plant. [Source (GitHub)](https://github.com/KeyMaster-/AlienGrowth)
+* [Le précheur](http://globalgamejam.org/2016/games/le-pr%C3%A9cheur): Watch people's habits and choose the correct action to help convert people to your faith. [Source (zip)](http://ggj.s3.amazonaws.com/games/2016/01/31/1632/le_precheur_sources.zip)
+
 <!--
 <a href="link"><img src="picture"></a>
 * [Title](link): Description. [Source (GitHub)](source)
