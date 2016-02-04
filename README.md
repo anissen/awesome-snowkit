@@ -148,6 +148,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
   * [API docs](http://luxeengine.com/docs/api/index.html)
 * [luxe on GitHub](https://github.com/underscorediscovery/luxe)
 
+### Articles
+* [Luxe and Universal Windows Apps](http://stisa.space/articles/luxeengine-universal-windows-app/)
+* [Custom Web Layout](http://stisa.space/articles/custom-web-layout/)
+
 ### Templates
 * [luxeTpl](https://github.com/JunoNgx/luxeTpl): A state-centric template for the Luxe Engine.
 * [GreenTemplate](https://github.com/Zielak/GreenTemplate): Template for quickly prototyping Luxe games.
