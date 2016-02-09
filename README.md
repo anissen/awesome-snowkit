@@ -291,6 +291,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus): 2D environment modeling and pathfinding.
 * [LuxeParticleDesigner](https://github.com/FuzzyWuzzie/LuxeParticleDesigner): A tool for quickly designing / tweaking particle systems in Luxe.
 * [AutoTerrainGen](https://github.com/Zielak/AutoTerrainGen): Generate terrain maps for Tiled by providing 2 or more tilesets.
+* [LuxePolygonDraw](https://github.com/le-doux/LuxePolygonDraw): Vector level editor.
 
 ### Libraries
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
