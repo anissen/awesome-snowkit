@@ -292,6 +292,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [LuxeParticleDesigner](https://github.com/FuzzyWuzzie/LuxeParticleDesigner): A tool for quickly designing / tweaking particle systems in Luxe.
 * [AutoTerrainGen](https://github.com/Zielak/AutoTerrainGen): Generate terrain maps for Tiled by providing 2 or more tilesets.
 * [LuxePolygonDraw](https://github.com/le-doux/LuxePolygonDraw): Vector level editor.
+* [AdventurEd](https://github.com/le-doux/AdventurEd): Level editor for an adventure game.
 
 ### Libraries
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
