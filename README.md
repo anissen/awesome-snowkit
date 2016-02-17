@@ -119,6 +119,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Articles
 * [Using Hooks](http://stisa.space/articles/luxe-hooks/): Using hooks to set up scripts to run before/after flow
 
+
 # snõw resources
 
 <img align="right" src="http://snowkit.org/content/images/2014/Sep/snow.png">
@@ -135,6 +136,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [BabylonHx](https://github.com/vujadin/BabylonHx): A direct port of Babylon.js 3D engine to snow.
 * [tusk](https://github.com/BlazingMammothGames/tusk): A game engine built on top of snõw
 * [ChopEngine](https://github.com/Ohmnivore/ChopEngine): A Haxe cross-platform 3D game engine built on top of snow and Lime.
+* [GPU-Fluid-Experiments](https://github.com/haxiomic/GPU-Fluid-Experiments/tree/snow): Cross-platform GPU fluid simulation.
 
 
 # luxe resources
