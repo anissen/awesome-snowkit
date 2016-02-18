@@ -205,6 +205,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [RegisAgro](https://github.com/FuzzyWuzzie/RegisAgro): An unfinished implementation of hnefatafl ("Kings Table"). Demonstrates shader effects setup.
 * [Luxe Net Test](https://github.com/stisa/luxe-net-test): Example of a multiplayer game, using node.js as the game server and luxe as client.
 * [Mazes](https://github.com/stisa/mazes): Depth First Search mazes implemented in luxe.
+* [AdventurEr](https://github.com/le-doux/AdventurEr): Test client for scrolling adventure game.
 
 ### Game Jams
 
