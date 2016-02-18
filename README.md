@@ -8,6 +8,7 @@
   * [Documentation](#documentation)
   * [Forums](#forums)
   * [Twitter](#twitter)
+  * [Tools](#tools)
   * [Editor Support](#editor-support)
   * [Sublime Text](#sublime-text)
   * [FlashDevelop](#flashdevelop)
@@ -68,6 +69,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [@snowkitorg](https://twitter.com/snowkitorg): Official snõwkit twitter account
 * [snõwkit feed](https://twitter.com/hashtag/snowkitcommunity?f=realtime): Tweets containing #snowkitcommunity
 * [luxe feed](https://twitter.com/hashtag/luxeengine?f=realtime): Tweets containing #luxeengine
+
+### Tools
+* [snowfall](https://github.com/underscorediscovery/snowfall): Simple tool to install and update luxe + snow more conveniently (see [blog post](http://snowkit.org/2016/02/17/snowfall/)).
 
 ### Editor Support
 
