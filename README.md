@@ -385,6 +385,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Examples
 
 * [Mint example](https://github.com/stisa/mint-example): Basic example using Window and Label.
+* [Mint/Kha package](https://github.com/sh-dave/mint-kha-package): Tests to see how well mint and Kha work together.
 
 
 # linc resources
