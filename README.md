@@ -401,6 +401,33 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 * [Announcing linc: SDL & more with Haxe only](http://snowkit.org/2015/08/24/announcing-linc/)
 
+### Libraries
+
+#### Official
+* [linc_empty](https://github.com/snowkit/linc_empty): An empty linc library.
+* [linc_stb](https://github.com/snowkit/linc_stb): Bindings for stb libraries.
+* [linc_icloud](https://github.com/snowkit/linc_icloud): Bindings for iCloud.
+* [linc_sdl](https://github.com/snowkit/linc_sdl): Bindings for SDL.
+* [linc_opengl](https://github.com/snowkit/linc_opengl): Bindings for OpenGL.
+* [linc_filewatch](https://github.com/snowkit/linc_filewatch): Bindings for OS file change notifications.
+* [linc_dialogs](https://github.com/snowkit/linc_dialogs): Bindings for Open, Folder, and Save dialogs.
+* [linc_glew](https://github.com/snowkit/linc_glew): Bindings for GLEW.
+* [linc_enet](https://github.com/snowkit/linc_enet): Bindings for Enet networking.
+* [linc_openal](https://github.com/snowkit/linc_openal): Bindings for OpenAL.
+* [linc_timestamp](https://github.com/snowkit/linc_timestamp): Bindings for high precision timestamp.
+* [linc_ogg](https://github.com/snowkit/linc_ogg): Bindings for Ogg vorbis decoding.
+
+#### Third Party
+* [linc_box2d](https://github.com/DanielUranga/box2d-linc): Bindings for Box2D.
+* [linc_rtmidi](https://github.com/KeyMaster-/linc_rtmidi): Bindings for RtMidi.
+* [linc_squirrel](https://github.com/RudenkoArt/linc_squirrel): Vindings for Squirrel-Lang.
+* [linc_clipboard](https://github.com/josuigoa/linc_clipboard): Bindings for the system clipboard.
+* [linc_luajit](https://github.com/RudenkoArt/linc_luajit): Bindings for LuaJIT.
+* [linc_libvpx](https://github.com/mrcdk/linc_libvpx): Bindings for libvpx (experimental).
+* [linc_linenoise](https://github.com/vrescobar/linc_linenoise): Bindings for linenoise.
+* [linc_ffmpeg](https://github.com/delahee/linc_ffmpeg): Bindings for ffmpeg (experimental).
+* [linc_socketio](https://github.com/arturocastro/linc_socketio): Bindings for socket.io client.
+
 
 # scrìbe resources
 
