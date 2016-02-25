@@ -422,7 +422,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 #### Third Party
 * [linc_box2d](https://github.com/DanielUranga/box2d-linc): Bindings for Box2D.
 * [linc_rtmidi](https://github.com/KeyMaster-/linc_rtmidi): Bindings for RtMidi.
-* [linc_squirrel](https://github.com/RudenkoArt/linc_squirrel): Vindings for Squirrel-Lang.
+* [linc_squirrel](https://github.com/RudenkoArt/linc_squirrel): Bindings for Squirrel-Lang.
 * [linc_clipboard](https://github.com/josuigoa/linc_clipboard): Bindings for the system clipboard.
 * [linc_luajit](https://github.com/RudenkoArt/linc_luajit): Bindings for LuaJIT.
 * [linc_libvpx](https://github.com/mrcdk/linc_libvpx): Bindings for libvpx (experimental).
