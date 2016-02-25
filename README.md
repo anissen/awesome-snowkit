@@ -40,6 +40,7 @@
 * [linc resources](#linc-resources)
   * [Websites](#websites-6)
   * [Blog Posts](#blog-posts-1)
+  * [Libraries](#libraries-1)
 * [scrìbe resources](#scrìbe-resources)
   * [Websites](#websites-7)
 * [deviše resources](#deviše-resources)
