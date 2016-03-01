@@ -142,7 +142,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [tusk](https://github.com/BlazingMammothGames/tusk): A game engine built on top of snõw
 * [ChopEngine](https://github.com/Ohmnivore/ChopEngine): A Haxe cross-platform 3D game engine built on top of snow and Lime.
 * [GPU-Fluid-Experiments](https://github.com/haxiomic/GPU-Fluid-Experiments/tree/snow): Cross-platform GPU fluid simulation.
-
+* [snow-8](https://github.com/FuzzyWuzzie/snow-8): A CHIP-8 emulator.
 
 # luxe resources
 
@@ -186,6 +186,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [BYRL](https://gitlab.com/jonathanhirz/fathersdayjam): Roguelike that takes place in a backyard.
 * [Seeker](https://github.com/userotti/seeker): Space shooter prototype.
 * [Shooting Desk](https://github.com/Zielak/ShootingDesk): Turn-based team shooting game. Imagine Counter-Strike played like the old Heroes games.
+* [Mobile Space](https://gitlab.com/jonathanhirz/mobile_space): Space shooter game.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
