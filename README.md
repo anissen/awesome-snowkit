@@ -187,6 +187,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Seeker](https://github.com/userotti/seeker): Space shooter prototype.
 * [Shooting Desk](https://github.com/Zielak/ShootingDesk): Turn-based team shooting game. Imagine Counter-Strike played like the old Heroes games.
 * [Mobile Space](https://gitlab.com/jonathanhirz/mobile_space): Space shooter game.
+* [Tetromonic](https://github.com/graphnode/tetromonic): A tetromino game under development.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
@@ -212,6 +213,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Luxe Net Test](https://github.com/stisa/luxe-net-test): Example of a multiplayer game, using node.js as the game server and luxe as client.
 * [Mazes](https://github.com/stisa/mazes): Depth First Search mazes implemented in luxe.
 * [AdventurEr](https://github.com/le-doux/AdventurEr): Test client for scrolling adventure game.
+* [Voxel Load](https://github.com/DjPale/voxel-load-luxe): Test for loading and displaying MagicaVoxel models
 
 ### Game Jams
 
