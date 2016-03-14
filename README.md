@@ -37,10 +37,12 @@
 * [mínt resources](#mínt-resources)
   * [Websites](#websites-5)
   * [Blog Posts](#blog-posts)
+  * [Examples](#examples)
+  * [Libraries](#libraries-1)
 * [linc resources](#linc-resources)
   * [Websites](#websites-6)
   * [Blog Posts](#blog-posts-1)
-  * [Libraries](#libraries-1)
+  * [Libraries](#libraries-2)
 * [scrìbe resources](#scrìbe-resources)
   * [Websites](#websites-7)
 * [deviše resources](#deviše-resources)
@@ -213,7 +215,8 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Luxe Net Test](https://github.com/stisa/luxe-net-test): Example of a multiplayer game, using node.js as the game server and luxe as client.
 * [Mazes](https://github.com/stisa/mazes): Depth First Search mazes implemented in luxe.
 * [AdventurEr](https://github.com/le-doux/AdventurEr): Test client for scrolling adventure game.
-* [Voxel Load](https://github.com/DjPale/voxel-load-luxe): Test for loading and displaying MagicaVoxel models
+* [Voxel Load](https://github.com/DjPale/voxel-load-luxe): Test for loading and displaying MagicaVoxel models.
+* [AdventurePathfinding](https://github.com/MicUurloon/AdventurePathfinding): Example code of a pathfinding method for 2d point and click adventure game.
 
 ### Game Jams
 
@@ -390,6 +393,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 * [Mint example](https://github.com/stisa/mint-example): Basic example using Window and Label.
 * [Mint/Kha package](https://github.com/sh-dave/mint-kha-package): Tests to see how well mint and Kha work together.
+
+### Libraries
+
+* [mint-json](https://github.com/FuzzyWuzzie/mint-json): A JSON loading system for the Mint UI.
 
 
 # linc resources
