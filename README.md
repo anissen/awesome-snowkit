@@ -309,6 +309,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [AutoTerrainGen](https://github.com/Zielak/AutoTerrainGen): Generate terrain maps for Tiled by providing 2 or more tilesets.
 * [LuxePolygonDraw](https://github.com/le-doux/LuxePolygonDraw): Vector level editor.
 * [AdventurEd](https://github.com/le-doux/AdventurEd): Level editor for an adventure game.
+* [Map Generator](https://github.com/zollenz/map-generator): A 2D map generator made with the Luxe Engine.
 
 ### Libraries
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
