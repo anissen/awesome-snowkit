@@ -166,6 +166,8 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Templates
 * [luxeTpl](https://github.com/JunoNgx/luxeTpl): A state-centric template for the Luxe Engine.
 * [GreenTemplate](https://github.com/Zielak/GreenTemplate): Template for quickly prototyping Luxe games.
+* [Luxe Template](https://github.com/zollenz/luxe-template): Template for games made with the Luxe engine.
+* [LD Template](https://github.com/DjPale/LD-template-luxe): Simple Luxe template for Ludum Dare.
 
 ### Games
 * [BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
