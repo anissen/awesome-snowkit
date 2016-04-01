@@ -327,6 +327,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [SpriterHaxeEngine](https://github.com/loudoweb/SpriterHaxeEngine): Use animations from Brashmonkey's Spriter SCML in Luxe and OpenFL.
 * [Luxe ASCII](https://github.com/mattj1/luxe_ascii): ASCII Rendering for Luxe.
 * [MpHx](https://github.com/5Mixer/mphx): A library that facilitates the creation of multiplayer games. Includes Luxe examples.
+* [hxNoise](https://github.com/whuop/hxNoise): A collection of noise functions for Haxe. Includes Luxe examples.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
