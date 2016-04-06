@@ -192,6 +192,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Shooting Desk](https://github.com/Zielak/ShootingDesk): Turn-based team shooting game. Imagine Counter-Strike played like the old Heroes games.
 * [Mobile Space](https://gitlab.com/jonathanhirz/mobile_space): Space shooter game.
 * [Tetromonic](https://github.com/graphnode/tetromonic): A tetromino game under development.
+* [Territory](https://github.com/5Mixer/Territory): Unfinished roguelike game.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
