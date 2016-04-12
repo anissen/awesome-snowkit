@@ -193,6 +193,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Mobile Space](https://gitlab.com/jonathanhirz/mobile_space): Space shooter game.
 * [Tetromonic](https://github.com/graphnode/tetromonic): A tetromino game under development.
 * [Territory](https://github.com/5Mixer/Territory): Unfinished roguelike game.
+* [CarrotPull](https://github.com/NicoM1/CarrotPull): Experimental game about talking to plants.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
@@ -220,6 +221,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [AdventurEr](https://github.com/le-doux/AdventurEr): Test client for scrolling adventure game.
 * [Voxel Load](https://github.com/DjPale/voxel-load-luxe): Test for loading and displaying MagicaVoxel models.
 * [AdventurePathfinding](https://github.com/MicUurloon/AdventurePathfinding): Example code of a pathfinding method for 2d point and click adventure game.
+* [Euclido](https://github.com/zollenz/euclido): A euclidian rhythm generator.
 
 ### Game Jams
 
