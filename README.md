@@ -292,6 +292,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Alien Growth](http://globalgamejam.org/2016/games/alien-growth): Watch procedurally generated, alien plants grow. Perform rituals to alter your plant. [Source (GitHub)](https://github.com/KeyMaster-/AlienGrowth)
 * [Le précheur](http://globalgamejam.org/2016/games/le-pr%C3%A9cheur): Watch people's habits and choose the correct action to help convert people to your faith. [Source (zip)](http://ggj.s3.amazonaws.com/games/2016/01/31/1632/le_precheur_sources.zip)
 
+<!-- #### LOWREZ Jam 2016 -->
+
+<!-- #### Ludum Dare 35 -->
+
 <!--
 <a href="link"><img src="picture"></a>
 * [Title](link): Description. [Source (GitHub)](source)
@@ -331,6 +335,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Luxe ASCII](https://github.com/mattj1/luxe_ascii): ASCII Rendering for Luxe.
 * [MpHx](https://github.com/5Mixer/mphx): A library that facilitates the creation of multiplayer games. Includes Luxe examples.
 * [hxNoise](https://github.com/whuop/hxNoise): A collection of noise functions for Haxe. Includes Luxe examples.
+* [Luxe Atlas](https://github.com/undefinist/luxe_atlas): Runtime atlas/texture packer for Luxe.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
