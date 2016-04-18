@@ -297,7 +297,28 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="https://itch.io/jam/lowrezjam2016/rate/61784"><img src="https://img.itch.io/aW1hZ2UvNjE3ODQvMjgwMDExLnBuZw==/original/EeV455.png" width="200px"></a>
 * [LZRS](https://itch.io/jam/lowrezjam2016/rate/61784): A laser-dodging game.
 
-<!-- #### Ludum Dare 35 -->
+<!-- 
+#### Ludum Dare 35
+?
+?
+?
+https://github.com/EduardoLopes/LD35
+
+?
+?
+?
+https://github.com/5Mixer/LD35
+
+The Tale of Lapkovius
+Find treasure in the dungeon and make your way out. And don't get discovered! 
+http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=24822
+https://ziege.itch.io/lapkovius
+
+ShiftSnap
+Plays like a 2d rubix cube 
+http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=16241
+?
+-->
 
 <!--
 <a href="link"><img src="picture"></a>
