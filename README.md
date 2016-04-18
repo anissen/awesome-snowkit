@@ -292,7 +292,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Alien Growth](http://globalgamejam.org/2016/games/alien-growth): Watch procedurally generated, alien plants grow. Perform rituals to alter your plant. [Source (GitHub)](https://github.com/KeyMaster-/AlienGrowth)
 * [Le précheur](http://globalgamejam.org/2016/games/le-pr%C3%A9cheur): Watch people's habits and choose the correct action to help convert people to your faith. [Source (zip)](http://ggj.s3.amazonaws.com/games/2016/01/31/1632/le_precheur_sources.zip)
 
-<!-- #### LOWREZ Jam 2016 -->
+#### LOWREZ Jam 2016
+
+<a href="https://itch.io/jam/lowrezjam2016/rate/61784"><img src="https://img.itch.io/aW1hZ2UvNjE3ODQvMjgwMDExLnBuZw==/original/EeV455.png" width="200px"></a>
+* [LZRS](https://itch.io/jam/lowrezjam2016/rate/61784): A laser-dodging game.
 
 <!-- #### Ludum Dare 35 -->
 
