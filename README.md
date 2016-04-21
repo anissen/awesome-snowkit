@@ -286,39 +286,34 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Two Trees](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=7956): A game about growing trees. You and another fine young tree are on a hill, growing away. [Source (zip)](http://www.mediafire.com/download/lqsflxzfmv718kw/twotrees.zip)
 
 #### Global Game Jam 2016
-
 <a href="http://globalgamejam.org/2016/games/alien-growth"><img src="http://globalgamejam.org/sites/default/files/styles/game_sidebar__wide/public/game/featured_image/aliengrowthfront.png?itok=8zcc35Q0" width="200px"></a>
 <a href="http://globalgamejam.org/2016/games/le-pr%C3%A9cheur"><img src=http://globalgamejam.org/sites/default/files/styles/game_sidebar__wide/public/game/featured_image/soon.png?itok=LTY8NQV9" width="200px"></a>
 * [Alien Growth](http://globalgamejam.org/2016/games/alien-growth): Watch procedurally generated, alien plants grow. Perform rituals to alter your plant. [Source (GitHub)](https://github.com/KeyMaster-/AlienGrowth)
 * [Le précheur](http://globalgamejam.org/2016/games/le-pr%C3%A9cheur): Watch people's habits and choose the correct action to help convert people to your faith. [Source (zip)](http://ggj.s3.amazonaws.com/games/2016/01/31/1632/le_precheur_sources.zip)
 
 #### LOWREZ Jam 2016
-
 <a href="https://itch.io/jam/lowrezjam2016/rate/61784"><img src="https://img.itch.io/aW1hZ2UvNjE3ODQvMjgwMDExLnBuZw==/original/EeV455.png" width="200px"></a>
 * [LZRS](https://itch.io/jam/lowrezjam2016/rate/61784): A laser-dodging game.
 
-<!-- 
 #### Ludum Dare 35
-?
-?
-?
-https://github.com/EduardoLopes/LD35
-
-?
-?
-?
-https://github.com/5Mixer/LD35
-
-The Tale of Lapkovius
-Find treasure in the dungeon and make your way out. And don't get discovered! 
-http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=24822
-https://ziege.itch.io/lapkovius
-
-ShiftSnap
-Plays like a 2d rubix cube 
-http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=16241
-?
--->
+<a href="http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=30512"><img src="http://ludumdare.com/compo/wp-content/compo2//542293/30512-shot1-1460924147.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=35189"><img src="http://ludumdare.com/compo/wp-content/compo2//542293/35189-shot0-1460940973.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=41337"><img src="http://ludumdare.com/compo/wp-content/compo2//542293/41337-shot0-1461021132.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=24822"><img src="http://ludumdare.com/compo/wp-content/compo2//542293/24822-shot0-1461011276.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=16241"><img src="http://ludumdare.com/compo/wp-content/compo2//542293/16241-shot0-1460896335.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=36186"><img src="http://ludumdare.com/compo/wp-content/compo2//542293/36186-shot2-1460942734.PNG-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=9921"><img src="http://ludumdare.com/compo/wp-content/compo2//542293/9921-shot0-1461026003.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=89547"><img src="http://ludumdare.com/compo/wp-content/compo2//542293/89547-shot1-1461036951.png-crop-180-140.jpg"></a>
+<a href="http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=46201"><img src="http://ludumdare.com/compo/wp-content/compo2//542293/46201-shot2-1460921599.png-crop-180-140.jpg"></a>
+* [Geometry Ninja](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=30512): Slice geometry in evenly sized pieces in an ever-increasing rush against time. [Source (GitHub)](https://github.com/anissen/ld35)
+* [OUROBOROS](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=35189): Play as an infinitely long snakething trying to eat its own tail. [Source (GitHub)](https://github.com/undefinist/ld35)
+* [Pink](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=41337): Change the shape of the player to collect as many rectangles or circles as you can. [Source (GitHub)](https://github.com/EduardoLopes/LD35)
+* [The Tale of Lapkovius](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=24822): Find treasure in the dungeon and make your way out. And don't get discovered! [Source (zip)](https://ziege.itch.io/lapkovius)
+* [ShiftSnap](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=16241): Plays like a 2D Rubik's cube [Source (GitHub)](https://github.com/5Mixer/LD35)
+* [Slime Tech](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=36186): Manipulate slime using attractors to charge up shapes and archieve science. [Source (GitHub)](https://github.com/foolmoron/slimysquad)
+* [Space Shift](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=9921): Small space shmup where your ship changes with different abilities every 3 seconds. [Source (GitHub)](https://github.com/DjPale/LD-template-luxe/tree/ld35-shapeshift)
+* [Strata: The Shapeshifting Microworld](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=89547): Find your way out of a shapeshifting microworld. [Source (GitHub)](http://github.com/AtomicPair/ld35)
+* [vertex.](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=46201): Resolve all line intersections before the time runs out. [Source (zip)](https://helyx.itch.io/vertex)
 
 <!--
 <a href="link"><img src="picture"></a>
