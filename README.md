@@ -449,28 +449,28 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 #### Official
 * [linc_empty](https://github.com/snowkit/linc_empty): An empty linc library.
-* [linc_stb](https://github.com/snowkit/linc_stb): Bindings for stb libraries.
-* [linc_icloud](https://github.com/snowkit/linc_icloud): Bindings for iCloud.
-* [linc_sdl](https://github.com/snowkit/linc_sdl): Bindings for SDL.
-* [linc_opengl](https://github.com/snowkit/linc_opengl): Bindings for OpenGL.
+* [linc_stb](https://github.com/snowkit/linc_stb): Bindings for [stb](https://github.com/nothings/stb) libraries.
+* [linc_icloud](https://github.com/snowkit/linc_icloud): Bindings for [iCloud](http://www.apple.com/icloud/).
+* [linc_sdl](https://github.com/snowkit/linc_sdl): Bindings for [SDL](https://www.libsdl.org/).
+* [linc_opengl](https://github.com/snowkit/linc_opengl): Bindings for [OpenGL](https://www.opengl.org/).
 * [linc_filewatch](https://github.com/snowkit/linc_filewatch): Bindings for OS file change notifications.
 * [linc_dialogs](https://github.com/snowkit/linc_dialogs): Bindings for Open, Folder, and Save dialogs.
-* [linc_glew](https://github.com/snowkit/linc_glew): Bindings for GLEW.
-* [linc_enet](https://github.com/snowkit/linc_enet): Bindings for Enet networking.
-* [linc_openal](https://github.com/snowkit/linc_openal): Bindings for OpenAL.
+* [linc_glew](https://github.com/snowkit/linc_glew): Bindings for [GLEW](http://glew.sourceforge.net/).
+* [linc_enet](https://github.com/snowkit/linc_enet): Bindings for [ENet](http://enet.bespin.org/) networking.
+* [linc_openal](https://github.com/snowkit/linc_openal): Bindings for [OpenAL](https://www.openal.org/).
 * [linc_timestamp](https://github.com/snowkit/linc_timestamp): Bindings for high precision timestamp.
-* [linc_ogg](https://github.com/snowkit/linc_ogg): Bindings for Ogg vorbis decoding.
+* [linc_ogg](https://github.com/snowkit/linc_ogg): Bindings for [Ogg vorbis](http://www.vorbis.com/) decoding.
 
 #### Third Party
-* [linc_box2d](https://github.com/DanielUranga/box2d-linc): Bindings for Box2D.
-* [linc_rtmidi](https://github.com/KeyMaster-/linc_rtmidi): Bindings for RtMidi.
-* [linc_squirrel](https://github.com/RudenkoArt/linc_squirrel): Bindings for Squirrel-Lang.
+* [linc_box2d](https://github.com/DanielUranga/box2d-linc): Bindings for [Box2D](http://box2d.org/).
+* [linc_rtmidi](https://github.com/KeyMaster-/linc_rtmidi): Bindings for [RtMidi](https://github.com/thestk/rtmidi).
+* [linc_squirrel](https://github.com/RudenkoArt/linc_squirrel): Bindings for the [Squirrel](http://www.squirrel-lang.org/) language.
 * [linc_clipboard](https://github.com/josuigoa/linc_clipboard): Bindings for the system clipboard.
-* [linc_luajit](https://github.com/RudenkoArt/linc_luajit): Bindings for LuaJIT ([wrapper](https://github.com/RudenkoArts/linc_lua_wrapper) also available).
-* [linc_libvpx](https://github.com/mrcdk/linc_libvpx): Bindings for libvpx (experimental).
-* [linc_linenoise](https://github.com/vrescobar/linc_linenoise): Bindings for linenoise.
-* [linc_ffmpeg](https://github.com/delahee/linc_ffmpeg): Bindings for ffmpeg (experimental).
-* [linc_socketio](https://github.com/arturocastro/linc_socketio): Bindings for socket.io client.
+* [linc_luajit](https://github.com/RudenkoArt/linc_luajit): Bindings for [LuaJIT](http://luajit.org/) ([wrapper](https://github.com/RudenkoArts/linc_lua_wrapper) also available).
+* [linc_libvpx](https://github.com/mrcdk/linc_libvpx): Bindings for [libvpx](http://www.webmproject.org/code/) (experimental).
+* [linc_linenoise](https://github.com/vrescobar/linc_linenoise): Bindings for [linenoise](https://github.com/antirez/linenoise).
+* [linc_ffmpeg](https://github.com/delahee/linc_ffmpeg): Bindings for [ffmpeg](https://ffmpeg.org/) (experimental).
+* [linc_socketio](https://github.com/arturocastro/linc_socketio): Bindings for [socket.io](http://socket.io/) client.
 * [linc_chartboost](https://github.com/kevinresol/linc_chartboost): Bindings for [Chartboost](https://www.chartboost.com/).
 
 # scrìbe resources
