@@ -471,7 +471,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_linenoise](https://github.com/vrescobar/linc_linenoise): Bindings for linenoise.
 * [linc_ffmpeg](https://github.com/delahee/linc_ffmpeg): Bindings for ffmpeg (experimental).
 * [linc_socketio](https://github.com/arturocastro/linc_socketio): Bindings for socket.io client.
-
+* [linc_chartboost](https://github.com/kevinresol/linc_chartboost): Bindings for [Chartboost](https://www.chartboost.com/).
 
 # scrìbe resources
 
