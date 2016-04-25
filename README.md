@@ -222,6 +222,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Voxel Load](https://github.com/DjPale/voxel-load-luxe): Test for loading and displaying MagicaVoxel models.
 * [AdventurePathfinding](https://github.com/MicUurloon/AdventurePathfinding): Example code of a pathfinding method for 2d point and click adventure game.
 * [Euclido](https://github.com/zollenz/euclido): A euclidian rhythm generator.
+* [PlatformerLuxe](https://github.com/Scanix/PlatformerLuxe): A test of platformer physic, tilemap, sprite, camera and some others concepts.
 
 ### Game Jams
 
@@ -355,6 +356,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [MpHx](https://github.com/5Mixer/mphx): A library that facilitates the creation of multiplayer games. Includes Luxe examples.
 * [hxNoise](https://github.com/whuop/hxNoise): A collection of noise functions for Haxe. Includes Luxe examples.
 * [Luxe Atlas](https://github.com/undefinist/luxe_atlas): Runtime atlas/texture packer for Luxe.
+* [EmojiKit](https://github.com/le-doux/EmojiKit): A prototyping tool that makes it easy to use emoji in games made with Luxe engine.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
