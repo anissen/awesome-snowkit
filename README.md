@@ -168,6 +168,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [GreenTemplate](https://github.com/Zielak/GreenTemplate): Template for quickly prototyping Luxe games.
 * [Luxe Template](https://github.com/zollenz/luxe-template): Template for games made with the Luxe engine.
 * [LD Template](https://github.com/DjPale/LD-template-luxe): Simple Luxe template for Ludum Dare.
+* [Luxe Boilerplate](https://github.com/hypertrifle/LuxeBoilerplate): Simple boilerplate setup for new Luxe projects.
 
 ### Games
 * [BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
@@ -223,6 +224,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [AdventurePathfinding](https://github.com/MicUurloon/AdventurePathfinding): Example code of a pathfinding method for 2d point and click adventure game.
 * [Euclido](https://github.com/zollenz/euclido): A euclidian rhythm generator.
 * [PlatformerLuxe](https://github.com/Scanix/PlatformerLuxe): A test of platformer physic, tilemap, sprite, camera and some others concepts.
+* [Luxe Stuff](https://github.com/hypertrifle/luxe-stuff): Code helpers, boilerplate and useful components for Luxe.
+* [Frog Tiles](https://github.com/hypertrifle/frogTiles): Frog tiles game prototype.
+* [Raster Road Generation](https://github.com/hypertrifle/raster-road-generation): Experimentation with creating an Outrun-style scrolling road.
 
 ### Game Jams
 
