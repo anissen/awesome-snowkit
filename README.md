@@ -145,6 +145,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [ChopEngine](https://github.com/Ohmnivore/ChopEngine): A Haxe cross-platform 3D game engine built on top of snow and Lime.
 * [GPU-Fluid-Experiments](https://github.com/haxiomic/GPU-Fluid-Experiments/tree/snow): Cross-platform GPU fluid simulation.
 * [snow-8](https://github.com/FuzzyWuzzie/snow-8): A CHIP-8 emulator.
+* [snowhxt](https://github.com/underscorediscovery/snowhxt): A convenience for using hxtelemetry with flow/snow based apps quickly.
 
 # luxe resources
 
