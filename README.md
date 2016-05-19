@@ -187,8 +187,11 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [LuxePong](https://github.com/FuzzyWuzzie/LuxePong): A simple game of Pong.
 * [Dunjin Crul](https://github.com/cucumbur/dunjincrul): A simple dungeon crawling action-RPG.
 * [LD32 Warm-Up](https://github.com/DjPale/ld32-warmup): Warmup game prior to LD32.
-* [vshooter](https://gitlab.com/jonathanhirz/vshooter): A vertical space, _shmup_ type, shooter.
+* [vshooter](https://github.com/jonathanhirz/vshooter): A vertical space, _shmup_ type, shooter.
 * [Celox Inpes](https://github.com/JunoNgx/celox-inpes): A very fast-pased _shmup_ type shooter.
+<<<<<<< HEAD
+* [BYRL](https://github.com/jonathanhirz/backyard-roguelike): Source code for roguelike that takes place in a backyard.
+=======
 * [BYRL](https://gitlab.com/jonathanhirz/fathersdayjam): Roguelike that takes place in a backyard.
 * [Seeker](https://github.com/userotti/seeker): Space shooter prototype.
 * [Shooting Desk](https://github.com/Zielak/ShootingDesk): Turn-based team shooting game. Imagine Counter-Strike played like the old Heroes games.
@@ -196,11 +199,12 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Tetromonic](https://github.com/graphnode/tetromonic): A tetromino game under development.
 * [Territory](https://github.com/5Mixer/Territory): Unfinished roguelike game.
 * [CarrotPull](https://github.com/NicoM1/CarrotPull): Experimental game about talking to plants.
+>>>>>>> upstream/master
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
 * [Luxe Projects](https://github.com/Rostiger/Luxe_Projects): Different tests projects.
-* [starFieldLuxe](https://github.com/jonathanhirz/starFieldLuxe): Star field experiment.
+* [starField](https://github.com/jonathanhirz/starField): Star field experiment.
 * [snowkitTests](https://github.com/JosePedroDias/snowkitTests): Endeavors with snowkit.
 * [liquid-luxe](https://github.com/chronosyndrome/liquid-luxe): 2D liquid simulation using snowkit and Luxe.
 * [hxDaedalus examples](https://github.com/hxDaedalus/hxDaedalus-luxe-examples): Luxe examples of [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) (2D environment modeling and pathfinding)
