@@ -479,6 +479,8 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_ffmpeg](https://github.com/delahee/linc_ffmpeg): Bindings for [ffmpeg](https://ffmpeg.org/) (experimental).
 * [linc_socketio](https://github.com/arturocastro/linc_socketio): Bindings for [socket.io](http://socket.io/) client.
 * [linc_chartboost](https://github.com/kevinresol/linc_chartboost): Bindings for [Chartboost](https://www.chartboost.com/).
+* [linc_stempad](https://github.com/BluShine/linc_stempad): Bindings for [libstem_gamepad](https://github.com/ThemsAllTook/libstem_gamepad).
+* [linc_wren](https://github.com/RudenkoArts/linc_wren): Bindings for the [Wren](http://wren.io/) scripting language.
 
 # scrìbe resources
 
