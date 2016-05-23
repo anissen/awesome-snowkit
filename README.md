@@ -170,6 +170,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Luxe Template](https://github.com/zollenz/luxe-template): Template for games made with the Luxe engine.
 * [LD Template](https://github.com/DjPale/LD-template-luxe): Simple Luxe template for Ludum Dare.
 * [Luxe Boilerplate](https://github.com/hypertrifle/LuxeBoilerplate): Simple boilerplate setup for new Luxe projects.
+* [_empty](https://github.com/jonathanhirz/_empty): Default empty project folder.
 
 ### Games
 * [BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
@@ -196,11 +197,14 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Tetromonic](https://github.com/graphnode/tetromonic): A tetromino game under development.
 * [Territory](https://github.com/5Mixer/Territory): Unfinished roguelike game.
 * [CarrotPull](https://github.com/NicoM1/CarrotPull): Experimental game about talking to plants.
+* [yaarpg](https://github.com/jonathanhirz/yaarpg): Yet Another Action RPG.
+* [bnupe](https://github.com/jonathanhirz/bnupe): Platformer experiment.
+* [shooter](https://github.com/jonathanhirz/shooter): Top down zombie shooter.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
 * [Luxe Projects](https://github.com/Rostiger/Luxe_Projects): Different tests projects.
-* [starFieldLuxe](https://github.com/jonathanhirz/starField): Star field experiment.
+* [starField](https://github.com/jonathanhirz/starField): Star field experiment.
 * [snowkitTests](https://github.com/JosePedroDias/snowkitTests): Endeavors with snowkit.
 * [liquid-luxe](https://github.com/chronosyndrome/liquid-luxe): 2D liquid simulation using snowkit and Luxe.
 * [hxDaedalus examples](https://github.com/hxDaedalus/hxDaedalus-luxe-examples): Luxe examples of [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) (2D environment modeling and pathfinding)
