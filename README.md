@@ -201,6 +201,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [bnupe](https://github.com/jonathanhirz/bnupe): Platformer experiment.
 * [shooter](https://github.com/jonathanhirz/shooter): Top down zombie shooter.
 * [Joy of Flight](https://github.com/jonathanhirz/joy_of_flight): 2D side-scrolling flight game.
+* [Simple Jam](https://github.com/jonathanhirz/simple_jam): A simple game for a the [Simple Jam](https://itch.io/jam/simple).
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
@@ -234,6 +235,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Frog Tiles](https://github.com/hypertrifle/frogTiles): Frog tiles game prototype.
 * [Raster Road Generation](https://github.com/hypertrifle/raster-road-generation): Experimentation with creating an Outrun-style scrolling road.
 * [ChickensFlightLuxeDemo](https://github.com/octocake1/ChickensFlightLuxeDemo): Example of using a sprite sheet.
+* [Entity Component](https://github.com/jonathanhirz/entity_component): An example of how to set up entities.
 
 ### Game Jams
 
