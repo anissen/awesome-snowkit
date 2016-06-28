@@ -389,6 +389,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Loading Splash Screen](https://gist.github.com/opligr/8dede4f1fadf364eaced): A custom ParcelProgress for Luxe that shows a splash screen.
 * [Asset Importer Macro](https://gist.github.com/kevinresol/86e2746ea8701060feb8): Macro to read and auto-import all assets from the assets path.
 * [Pixel Perfect Camera Scale](https://gist.github.com/EduardoLopes/8c835698586bd275e81e): Example of how to resize the viewport to preserve a pixel perfect camera scaling.
+* [Accelerometer](https://gist.github.com/josuigoa/bd94fdb32c2b946bdf2fed027798a893): Getting accelerometer values.
 
 ### Shaders
 * [Polar Wrap](https://gist.github.com/KeyMaster-/2bb5e20f824241f3caef): Luxe polar warp shader.
