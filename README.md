@@ -173,7 +173,6 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [_empty](https://github.com/jonathanhirz/_empty): Default empty project folder.
 
 ### Games
-* [BaconJam](https://github.com/Dvergar/BaconJam): 2D top-down bullet-hell collaboratory game for Reddits BaconJam. 
 * [SQUARE](https://github.com/Eiyeron/-SQUARE-): Complete, but minimalistic, game.
 * [Collab](https://github.com/NicoM1/Collab): Shmup-like game collaboration between [NicoM1](https://github.com/NicoM1) and [Eiyeron](https://github.com/Eiyeron).
 * [Orbitantlers-Collab](https://github.com/NicoM1/Orbitantlers-Collab): Platformer game collaboration between [NicoM1](https://github.com/NicoM1) and [Orbitantlers](https://github.com/Absurditure).
@@ -238,6 +237,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Entity Component](https://github.com/jonathanhirz/entity_component): An example of how to set up entities.
 
 ### Game Jams
+
+#### Bacon Jam
+<a href="https://bacongamejam.org/jams/bacongamejam-08/302/"><img src="http://i.imgur.com/Nv39nTc.png" width="30%"></a>
+* [Alien invasion X-00004](https://bacongamejam.org/jams/bacongamejam-08/302/): Aliens are invading us, millions of them. [Source (GitHub)](https://github.com/Dvergar/BaconJam)
 
 #### Ludum Dare 31
 <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=30512"><img src="http://ludumdare.com/compo/wp-content/compo2//407933/30512-shot0.png-crop-180-140.jpg"></a>
@@ -328,6 +331,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Space Shift](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=9921): Small space shmup where your ship changes with different abilities every 3 seconds. [Source (GitHub)](https://github.com/DjPale/LD-template-luxe/tree/ld35-shapeshift)
 * [Strata: The Shapeshifting Microworld](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=89547): Find your way out of a shapeshifting microworld. [Source (GitHub)](http://github.com/AtomicPair/ld35)
 * [vertex.](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=46201): Resolve all line intersections before the time runs out. [Source (zip)](https://helyx.itch.io/vertex)
+
+#### Simple Jam
+<a href="https://keymaster.itch.io/kryce"><img src="https://img.itch.io/aW1hZ2UvNzMzNzAvMzM4NjAyLnBuZw==/original/ZYqoCg.png" width="30%"></a>
+* [Kryce](https://keymaster.itch.io/kryce): Kryce is bullethell game controlled directly with the analog stick. [Source (GitHub)](https://github.com/KeyMaster-/Kryce)
 
 <!--
 <a href="link"><img src="picture"></a>
