@@ -385,6 +385,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Trail Renderer](https://gist.github.com/le-doux/d9ac94af66c2b9a86238): A trail renderer component using a triangle mesh.
 * [Player Team](https://gist.github.com/underscorediscovery/34536d5e6dab31e1286e): Example of making a flag/team component.
 * [FPS](https://gist.github.com/underscorediscovery/effb9014eb0de75b64c5): Frames per second text component.
+* [SpriteAnimation](https://gist.github.com/RudenkoArts/6ebff39903a6ef83926259c88944338b): Component for to playing animations.
 
 ### Snippets
 * [Ply Importer](https://gist.github.com/KeyMaster-/247fee525cf73d086dc3): Importer for PLY files from Blender into Luxe.
