@@ -366,7 +366,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Maze Generator](https://github.com/whuop/MazeGen): Library of algorithms for generating mazes.
 * [L-System](https://github.com/whuop/L-System): Lindenmayer system for generating trees.
 * [WhuopLib](https://github.com/whuop/WhuopLib): A set of helper classes, such as loading Entities/Sprites from json.
-* [Spatial Hash](https://gist.github.com/RudenkoArt/2bc27bb7af9338699cda): Broad-phase algorithm for collision detection on uniform grids.
+* [Spatial Hash](https://gist.github.com/RudenkoArts/2bc27bb7af9338699cda): Broad-phase algorithm for collision detection on uniform grids.
 * [Pincushion](https://github.com/le-doux/pincushion): Vector game editor & animation tool. [Test game](https://github.com/le-doux/Star-Gazer) for Pincushion.
 * [hxGameJolt](https://github.com/Zielak/hxGameJolt): [Game Jolt](http://gamejolt.com/) API for Haxe users. Includes Luxe example.
 * [DConsole](https://github.com/ProG4mr/dconsole): In-game drop-down console that provides runtime acess to methods, variables and more.
