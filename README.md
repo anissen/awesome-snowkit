@@ -485,7 +485,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_timestamp](https://github.com/snowkit/linc_timestamp): Bindings for high precision timestamp.
 * [linc_ogg](https://github.com/snowkit/linc_ogg): Bindings for [Ogg vorbis](http://www.vorbis.com/) decoding.
 
-#### Third Party
+#### Community Created
 * [linc_box2d](https://github.com/DanielUranga/box2d-linc): Bindings for [Box2D](http://box2d.org/).
 * [linc_rtmidi](https://github.com/KeyMaster-/linc_rtmidi): Bindings for [RtMidi](https://github.com/thestk/rtmidi).
 * [linc_squirrel](https://github.com/RudenkoArt/linc_squirrel): Bindings for the [Squirrel](http://www.squirrel-lang.org/) language.
@@ -498,6 +498,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_chartboost](https://github.com/kevinresol/linc_chartboost): Bindings for [Chartboost](https://www.chartboost.com/).
 * [linc_stempad](https://github.com/BluShine/linc_stempad): Bindings for [libstem_gamepad](https://github.com/ThemsAllTook/libstem_gamepad).
 * [linc_wren](https://github.com/RudenkoArts/linc_wren): Bindings for the [Wren](http://wren.io/) scripting language.
+* [linc_steam_api](https://github.com/Yanrishatum/linc_steam_api): Bindings for the [Steamworks SDK](https://partner.steamgames.com/) (work in progress).
 
 # scrìbe resources
 
