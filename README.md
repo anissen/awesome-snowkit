@@ -342,7 +342,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Rocket Hop](https://hexdie.itch.io/rocket-hop): An Infinite-runner/Platformer.
 
 #### [365 Indies Jam](http://gamejolt.com/tag/365indiesjam)
-<a href="http://gamejolt.com/games/super-365-quest/181301"><img src="https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/500/181301-p5kmim2u.jpg" width="30%"></a>
+<a href="http://gamejolt.com/games/super-365-quest/181301"><img src="http://i.imgur.com/7Y8a224.gif" width="30%"></a>
 * [Super 365 Quest](http://gamejolt.com/games/super-365-quest/181301): Game inspired by Super Crate Box.
 
 <!--
