@@ -333,8 +333,12 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [vertex.](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=46201): Resolve all line intersections before the time runs out. [Source (zip)](https://helyx.itch.io/vertex)
 
 #### Simple Jam
-<a href="https://keymaster.itch.io/kryce"><img src="https://img.itch.io/aW1hZ2UvNzMzNzAvMzM4NjAyLnBuZw==/original/ZYqoCg.png" width="30%"></a>
+<a href="https://keymaster.itch.io/kryce"><img src="https://img.itch.io/aW1hZ2UvNzMzNzAvMzM4NjAyLnBuZw==/original/ZYqoCg.png" width="25%"></a>
 * [Kryce](https://keymaster.itch.io/kryce): Kryce is bullethell game controlled directly with the analog stick. [Source (GitHub)](https://github.com/KeyMaster-/Kryce)
+
+#### One Button Jam
+<a href="https://hexdie.itch.io/rocket-hop"><img src="https://img.itch.io/aW1hZ2UvODA2NDQvMzc5MTE4LmdpZg==/315x250%23c/pNOeHS.gif" width="30%"></a>
+* [Rocket Hop](https://hexdie.itch.io/rocket-hop): An Infinite-runner/Platformer. [Source (GitHub)](https://github.com/KeyMaster-/Kryce)
 
 <!--
 <a href="link"><img src="picture"></a>
