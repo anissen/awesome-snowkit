@@ -336,9 +336,13 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="https://keymaster.itch.io/kryce"><img src="https://img.itch.io/aW1hZ2UvNzMzNzAvMzM4NjAyLnBuZw==/original/ZYqoCg.png" width="25%"></a>
 * [Kryce](https://keymaster.itch.io/kryce): Kryce is bullethell game controlled directly with the analog stick. [Source (GitHub)](https://github.com/KeyMaster-/Kryce)
 
-#### One Button Jam
+#### [One Button Jam](https://itch.io/jam/one-button-to-rule-all-jam)
 <a href="https://hexdie.itch.io/rocket-hop"><img src="https://img.itch.io/aW1hZ2UvODA2NDQvMzc5MTE4LmdpZg==/315x250%23c/pNOeHS.gif" width="30%"></a>
-* [Rocket Hop](https://hexdie.itch.io/rocket-hop): An Infinite-runner/Platformer. [Source (GitHub)](https://github.com/KeyMaster-/Kryce)
+* [Rocket Hop](https://hexdie.itch.io/rocket-hop): An Infinite-runner/Platformer.
+
+#### [365 Indies Jam](http://gamejolt.com/tag/365indiesjam)
+<a href="http://gamejolt.com/games/super-365-quest/181301"><img src="https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/500/181301-p5kmim2u.jpg" width="30%"></a>
+* [Super 365 Quest](http://gamejolt.com/games/super-365-quest/181301): Game inspired by Super Crate Box.
 
 <!--
 <a href="link"><img src="picture"></a>
