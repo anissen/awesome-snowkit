@@ -341,7 +341,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="https://jtruher.itch.io/flappy-joust"><img src="https://img.itch.io/aW1hZ2UvODA2MTgvMzgxNzA0LmdpZg==/315x250%23c/8RRZX0.gif" width="30%"></a>
 <a href="https://hexdie.itch.io/rocket-hop"><img src="https://img.itch.io/aW1hZ2UvODA2NDQvMzc5MTE4LmdpZg==/315x250%23c/pNOeHS.gif" width="30%"></a>
 * [Flappy Joust](https://jtruher.itch.io/flappy-joust): It's, uh, Flappy Bird meets Joust!
-* [Rocket Hop](https://hexdie.itch.io/rocket-hop): An infinite-runner/platformer.
+* [Rocket Hop](https://hexdie.itch.io/rocket-hop): An infinite-runner/platformer. [Source (Bitbucket)](https://bitbucket.org/hexdie/onebuttonjam16/src)
 
 #### [365 Indies Jam](http://gamejolt.com/tag/365indiesjam)
 <a href="http://gamejolt.com/games/super-365-quest/181301"><img src="http://i.imgur.com/7Y8a224.gif" width="30%"></a>
