@@ -388,6 +388,8 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [hxNoise](https://github.com/whuop/hxNoise): A collection of noise functions for Haxe. Includes Luxe examples.
 * [Luxe Atlas](https://github.com/undefinist/luxe_atlas): Runtime atlas/texture packer for Luxe.
 * [EmojiKit](https://github.com/le-doux/EmojiKit): A prototyping tool that makes it easy to use emoji in games made with Luxe engine.
+* [Rexit](https://github.com/CamperPR/Rexit): Small audio library for Luxe.
+* [YuliaDS](https://github.com/CamperPR/YuliaDS): Dialog system for Luxe.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
