@@ -347,6 +347,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="http://gamejolt.com/games/super-365-quest/181301"><img src="http://i.imgur.com/7Y8a224.gif" width="30%"></a>
 * [Super 365 Quest](http://gamejolt.com/games/super-365-quest/181301): Game inspired by Super Crate Box.
 
+#### [Ludum Dare 35](http://ludumdare.com/compo/2016/08/24/welcome-to-ludum-dare-36/)
+<a href="http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=47736"><img src="http://ludumdare.com/compo/wp-content/compo2//570486/47736-shot0-1472436408.png-crop-180-140.jpg" width="30%"></a>
+* [Four](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=47736): Puzzle game where you need to collect all elements to complete the level. [Source (GitHub)](https://github.com/RudenkoArts/ld36)
+
 <!--
 <a href="link"><img src="picture"></a>
 * [Title](link): Description. [Source (GitHub)](source)
