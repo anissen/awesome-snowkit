@@ -202,6 +202,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [shooter](https://github.com/jonathanhirz/shooter): Top down zombie shooter.
 * [Joy of Flight](https://github.com/jonathanhirz/joy_of_flight): 2D side-scrolling flight game.
 * [Simple Jam](https://github.com/jonathanhirz/simple_jam): A simple game for a the [Simple Jam](https://itch.io/jam/simple).
+* [PaperBurger](https://github.com/sourcreme/PaperBurger): Unfinished physics-based game.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
@@ -394,6 +395,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [EmojiKit](https://github.com/le-doux/EmojiKit): A prototyping tool that makes it easy to use emoji in games made with Luxe engine.
 * [Rexit](https://github.com/CamperPR/Rexit): Small audio library for Luxe.
 * [YuliaDS](https://github.com/CamperPR/YuliaDS): Dialog system for Luxe.
+* [Overlap Runtime](https://github.com/sourcreme/luxeOverlapRuntime): Library for integrating [Overlap2D](http://overlap2d.com/) scenes into Luxe.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
