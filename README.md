@@ -306,7 +306,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 
 #### Global Game Jam 2016
 <a href="http://globalgamejam.org/2016/games/alien-growth"><img src="http://globalgamejam.org/sites/default/files/styles/game_sidebar__wide/public/game/featured_image/aliengrowthfront.png?itok=8zcc35Q0" width="200px"></a>
-<a href="http://globalgamejam.org/2016/games/le-pr%C3%A9cheur"><img src=http://globalgamejam.org/sites/default/files/styles/game_sidebar__wide/public/game/featured_image/soon.png?itok=LTY8NQV9" width="200px"></a>
+<a href="http://globalgamejam.org/2016/games/le-pr%C3%A9cheur"><img src="http://globalgamejam.org/sites/default/files/styles/game_sidebar__wide/public/game/featured_image/soon.png?itok=LTY8NQV9" width="200px"></a>
 * [Alien Growth](http://globalgamejam.org/2016/games/alien-growth): Watch procedurally generated, alien plants grow. Perform rituals to alter your plant. [Source (GitHub)](https://github.com/KeyMaster-/AlienGrowth)
 * [Le précheur](http://globalgamejam.org/2016/games/le-pr%C3%A9cheur): Watch people's habits and choose the correct action to help convert people to your faith. [Source (zip)](http://ggj.s3.amazonaws.com/games/2016/01/31/1632/le_precheur_sources.zip)
 
@@ -351,6 +351,11 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 #### [Ludum Dare 36](http://ludumdare.com/compo/2016/08/24/welcome-to-ludum-dare-36/)
 <a href="http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=47736"><img src="http://ludumdare.com/compo/wp-content/compo2//570486/47736-shot0-1472436408.png-crop-180-140.jpg" width="30%"></a>
 * [Four](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=47736): Puzzle game where you need to collect all elements to complete the level. [Source (GitHub)](https://github.com/RudenkoArts/ld36)
+
+#### [GBJAM 5](https://itch.io/jam/gbjam-5)
+<a href="https://jtruher.itch.io/lode-jogger"><img src="https://cloud.githubusercontent.com/assets/879967/19244672/b3d245e0-8f1d-11e6-86b8-2e1637dda859.png" width="30%"></a> <a href="https://eduardo.itch.io/t-tempel"><img src="https://img.itch.io/aW1hZ2UvOTAxMjgvNDIzMDIxLmdpZg==/315x250%23c/oCT9re.gif" width="33%"></a>
+* [Lode Jogger](https://jtruher.itch.io/lode-jogger): Lode Runner inspired game.
+* [T-Temple](https://eduardo.itch.io/t-tempel): Stylized platformer.
 
 <!--
 <a href="link"><img src="picture"></a>
