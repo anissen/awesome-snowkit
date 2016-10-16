@@ -401,6 +401,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Rexit](https://github.com/CamperPR/Rexit): Small audio library for Luxe.
 * [YuliaDS](https://github.com/CamperPR/YuliaDS): Dialog system for Luxe.
 * [Overlap Runtime](https://github.com/sourcreme/luxeOverlapRuntime): Library for integrating [Overlap2D](http://overlap2d.com/) scenes into Luxe.
+* [Trog's Interactive Dialogue Engine](https://github.com/groebelsloot/haxe-interactive-dialogue-engine): Interactive dialogue engine made for a 2D point'n'click adventure.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
