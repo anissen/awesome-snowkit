@@ -76,6 +76,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Tools
 * [snowfall](https://github.com/underscorediscovery/snowfall): Simple tool to install and update luxe + snow more conveniently (see [blog post](http://snowkit.org/2016/02/17/snowfall/)).
 
+### Libraries
+* [gif](https://github.com/snowkit/gif): A GIF format encoder without any dependencies.
+* [gifcapture](https://github.com/snowkit/gifcapture): A threaded GIF capture recording helper.
+
 ### Editor Support
 
 #### Sublime Text
@@ -402,6 +406,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [YuliaDS](https://github.com/CamperPR/YuliaDS): Dialog system for Luxe.
 * [Overlap Runtime](https://github.com/sourcreme/luxeOverlapRuntime): Library for integrating [Overlap2D](http://overlap2d.com/) scenes into Luxe.
 * [Trog's Interactive Dialogue Engine](https://github.com/groebelsloot/haxe-interactive-dialogue-engine): Interactive dialogue engine made for a 2D point'n'click adventure.
+* [luxe gifcapture](https://github.com/underscorediscovery/luxe-gifcapture): A library to capture realtime gifs from luxe games.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
