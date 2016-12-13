@@ -363,6 +363,16 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [T-Temple](https://eduardo.itch.io/t-tempel): Stylized platformer.
 
 <!--
+#### [PROC JAM 2016](?)
+<a href="?" width="30%"></a>
+* [trace](?): ?. [Source (GitHub)](?)
+-->
+
+#### [Ludum Dare 37](https://ldjam.com/welcome-to-ludum-dare-37)
+<a href="http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=47736"><img src="http://ludumdare.com/compo/wp-content/compo2//593814/47736-shot1-1481596041.jpg-eq-900-500.jpg" width="30%"></a>
+* [Battle Room](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=47736): Battle room where two players duke it out in local multiplayer.
+
+<!--
 <a href="link"><img src="picture"></a>
 * [Title](link): Description. [Source (GitHub)](source)
 -->
