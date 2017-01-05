@@ -362,11 +362,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Lode Jogger](https://jtruher.itch.io/lode-jogger): Lode Runner inspired game.
 * [T-Temple](https://eduardo.itch.io/t-tempel): Stylized platformer.
 
-<!--
-#### [PROC JAM 2016](?)
-<a href="?" width="30%"></a>
-* [trace](?): ?. [Source (GitHub)](?)
--->
+#### [Procedural Generation Jam 2016](https://itch.io/jam/procjam)
+<a href="https://itch.io/jam/procjam/rate/108942" width="30%"><img src="https://img.itch.io/aW1hZ2UvMTA4OTQyLzUwNjE4NS5naWY=/315x250%23c/XOq%2BIq.gif" width="30%"></a>
+* [trace](https://itch.io/jam/procjam/rate/108942): Hack the network. Avoid detection. Evade the TRACE. Get the data. [Source (GitHub)](https://github.com/anissen/trace)
 
 #### [Ludum Dare 37](https://ldjam.com/welcome-to-ludum-dare-37)
 <a href="http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=47736"><img src="http://ludumdare.com/compo/wp-content/compo2//593814/47736-shot1-1481596041.jpg-eq-900-500.jpg" width="30%"></a>
