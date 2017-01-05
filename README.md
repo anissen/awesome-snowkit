@@ -415,6 +415,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Overlap Runtime](https://github.com/sourcreme/luxeOverlapRuntime): Library for integrating [Overlap2D](http://overlap2d.com/) scenes into Luxe.
 * [Trog's Interactive Dialogue Engine](https://github.com/groebelsloot/haxe-interactive-dialogue-engine): Interactive dialogue engine made for a 2D point'n'click adventure.
 * [luxe gifcapture](https://github.com/underscorediscovery/luxe-gifcapture): A library to capture realtime gifs from luxe games.
+* [oni](https://github.com/PursuitDream/Oni): A text implementation supporting animations and colors.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
