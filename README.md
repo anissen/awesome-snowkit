@@ -537,6 +537,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_stempad](https://github.com/BluShine/linc_stempad): Bindings for [libstem_gamepad](https://github.com/ThemsAllTook/libstem_gamepad).
 * [linc_wren](https://github.com/RudenkoArts/linc_wren): Bindings for the [Wren](http://wren.io/) scripting language.
 * [linc_steam_api](https://github.com/Yanrishatum/linc_steam_api): Bindings for the [Steamworks SDK](https://partner.steamgames.com/) (work in progress).
+* [linc_uv](https://github.com/darmie/linc_uv): Bindings for [libuv](https://github.com/libuv/libuv).
 
 # scrìbe resources
 
