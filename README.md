@@ -370,6 +370,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=47736"><img src="http://ludumdare.com/compo/wp-content/compo2//593814/47736-shot1-1481596041.jpg-eq-900-500.jpg" width="30%"></a>
 * [Battle Room](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=47736): Battle room where two players duke it out in local multiplayer.
 
+#### [Global Game Jam 2017](http://globalgamejam.org)
+<a href="http://globalgamejam.org/2017/games/wave-surfer-2"><img src="http://ggj.s3.amazonaws.com/styles/game_sidebar__wide/s3/game/featured_image/scr2_1.png" width="30%"></a>
+* [Wave the surfer](http://globalgamejam.org/2017/games/wave-surfer-2): Control wave with mouse to make some cool tricks with surfer. [Source (zip)](http://ggj.s3.amazonaws.com/games/2017/01/22/1727/wave_the_surfer.zip)
+
 <!--
 <a href="link"><img src="picture"></a>
 * [Title](link): Description. [Source (GitHub)](source)
