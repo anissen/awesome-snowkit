@@ -242,6 +242,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Raster Road Generation](https://github.com/hypertrifle/raster-road-generation): Experimentation with creating an Outrun-style scrolling road.
 * [ChickensFlightLuxeDemo](https://github.com/octocake1/ChickensFlightLuxeDemo): Example of using a sprite sheet.
 * [Entity Component](https://github.com/jonathanhirz/entity_component): An example of how to set up entities.
+* [Platformer test](https://github.com/jonathanhirz/luxe_platformer): Luxe platformer test ground.
 
 ### Game Jams
 
