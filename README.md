@@ -302,7 +302,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41073"><img src="http://ludumdare.com/compo/wp-content/compo2//511439/41073-shot2-1450118046.png-crop-180-140.jpg"></a>
 <a href="http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=7956"><img src="http://ludumdare.com/compo/wp-content/compo2//511439/7956-shot0-1450061085.png-crop-180-140.jpg"></a>
 
-* [Eat and Run](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=47736): Eat ants. Beware of ants. [Source (GitHub)](https://github.com/RudenkoArt/LD34)
+* [Eat and Run](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=47736): Eat ants. Beware of ants. [Source (GitHub)](https://github.com/RudenkoArts/LD34)
 * [Hungry Spider](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=38590): You're a spider! Eat, but not too much. Avoid Spikes. [Source (GitHub)](https://github.com/Zielak/LDJAM34)
 * [Infinite Tower](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=41337): Climb the infinite tower. [Source (GitHub)](https://github.com/EduardoLopes/LD34)
 * [A Life in a Year](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=30512): You guide a young tree in its first year of life. Collect items to grow and prosper. [Source (GitHub)](https://github.com/anissen/ld34)
@@ -421,6 +421,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Trog's Interactive Dialogue Engine](https://github.com/groebelsloot/haxe-interactive-dialogue-engine): Interactive dialogue engine made for a 2D point'n'click adventure.
 * [luxe gifcapture](https://github.com/underscorediscovery/luxe-gifcapture): A library to capture realtime gifs from luxe games.
 * [oni](https://github.com/PursuitDream/Oni): A text implementation supporting animations and colors.
+* [clay](https://github.com/RudenkoArts/clay): ECS systems and nodes for Luxe.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
@@ -532,9 +533,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 #### Community Created
 * [linc_box2d](https://github.com/DanielUranga/box2d-linc): Bindings for [Box2D](http://box2d.org/).
 * [linc_rtmidi](https://github.com/KeyMaster-/linc_rtmidi): Bindings for [RtMidi](https://github.com/thestk/rtmidi).
-* [linc_squirrel](https://github.com/RudenkoArt/linc_squirrel): Bindings for the [Squirrel](http://www.squirrel-lang.org/) language.
+* [linc_squirrel](https://github.com/RudenkoArts/linc_squirrel): Bindings for the [Squirrel](http://www.squirrel-lang.org/) language.
 * [linc_clipboard](https://github.com/josuigoa/linc_clipboard): Bindings for the system clipboard.
-* [linc_luajit](https://github.com/RudenkoArt/linc_luajit): Bindings for [LuaJIT](http://luajit.org/) ([wrapper](https://github.com/RudenkoArts/linc_lua_wrapper) also available).
+* [linc_luajit](https://github.com/RudenkoArts/linc_luajit): Bindings for [LuaJIT](http://luajit.org/) ([wrapper](https://github.com/RudenkoArts/linc_lua_wrapper) also available).
 * [linc_libvpx](https://github.com/mrcdk/linc_libvpx): Bindings for [libvpx](http://www.webmproject.org/code/) (experimental).
 * [linc_linenoise](https://github.com/vrescobar/linc_linenoise): Bindings for [linenoise](https://github.com/antirez/linenoise).
 * [linc_ffmpeg](https://github.com/delahee/linc_ffmpeg): Bindings for [ffmpeg](https://ffmpeg.org/) (experimental).
