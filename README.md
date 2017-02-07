@@ -208,6 +208,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Joy of Flight](https://github.com/jonathanhirz/joy_of_flight): 2D side-scrolling flight game.
 * [Simple Jam](https://github.com/jonathanhirz/simple_jam): A simple game for a the [Simple Jam](https://itch.io/jam/simple).
 * [PaperBurger](https://github.com/sourcreme/PaperBurger): Unfinished physics-based game.
+* [Walkey-hittey](https://github.com/jonathanhirz/walkeyhittey): A Zelda-like; top-down walk about with melee combat.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
