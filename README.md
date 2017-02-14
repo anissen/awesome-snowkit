@@ -546,6 +546,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_wren](https://github.com/RudenkoArts/linc_wren): Bindings for the [Wren](http://wren.io/) scripting language.
 * [linc_steam_api](https://github.com/Yanrishatum/linc_steam_api): Bindings for the [Steamworks SDK](https://partner.steamgames.com/) (work in progress).
 * [linc_uv](https://github.com/darmie/linc_uv): Bindings for [libuv](https://github.com/libuv/libuv).
+* [linc_gvr](https://github.com/kevinresol/linc_gvr): Bindings for [Google VR](https://developers.google.com/vr/) ([example usage](https://github.com/kevinresol/luxe-gvr-example) also available).
 
 # scrìbe resources
 
