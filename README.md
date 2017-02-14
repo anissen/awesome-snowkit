@@ -397,6 +397,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [LuxePolygonDraw](https://github.com/le-doux/LuxePolygonDraw): Vector level editor.
 * [AdventurEd](https://github.com/le-doux/AdventurEd): Level editor for an adventure game.
 * [Map Generator](https://github.com/zollenz/map-generator): A 2D map generator made with the Luxe Engine.
+* [Assetpacker](https://github.com/underscorediscovery/luxe-assetpacker): A visual asset packing tool for creating bundles of assets.
 
 ### Libraries
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
