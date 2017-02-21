@@ -531,6 +531,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_openal](https://github.com/snowkit/linc_openal): Bindings for [OpenAL](https://www.openal.org/).
 * [linc_timestamp](https://github.com/snowkit/linc_timestamp): Bindings for high precision timestamp.
 * [linc_ogg](https://github.com/snowkit/linc_ogg): Bindings for [Ogg vorbis](http://www.vorbis.com/) decoding.
+* [linc_nanovg](https://github.com/snowkit/linc_nanovg): Bindings for [nanovg](https://github.com/memononen/nanovg) vector graphics rendering.
 
 #### Community Created
 * [linc_box2d](https://github.com/DanielUranga/box2d-linc): Bindings for [Box2D](http://box2d.org/).
@@ -547,7 +548,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_wren](https://github.com/RudenkoArts/linc_wren): Bindings for the [Wren](http://wren.io/) scripting language.
 * [linc_steam_api](https://github.com/Yanrishatum/linc_steam_api): Bindings for the [Steamworks SDK](https://partner.steamgames.com/) (work in progress).
 * [linc_uv](https://github.com/darmie/linc_uv): Bindings for [libuv](https://github.com/libuv/libuv).
-* [linc_gvr](https://github.com/kevinresol/linc_gvr): Bindings for [Google VR](https://developers.google.com/vr/) ([example usage](https://github.com/kevinresol/luxe-gvr-example) also available).
+* [linc_gvr](https://github.com/kevinresol/linc_gvr): Bindings for [Google VR](https://developers.google.com/vr/) (luxe [wrapper](https://github.com/kevinresol/luxe_gvr) and [usage example](https://github.com/kevinresol/luxe-gvr-example) also available).
 
 # scrìbe resources
 
