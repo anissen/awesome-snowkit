@@ -244,6 +244,8 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [ChickensFlightLuxeDemo](https://github.com/octocake1/ChickensFlightLuxeDemo): Example of using a sprite sheet.
 * [Entity Component](https://github.com/jonathanhirz/entity_component): An example of how to set up entities.
 * [Platformer test](https://github.com/jonathanhirz/luxe_platformer): Luxe platformer test ground.
+* [Isometric Experiments](https://github.com/hypertrifle/isometric-artwork-experiments): Some isometric artwork experiments.
+* [justTriangles Example](https://github.com/nanjizal/justTrianglesLuxe): Example of using the "justTriangles" vector shape generation library with Luxe.
 
 ### Game Jams
 
