@@ -175,8 +175,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Luxe Template](https://github.com/zollenz/luxe-template): Template for games made with the Luxe engine.
 * [LD Template](https://github.com/DjPale/LD-template-luxe): Simple Luxe template for Ludum Dare.
 * [Luxe Boilerplate](https://github.com/hypertrifle/LuxeBoilerplate): Simple boilerplate setup for new Luxe projects.
-* [_empty](https://github.com/jonathanhirz/_empty): Default empty project folder.
+* [\_empty](https://github.com/jonathanhirz/_empty): Default empty project folder.
 * [LD Template](https://github.com/RudenkoArts/ld_template): Ludum Dare template project for Luxe.
+* [Luxe Base](https://github.com/jscott1989/luxe_base): Template for Luxe game jam games including a gamepad setup screen.
 
 ### Games
 * [SQUARE](https://github.com/Eiyeron/-SQUARE-): Complete, but minimalistic, game.
