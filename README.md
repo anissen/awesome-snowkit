@@ -210,6 +210,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Simple Jam](https://github.com/jonathanhirz/simple_jam): A simple game for a the [Simple Jam](https://itch.io/jam/simple).
 * [PaperBurger](https://github.com/sourcreme/PaperBurger): Unfinished physics-based game.
 * [Walkey-hittey](https://github.com/jonathanhirz/walkeyhittey): A Zelda-like; top-down walk about with melee combat.
+* [FCC-TicTacToe](https://github.com/desttinghim/fcc-tictactoe): TicTacToe game for Free Code Camp.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
