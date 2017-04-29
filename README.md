@@ -428,6 +428,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [luxe gifcapture](https://github.com/underscorediscovery/luxe-gifcapture): A library to capture realtime gifs from luxe games.
 * [oni](https://github.com/PursuitDream/Oni): A text implementation supporting animations and colors.
 * [clay](https://github.com/RudenkoArts/clay): ECS systems and nodes for Luxe.
+* [Gamepad Haxe](https://github.com/josuigoa/Gamepad-Haxe): Simulates an analog joystick input using the keyboard. Support for different engines, e.g. luxe.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
