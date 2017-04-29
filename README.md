@@ -380,8 +380,14 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="http://globalgamejam.org/2017/games/wave-surfer-2"><img src="http://ggj.s3.amazonaws.com/styles/game_sidebar__wide/s3/game/featured_image/scr2_1.png" width="30%"></a>
 * [Wave the surfer](http://globalgamejam.org/2017/games/wave-surfer-2): Control wave with mouse to make some cool tricks with surfer. [Source (zip)](http://ggj.s3.amazonaws.com/games/2017/01/22/1727/wave_the_surfer.zip)
 
+#### [Ludum Dare 38](https://ldjam.com/events/ludum-dare/38)
+<a href="https://ldjam.com/events/ludum-dare/38/landshift"><img src="https://static.jam.vg/raw/539/3/z/c3e.gif" width="20%"></a>
+<a href="https://ldjam.com/events/ludum-dare/38/maximum-clench"><img src="https://static.jam.vg/raw/dfa/3/z/1528.gif" width="35%"></a>
+* [Landshift](https://ldjam.com/events/ludum-dare/38/landshift): A small puzzler made about connecting roads and rivers. [Source (GitHub)](https://github.com/undefinist/ld38)
+* [MAXIMUM CLENCH](https://ldjam.com/events/ludum-dare/38/maximum-clench): A 2 player competitive mini game. [Source (GitHub)](https://github.com/hypertrifle/LD38)
+
 <!--
-<a href="link"><img src="picture"></a>
+<a href="link"><img src="picture" width="30%"></a>
 * [Title](link): Description. [Source (GitHub)](source)
 -->
 
