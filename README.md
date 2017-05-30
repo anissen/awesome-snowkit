@@ -248,6 +248,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Platformer test](https://github.com/jonathanhirz/luxe_platformer): Luxe platformer test ground.
 * [Isometric Experiments](https://github.com/hypertrifle/isometric-artwork-experiments): Some isometric artwork experiments.
 * [justTriangles Example](https://github.com/nanjizal/justTrianglesLuxe): Example of using the "justTriangles" vector shape generation library with Luxe.
+* [chickens](https://github.com/wimcake/chickens): Example of using Echo framework with Luxe game engine, Nape physics engine.
 
 ### Game Jams
 
