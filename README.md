@@ -95,7 +95,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * Sven Bergström: Creator of snõwkit, flõw, snõw and luxe.
  * Twitter: @__underscorediscovery
  * Github: @__underscorediscovery
- 
+
 * Nico M.: ???
  * Twitter: https://twitter.com/nico_m__
  * GithHub: ???
@@ -103,12 +103,12 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * Tilman Schmidt: ???
  * Twitter: https://twitter.com/KeyMaster_
  * Github: ???
- 
+
 * Jonathan Hirz: ???
  * Twitter: https://twitter.com/jonathanhirz
  * Github: https://github.com/jonathanhirz
  * Blog: http://jonathanhirz.com
- 
+
  Dvergar, Zielak, DJPale, Absurditure, anissen, FuzzyWuzzie
  -->
 
@@ -454,7 +454,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Physics Bodies](https://gist.github.com/KeyMaster-/4aa297d2842b03ece36b): Basic rectangles physics engine.
 * [Wave Physics](https://gist.github.com/KeyMaster-/9d6898d686c24f6f5f62): Code sample for doing wave spring physics.
 * [Image From URL](https://gist.github.com/bmfs/18caf119cfc6bfeff5fd): Example of loading an image from an URL.
-* [Loading Splash Screen](https://gist.github.com/opligr/8dede4f1fadf364eaced): A custom ParcelProgress for Luxe that shows a splash screen.
+* [Loading Splash Screen](https://gist.github.com/otapliger/ba48bf7588c8b25adeacb29b03481643): A custom ParcelProgress for Luxe that shows a splash screen.
 * [Asset Importer Macro](https://gist.github.com/kevinresol/86e2746ea8701060feb8): Macro to read and auto-import all assets from the assets path.
 * [Pixel Perfect Camera Scale](https://gist.github.com/EduardoLopes/8c835698586bd275e81e): Example of how to resize the viewport to preserve a pixel perfect camera scaling.
 * [Accelerometer](https://gist.github.com/josuigoa/bd94fdb32c2b946bdf2fed027798a893): Getting accelerometer values.
