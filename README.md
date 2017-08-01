@@ -388,6 +388,14 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Landshift](https://ldjam.com/events/ludum-dare/38/landshift): A small puzzler made about connecting roads and rivers. [Source (GitHub)](https://github.com/undefinist/ld38)
 * [MAXIMUM CLENCH](https://ldjam.com/events/ludum-dare/38/maximum-clench): A 2 player competitive mini game. [Source (GitHub)](https://github.com/hypertrifle/LD38)
 
+#### [Ludum Dare 39](https://ldjam.com/events/ludum-dare/39)
+<a href="https://ldjam.com/events/ludum-dare/39/airship-climb"><img src="https://static.jam.vg/raw/5b6/1/z/7fb5.png" width="35%"></a>
+<a href="https://ldjam.com/events/ludum-dare/39/laser-dodgy"><img src="https://static.jam.vg/raw/8cf/2/z/7167.png" width="30%"></a>
+<a href="https://ldjam.com/events/ludum-dare/39/resistance"><img src="https://raw.githubusercontent.com/azlen/LD39/master/gifs/003_island_adventure.gif" width="30%"></a>
+* [Airship Climb](https://ldjam.com/events/ludum-dare/39/airship-climb): Collect fuel to “don’t run out of climbing power”. [Source (GitHub)](https://github.com/RudenkoArts/ld39)
+* [Laser Dodgy](https://ldjam.com/events/ludum-dare/39/laser-dodgy): Run around and collect all of the little powerup squares to go through the green warp square for the next level!
+* [RESISTANCE](https://ldjam.com/events/ludum-dare/39/resistance): You play as a resistor-wielding LED fighting for energy. Fight enemies and collect batteries to keep your energy levels high. [Source (GitHub)](https://github.com/azlen/LD39)
+
 <!--
 <a href="link"><img src="picture" width="30%"></a>
 * [Title](link): Description. [Source (GitHub)](source)
