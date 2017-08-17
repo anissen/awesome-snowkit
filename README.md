@@ -396,6 +396,11 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Laser Dodgy](https://ldjam.com/events/ludum-dare/39/laser-dodgy): Run around and collect all of the little powerup squares to go through the green warp square for the next level!
 * [RESISTANCE](https://ldjam.com/events/ludum-dare/39/resistance): You play as a resistor-wielding LED fighting for energy. Fight enemies and collect batteries to keep your energy levels high. [Source (GitHub)](https://github.com/azlen/LD39)
 
+#### [LOW REZ JAM 2017](https://itch.io/jam/lowrezjam2017)
+<a href="https://jtruher.itch.io/lowrezjam2017"><img src="https://img.itch.zone/aW1hZ2UvMTY2NTQ5Lzc4MDY3OS5wbmc=/315x250%23c/%2FBzrdb.png" width="30%"></a>
+* [slower than light](https://jtruher.itch.io/lowrezjam2017): Explore your derelict ship, try to warp out of danger, or stand and fight and try not to blow up.
+
+
 <!--
 <a href="link"><img src="picture" width="30%"></a>
 * [Title](link): Description. [Source (GitHub)](source)
