@@ -400,6 +400,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="https://jtruher.itch.io/lowrezjam2017"><img src="https://img.itch.zone/aW1hZ2UvMTY2NTQ5Lzc4MDY3OS5wbmc=/315x250%23c/%2FBzrdb.png" width="30%"></a>
 * [slower than light](https://jtruher.itch.io/lowrezjam2017): Explore your derelict ship, try to warp out of danger, or stand and fight and try not to blow up.
 
+#### [Jogabili Jam 2](http://jams.gamejolt.io/jogabilijam2)
+<a href="https://gamejolt.com/games/UFO_incident/286963"><img src="https://p5b4y2t6.ssl.hwcdn.net/screenshot-thumbnail/300x2000/470941-v3.jpg" width="30%"></a>
+* [Varginha UFO Incident](https://gamejolt.com/games/UFO_incident/286963): Megaman-esque platformer.
 
 <!--
 <a href="link"><img src="picture" width="30%"></a>
