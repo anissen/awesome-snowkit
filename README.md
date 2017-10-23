@@ -211,6 +211,9 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [PaperBurger](https://github.com/sourcreme/PaperBurger): Unfinished physics-based game.
 * [Walkey-hittey](https://github.com/jonathanhirz/walkeyhittey): A Zelda-like; top-down walk about with melee combat.
 * [FCC-TicTacToe](https://github.com/desttinghim/fcc-tictactoe): TicTacToe game for Free Code Camp.
+* [TG-001](https://github.com/jonathanhirz/TG-001): Top down shooter.
+* [spaceRL](https://github.com/jonathanhirz/spaceRL): Space roguelike for mobile.
+* [Soil](https://github.com/ScottMakesGames/Soil): A multiplatform game that aims to provide a zenlike environment to cultivate and sell various plants.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
@@ -250,6 +253,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [justTriangles Example](https://github.com/nanjizal/justTrianglesLuxe): Example of using the "justTriangles" vector shape generation library with Luxe.
 * [chickens](https://github.com/wimcake/chickens): Example of using Echo framework with Luxe game engine, Nape physics engine.
 * [HKOSCon2017 Haxe Game Workshop](https://github.com/kevinresol/hkoscon2017-haxe-game): A cross-platform multiplayer agar.io clone.
+* [Kisrhombille experiments](https://github.com/hypertrifle/Kisrhombille-experiments): Kisrhombille geometry tessellation.
 
 ### Game Jams
 
