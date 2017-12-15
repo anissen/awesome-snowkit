@@ -584,6 +584,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_steam_api](https://github.com/Yanrishatum/linc_steam_api): Bindings for the [Steamworks SDK](https://partner.steamgames.com/) (work in progress).
 * [linc_uv](https://github.com/darmie/linc_uv): Bindings for [libuv](https://github.com/libuv/libuv).
 * [linc_gvr](https://github.com/kevinresol/linc_gvr): Bindings for [Google VR](https://developers.google.com/vr/) (luxe [wrapper](https://github.com/kevinresol/luxe_gvr) and [usage example](https://github.com/kevinresol/luxe-gvr-example) also available).
+* [linc_imgui](https://github.com/Aidan63/linc_imgui): Bindings for [ImGui](https://github.com/ocornut/imgui).
 
 # scrìbe resources
 
