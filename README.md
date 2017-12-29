@@ -585,6 +585,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_uv](https://github.com/darmie/linc_uv): Bindings for [libuv](https://github.com/libuv/libuv).
 * [linc_gvr](https://github.com/kevinresol/linc_gvr): Bindings for [Google VR](https://developers.google.com/vr/) (luxe [wrapper](https://github.com/kevinresol/luxe_gvr) and [usage example](https://github.com/kevinresol/luxe-gvr-example) also available).
 * [linc_imgui](https://github.com/Aidan63/linc_imgui): Bindings for [ImGui](https://github.com/ocornut/imgui).
+* [faxe](https://github.com/AaronShea/faxe): Bindings for [FMOD](https://www.fmod.com/).
 
 # scrìbe resources
 
