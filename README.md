@@ -214,6 +214,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [TG-001](https://github.com/jonathanhirz/TG-001): Top down shooter.
 * [spaceRL](https://github.com/jonathanhirz/spaceRL): Space roguelike for mobile.
 * [Soil](https://github.com/ScottMakesGames/Soil): A multiplatform game that aims to provide a zenlike environment to cultivate and sell various plants.
+* [RUSH](https://github.com/Zielak/rush): Continuation of a GBJAM 4 game.
 
 ### Examples/Experiments
 * [Kitchensink Test](https://gist.github.com/anissen/2e809b502708db273357): Compact example that demonstrates a lot of features of Luxe.
@@ -434,6 +435,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 ### Libraries
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
 * [Rainbow](https://github.com/Dvergar/rainbow): Text coloring/sizing per character.
+* [Rainbow*](https://github.com/impactfulloneliness/rainbow): Updated fork of Rainbow.
 * [Behavior Trees](https://github.com/whuop/hxbt): Behavior Tree implementation with Luxe sample.
 * [Maze Generator](https://github.com/whuop/MazeGen): Library of algorithms for generating mazes.
 * [L-System](https://github.com/whuop/L-System): Lindenmayer system for generating trees.
