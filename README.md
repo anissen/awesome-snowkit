@@ -451,8 +451,6 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [hxNoise](https://github.com/whuop/hxNoise): A collection of noise functions for Haxe. Includes Luxe examples.
 * [Luxe Atlas](https://github.com/undefinist/luxe_atlas): Runtime atlas/texture packer for Luxe.
 * [EmojiKit](https://github.com/le-doux/EmojiKit): A prototyping tool that makes it easy to use emoji in games made with Luxe engine.
-* [Rexit](https://github.com/CamperPR/Rexit): Small audio library for Luxe.
-* [YuliaDS](https://github.com/CamperPR/YuliaDS): Dialog system for Luxe.
 * [Overlap Runtime](https://github.com/sourcreme/luxeOverlapRuntime): Library for integrating [Overlap2D](http://overlap2d.com/) scenes into Luxe.
 * [Trog's Interactive Dialogue Engine](https://github.com/groebelsloot/haxe-interactive-dialogue-engine): Interactive dialogue engine made for a 2D point'n'click adventure.
 * [luxe gifcapture](https://github.com/underscorediscovery/luxe-gifcapture): A library to capture realtime gifs from luxe games.
