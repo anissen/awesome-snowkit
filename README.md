@@ -587,6 +587,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_imgui](https://github.com/Aidan63/linc_imgui): Bindings for [ImGui](https://github.com/ocornut/imgui).
 * [faxe](https://github.com/AaronShea/faxe): Bindings for [FMOD](https://www.fmod.com/).
 * [linc_kinect](https://github.com/kevinresol/linc_kinect): An example Kinect project to start a linc library.
+* [linc_bass](https://github.com/Sunjammer/linc_bass): Bindings for the [BASS](http://www.un4seen.com/) audio library.
 
 # scrìbe resources
 
