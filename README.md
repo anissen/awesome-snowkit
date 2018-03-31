@@ -588,6 +588,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [faxe](https://github.com/AaronShea/faxe): Bindings for [FMOD](https://www.fmod.com/).
 * [linc_kinect](https://github.com/kevinresol/linc_kinect): An example Kinect project to start a linc library.
 * [linc_bass](https://github.com/Sunjammer/linc_bass): Bindings for the [BASS](http://www.un4seen.com/) audio library.
+* [linc_cegui](https://github.com/Sunjammer/linc_cegui): Bindings for [CEGUI](http://cegui.org.uk/).
 
 # scrìbe resources
 
