@@ -151,6 +151,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [GPU-Fluid-Experiments](https://github.com/haxiomic/GPU-Fluid-Experiments/tree/snow): Cross-platform GPU fluid simulation.
 * [snow-8](https://github.com/FuzzyWuzzie/snow-8): A CHIP-8 emulator.
 * [snowhxt](https://github.com/underscorediscovery/snowhxt): A convenience for using hxtelemetry with flow/snow based apps quickly.
+* [ceramic](https://github.com/ceramic-engine/ceramic): Minimal and portable cross-platform 2D game/multimedia engine.
 
 # luxe resources
 
