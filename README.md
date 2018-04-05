@@ -591,6 +591,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_bass](https://github.com/Sunjammer/linc_bass): Bindings for the [BASS](http://www.un4seen.com/) audio library.
 * [linc_cegui](https://github.com/Sunjammer/linc_cegui): Bindings for [CEGUI](http://cegui.org.uk/).
 * [linc_glfw](https://github.com/Sunjammer/linc_glfw): Bindings for [GLFW](http://www.glfw.org/).
+* [linc_tinyosc](https://github.com/Sunjammer/linc_tinyosc): Bindings for [tinyosc](https://github.com/mhroth/tinyosc) (Open Sound Control library).
 
 # scrìbe resources
 
