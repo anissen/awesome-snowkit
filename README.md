@@ -410,6 +410,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="https://gamejolt.com/games/UFO_incident/286963"><img src="https://p5b4y2t6.ssl.hwcdn.net/screenshot-thumbnail/300x2000/470941-v3.jpg" width="30%"></a>
 * [Varginha UFO Incident](https://gamejolt.com/games/UFO_incident/286963): Megaman-esque platformer.
 
+#### [Summer Slow Jams June 2018](https://itch.io/jam/ssjminigames)
+<a href="https://jtruher.itch.io/ssj-june-2018"><img src="https://img.itch.zone/aW1hZ2UvMjczMjUwLzEzMjg4NTAucG5n/315x250%23c/0qkOEe.png" width="30%"></a>
+* [The World Is Alive(?)](https://jtruher.itch.io/ssj-june-2018): A silly little game about a dormant, recovering world.
+
 <!--
 <a href="link"><img src="picture" width="30%"></a>
 * [Title](link): Description. [Source (GitHub)](source)
