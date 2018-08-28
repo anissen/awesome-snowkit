@@ -598,6 +598,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_tinyosc](https://github.com/Sunjammer/linc_tinyosc): Bindings for [tinyosc](https://github.com/mhroth/tinyosc) (Open Sound Control library).
 * [linc_lua](https://github.com/kevinresol/linc_lua): Bindings for [Lua](https://www.lua.org/).
 * [linc_duktape](https://github.com/troyedwardsjr/linc_duktape): Bindings for [Duktape](http://duktape.org/).
+* [linc_directx](https://github.com/Aidan63/linc_directx): Bindings for DXGI, D3D11, and D3DCompiler.
 
 # scrìbe resources
 
