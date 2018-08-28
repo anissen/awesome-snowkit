@@ -414,6 +414,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 <a href="https://jtruher.itch.io/ssj-june-2018"><img src="https://img.itch.zone/aW1hZ2UvMjczMjUwLzEzMjg4NTAucG5n/315x250%23c/0qkOEe.png" width="30%"></a>
 * [The World Is Alive(?)](https://jtruher.itch.io/ssj-june-2018): A silly little game about a dormant, recovering world.
 
+#### [Summer Slow Jams August 2018: Parody Games](https://itch.io/jam/ssjparody)
+<a href="https://jtruher.itch.io/pongish"><img src="https://img.itch.zone/aW1hZ2UvMTc0MzQ2LzE0NTYwMTcucG5n/315x250%23c/bnDunT.png" width="30%"></a>
+* [Pongish](https://jtruher.itch.io/pongish): It's Pong, sort of!  You can't actually miss, though, because the ball always seeks the player.
+
 <!--
 <a href="link"><img src="picture" width="30%"></a>
 * [Title](link): Description. [Source (GitHub)](source)
