@@ -603,6 +603,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_lua](https://github.com/kevinresol/linc_lua): Bindings for [Lua](https://www.lua.org/).
 * [linc_duktape](https://github.com/troyedwardsjr/linc_duktape): Bindings for [Duktape](http://duktape.org/).
 * [linc_directx](https://github.com/Aidan63/linc_directx): Bindings for DXGI, D3D11, and D3DCompiler.
+* [linc_yoga](https://github.com/darmie/linc_yoga): Bindings for the [Yoga](https://yogalayout.com/) layout engine.
 
 # scrìbe resources
 
