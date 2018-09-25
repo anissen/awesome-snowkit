@@ -464,9 +464,10 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [Trog's Interactive Dialogue Engine](https://github.com/groebelsloot/haxe-interactive-dialogue-engine): Interactive dialogue engine made for a 2D point'n'click adventure.
 * [luxe gifcapture](https://github.com/underscorediscovery/luxe-gifcapture): A library to capture realtime gifs from luxe games.
 * [oni](https://github.com/impactfulloneliness/Oni): A text implementation supporting animations and colors.
-* [clay](https://github.com/RudenkoArts/clay): ECS systems and nodes for Luxe.
+* [clay](https://github.com/RudenkoArts/clay): Entity-Component System and nodes for Luxe.
 * [Gamepad Haxe](https://github.com/josuigoa/Gamepad-Haxe): Simulates an analog joystick input using the keyboard. Support for different engines, e.g. luxe.
 * [sparkler](https://github.com/RudenkoArts/sparkler): Modular particle system for Luxe.
+* [ecs](https://github.com/kevinresol/ecs): Experimental macro-powered Entity-Component-System game engine. Includes luxe sample game.
 
 ### Components
 * [Gradient](https://gist.github.com/AbelToy/6e28392bc0bec79876d5): Gradient component for Luxe.
