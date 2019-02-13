@@ -441,6 +441,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [AdventurEd](https://github.com/le-doux/AdventurEd): Level editor for an adventure game.
 * [Map Generator](https://github.com/zollenz/map-generator): A 2D map generator made with the Luxe Engine.
 * [Assetpacker](https://github.com/underscorediscovery/luxe-assetpacker): A visual asset packing tool for creating bundles of assets.
+* [LuxeTrackCreator](https://github.com/Aidan63/LuxeTrackCreator): Track editor created in Haxe using the Luxe engine.
 
 ### Libraries
 * [Gesluxe](https://github.com/josuigoa/Gesluxe): Gesture library.
