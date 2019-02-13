@@ -152,6 +152,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [snow-8](https://github.com/FuzzyWuzzie/snow-8): A CHIP-8 emulator.
 * [snowhxt](https://github.com/underscorediscovery/snowhxt): A convenience for using hxtelemetry with flow/snow based apps quickly.
 * [ceramic](https://github.com/ceramic-engine/ceramic): Minimal and portable cross-platform 2D game/multimedia engine.
+* [Flurry](https://github.com/Aidan63/Flurry): 2D focused, cross-platform Haxe game engine with multiple rendering backends (built on top of snow).
 
 # luxe resources
 
@@ -604,7 +605,8 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_tinyosc](https://github.com/Sunjammer/linc_tinyosc): Bindings for [tinyosc](https://github.com/mhroth/tinyosc) (Open Sound Control library).
 * [linc_lua](https://github.com/kevinresol/linc_lua): Bindings for [Lua](https://www.lua.org/).
 * [linc_duktape](https://github.com/troyedwardsjr/linc_duktape): Bindings for [Duktape](http://duktape.org/).
-* [linc_directx](https://github.com/Aidan63/linc_directx): Bindings for DXGI, D3D11, and D3DCompiler.
+* [linc_opengl](https://github.com/Aidan63/linc_opengl): Bindings for DXGI, D3D11, and D3DCompiler.
+* [linc_directx](https://github.com/Aidan63/linc_directx): Bindings for OpenGL (fork).
 * [linc_yoga](https://github.com/darmie/linc_yoga): Bindings for the [Yoga](https://yogalayout.com/) layout engine.
 * [linc_assimp](https://github.com/Sunjammer/linc_assimp): Bindings for the [Open Asset Import Library](https://github.com/assimp/assimp).
 * [linc_rocket](https://github.com/Sunjammer/linc_rocket): Bindings for the [Rocket](https://github.com/rocket/rocket/) sync-tracker library.
