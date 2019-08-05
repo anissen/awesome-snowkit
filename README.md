@@ -615,6 +615,7 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [linc_syslog](https://github.com/emugel/linc_syslog): Bindings for the `syslog` utility on Unix-based systems.
 * [wrenegade](https://github.com/darmie/wrenegade): Bindings for the [Wren](http://wren.io/) scripting language.
 * [linc_vulkan](https://github.com/darmie/linc_vulkan): Bindings for the [Vulkan](https://www.khronos.org/vulkan/) API.
+* [linc_theorafile](https://github.com/delahee/linc_theorafile): Bindings for the [Theora](https://www.theora.org/) video compression format.
 
 # scrìbe resources
 
