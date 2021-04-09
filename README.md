@@ -616,6 +616,11 @@ A curated list of resources for the [snõwkit](http://snowkit.org/) collective.
 * [wrenegade](https://github.com/darmie/wrenegade): Bindings for the [Wren](http://wren.io/) scripting language.
 * [linc_vulkan](https://github.com/darmie/linc_vulkan): Bindings for the [Vulkan](https://www.khronos.org/vulkan/) API.
 * [linc_theorafile](https://github.com/delahee/linc_theorafile): Bindings for the [Theora](https://www.theora.org/) video compression format.
+* [linc_opus](https://github.com/darmie/linc_opus): Bindings for the [opus](https://github.com/xiph/opus) web audio compression library.
+* [linc_skeleton](https://github.com/darmie/linc_skeleton): A library for reading and writing Ogg Skeleton data.
+* [linc_vpx](https://github.com/darmie/linc_vpx): Bindings for libvpx.
+* [linc_nestegg](https://github.com/darmie/linc_nestegg): Bindings for the [nestegg](https://github.com/mozilla/nestegg) WebM demuxer.
+* [linc_oggz](https://github.com/darmie/linc_oggz): Bindings for the [oggz](https://github.com/kfish/liboggz) Ogg library.
 
 # scrìbe resources
 
